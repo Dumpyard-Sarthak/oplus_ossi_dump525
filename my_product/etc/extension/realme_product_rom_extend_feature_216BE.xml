@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<extend_features>
+
+    <!-- userid 321024, Move DC to DevelopmentSettings for Ferrari -->
+    <app_feature name="com.android.settings.move_dc_to_develop"/>
+</extend_features>

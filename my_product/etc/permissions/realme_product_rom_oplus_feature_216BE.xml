@@ -1,0 +1,6 @@
+<oplus-config>
+
+    <oplus-feature name="oplus.software.support.gt.mode"/>
+    <oplus-feature name="oplus.software.display.screen_heteromorphism.not_adaptable" />
+    <oplus-feature name="oplus.software.dark_mode_style"/>
+</oplus-config>

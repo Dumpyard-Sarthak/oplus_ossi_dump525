@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RFTOOLKIT>
+    <TestCase mode="QtTest, Expert, Factory">
+        <RAT name="NR5G">
+             <Band type="80"></Band>
+             <Band type="81"></Band>
+             <Band type="83"></Band>
+             <Band type="84"></Band>
+        </RAT>
+        <RAT name="CDMA">
+             <Band type="Any"></Band>
+        </RAT>
+    </TestCase>
+    <TestCase mode="CustomService, Diagnostic">
+        <RAT name="NR5G">
+             <Band type="80"></Band>
+             <Band type="81"></Band>
+             <Band type="83"></Band>
+             <Band type="84"></Band>
+        </RAT>
+        <RAT name="CDMA">
+            <Band type="Any"></Band>
+        </RAT>
+    </TestCase>
+</RFTOOLKIT>

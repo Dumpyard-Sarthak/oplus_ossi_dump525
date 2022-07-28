@@ -1,0 +1,246 @@
+{
+    "default": {
+        "feature_motor_enable": false,
+        "feature_aps_enable": true,
+        "feature_auth_enable": true,
+        "feature_rio_enable": true,
+        "feature_3a_enable": true,
+        "feature_cts_enable": true,
+        "feature_government_enalbe": true,
+        "feature_sound_enable": true,
+        "feature_flash_enable": true,
+        "needlimitSizeForSurface": false,
+        "feature_resolution_enable": true,
+        "feature_fps_enable": true,
+        "feature_evication_enable":  true,
+        "feature_fov_enable": true,
+        "skip_rus_check_list": [
+            "android.camera.cts",
+            "android",
+            "com.oppo.engineermode.camera"
+        ],
+        "disable_camera_shutter_sound_app_list": [
+            "com.facebook.orca",
+            "com.android.contacts",
+            "com.instagram.android",
+            "com.facebook.katana"
+        ],
+        "limitSizeListForCts": [
+            4000,
+            3008,
+            4000,
+            3000,
+            3840,
+            2160,
+            3000,
+            3000,
+            3264,
+            2448,
+            2880,
+            2160,
+            2592,
+            1944,
+            3280,
+            2464,
+            2560,
+            1440,
+            2328,
+            1748,
+            2160,
+            1080,
+            1920,
+            1080,
+            1600,
+            1200,
+            1440,
+            1080,
+            1280,
+            960,
+            1280,
+            720,
+            1080,
+            1080,
+            640,
+            640,
+            720,
+            480,
+            640,
+            480,
+            352,
+            288,
+            320,
+            240,
+            176,
+            144,
+            0,
+            0
+        ],
+        "limitThumbnailSizeListForCts": [
+            0,
+            0,
+            176,
+            144,
+            213,
+            160,
+            240,
+            144,
+            256,
+            144,
+            240,
+            160,
+            256,
+            154,
+            246,
+            184,
+            250,
+            188,
+            352,
+            160,
+            240,
+            240,
+            400,
+            180,
+            320,
+            240,
+            375,
+            282
+        ],
+    },
+        "com.tencent.zebra": {
+        "feature_resolution_enable": true,
+        "previewSizeForAPI1Width": 1920,
+        "previewSizeForAPI1Height": 1080
+    },
+    "com.marykay.vmo.my": {
+        "feature_resolution_enable": true,
+        "previewSizeForAPI1Width": 1920,
+        "previewSizeForAPI1Height": 1080
+    },
+    "net.one97.paytm": {
+        "feature_resolution_enable": true,
+        "previewSizeForAPI1Width": 1920,
+        "previewSizeForAPI1Height": 1080
+    },
+    "im.thebot.messenger": {
+        "feature_resolution_enable": true,
+        "previewSizeForAPI1Width": 1920,
+        "previewSizeForAPI1Height": 1080
+    },
+    "com.alibaba.android.rimet": {
+        "feature_resolution_enable": true,
+        "previewSizeForAPI1Width": 1920,
+        "previewSizeForAPI1Height": 1080
+    },
+    "com.kufeng.hj.enjoy": {
+        "feature_resolution_enable": true,
+        "previewSizeForAPI1Height": 1080
+    },
+    "com.happyelements.AndroidAnimal": {
+        "app_enable_rio": true,
+        "thirdPartyAppLimitPicture": true,
+        "checkToAddPreviewCallbackForAPI1": true,
+        "thirdPartyAppWidthLimitForCam1API1": 1280,
+        "thirdPartyAppHeightLimitForCam1API1": 720,
+        "resolutionFilterForNotAddSizeAPI1":[
+            "960x544",
+            "640x480",
+            "320x240",
+            "192x108",
+            "160x96"
+        ]
+    },
+    "com.instagram.android": {
+        "checkToAddPreviewCallbackForAPI1": true
+    },
+    "cn.easyar.sightplus": {
+        "checkToAddPreviewCallbackForAPI1": true
+    },
+    "vStudio.Android.Camera360": {
+        "checkToAddPreviewCallbackForAPI1": true
+    },
+    "com.asiainno.uplive": {
+        "checkToAddPreviewCallbackForAPI1": true
+    },
+    "sweet.selfie.lite": {
+        "checkToAddPreviewCallbackForAPI1": true
+    },
+    "com.qiyi.video": {
+        "checkToAddPreviewCallbackForAPI1": true
+    },
+    "com.taobao.taobao": {
+        "checkToAddPreviewCallbackForAPI1": true
+    },
+    "com.netease.cloudmusic": {
+        "checkToAddPreviewCallbackForAPI1": true
+    },
+    "com.xvideostudio.videoeditor": {
+        "checkToAddPreviewCallbackForAPI1": true
+    },
+    "com.dingYZ.dingyzwater": {
+        "checkToAddPreviewCallbackForAPI1": true
+    },
+    "com.whatsapp": {
+        "feature_flash_enable": true
+    },
+    "com.whatsapp.w4b": {
+        "feature_flash_enable": true
+    },
+    "com.facebook.orca": {
+        "feature_flash_enable": true
+    },
+    "com.snapchat.android": {
+        "feature_flash_enable": true
+    },
+    "com.skype.raider": {
+        "feature_flash_enable": true
+    },
+    "com.imo.android.imoim": {
+        "adjustPreviewFpsForAPI1": true,
+        "needLimitFpsForAPI1": true
+    },
+    "org.codeaurora.ims": {
+        "isFreeDomEvictionPackge": true
+    },
+    "android": {
+        "isFreeDomEvictionPackge": true
+    },
+    "android.camera.cts": {
+        "resolutionFilterForNotAddSizeAPI1": [
+            "4608x3456",
+            "4160x3120",
+            "4160x2340",
+            "4096x2304",
+            "4096x2160",
+            "4096x1834",
+            "4000x2250",
+            "4000x1790",
+            "3840x1644",
+            "3456x2592",
+            "3328x2496",
+            "3216x1440",
+            "2752x2064",
+            "2688x1512",
+            "2592x1940",
+            "2592x1458",
+            "2592x1232",
+            "2592x1196",
+            "2560x1920",
+            "2520x1080",
+            "2412x1080",
+            "2376x1080",
+            "2304x1728",
+            "2304x1296",
+            "1920x1440",
+            "1920x864",
+            "1920x860",
+            "1608x720",
+            "1600x800",
+            "1600x720",
+            "1206x540",
+            "1204x768",
+            "864x480",
+            "804x360"
+        ]
+    }
+}
+

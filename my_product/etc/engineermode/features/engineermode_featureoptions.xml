@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<features>
+    <feature name="com.oplus.eng.wireless.test.assistant.code.animation.support" />
+    <feature name="com.oplus.eng.sar.body" value="0.936"/>
+    <feature name="com.oplus.eng.sar.head" value="1.191"/>
+</features>

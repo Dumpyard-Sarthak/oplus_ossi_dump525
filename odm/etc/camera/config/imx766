@@ -1,0 +1,2906 @@
+[
+
+{
+  "Key": "NORMAL_RAWHDR_OUTDOOR_ISO",
+  "Value": "160"
+},
+
+{
+  "Key": "NORMAL_RAWHDR_OUTDOOR_FACE_ISO",
+  "Value": "250"
+},
+
+{
+  "Key": "NORMAL_RAWHDR_INDOOR_ISO",
+  "Value": "400"
+},
+
+{
+  "Key": "NORMAL_RAWHDR_INDOOR_FACE_ISO",
+  "Value": "500"
+},
+
+{
+  "Key": "REAR_LOWLIGHT_YUVHDR_ISO",
+  "Value": "1600"
+},
+
+{
+  "Key": "REAR_LOWLIGHT_MFNR_ISO",
+  "Value": "2000"
+},
+
+{
+  "Key": "NIGHT_SCENE_LUX_INDEX_NIGHT_MIN",
+  "Value": "430"
+},
+
+{
+  "Key": "NIGHT_SCENE_LUX_INDEX_NIGHT_MAX",
+  "Value": "700"
+},
+
+{
+  "Key": "NIGHT_SCENE_LUX_INDEX_NIGHT_1S",
+  "Value": "520"
+},
+
+{
+  "Key": "NIGHT_SCENE_SENSOR_BAYER_PATTERN",
+  "Value": "6"
+},
+
+{
+  "Key": "NIGHT_SCENE_CAMERA_MODE",
+  "Value": "1457"
+},
+
+{
+  "Key": "NIGHT_AI_PURERAW_ENABLE_LSC",
+  "Value": "1"
+},
+
+{
+  "Key": "BOKEH_ROTATION_VALUE",
+  "Value": "180"
+},
+
+{
+  "Key": "SENSOR_PHYSICAL_ID",
+  "Value": "0"
+},
+
+{
+  "Key": "NORMAL_SCENE_ISO_AINR_TRRIGGER",
+  "Value": "1600.00"
+},
+
+{
+  "Key": "STREET_SCENE_ISO_AINR_TRRIGGER",
+  "Value": "1600.00"
+},
+
+{
+  "Key": "AISHUTTER_SCENE_ISO_AINR_TRRIGGER",
+  "Value": "4200.00"
+},
+
+{
+  "Key": "LONG_EXPOSURE_PURE_RAW",
+  "Value": "1"
+},
+
+{
+  "Key": "SUPERNIGHT_SCENE_ISO_AINR_TRIGGER",
+  "Value": "2000"
+},
+
+{
+  "VendorTag": "aps.params.snapshot.hdr",
+  "Type": "Float",
+  "Count": "102",
+  "Value": "
+            0 /* needNcf */,
+
+            10 /*isoZoneNumber*/
+
+            /*index0*/,
+            12800/*iso*/, 200/*LuminDenoiseLevel*/, 250/*ColorDenoiseLevel*/, 100/*SharpLevel*/, 0/*RingNoiseLevel*/,
+            15/*ToneLength*/, 0/*Brightness*/, 2/*Saturation*/, 2/*SceneType*/, 60/*Contrast*/
+
+            /*index1*/,
+            9600/*iso*/, 200/*LuminDenoiseLevel*/, 200/*ColorDenoiseLevel*/, 100/*SharpLevel*/, 0/*RingNoiseLevel*/,
+            15/*ToneLength*/, 0/*Brightness*/, 2/*Saturation*/, 2/*SceneType*/, 60/*Contrast*/
+
+            /*index2*/,
+            6400/*iso*/, 150/*LuminDenoiseLevel*/, 200/*ColorDenoiseLevel*/, 100/*SharpLevel*/, 0/*RingNoiseLevel*/,
+            15/*ToneLength*/, 0/*Brightness*/, 2/*Saturation*/, 2/*SceneType*/, 50/*Contrast*/
+
+            /*index3*/,
+            3200/*iso*/, 18/*LuminDenoiseLevel*/, 200/*ColorDenoiseLevel*/, 80/*SharpLevel*/, 0/*RingNoiseLevel*/,
+            15/*ToneLength*/, -12/*Brightness*/, 4/*Saturation*/, 0/*SceneType*/, 50/*Contrast*/
+
+            /*index4*/,
+            1600/*iso*/, 12/*LuminDenoiseLevel*/, 150/*ColorDenoiseLevel*/, 50/*SharpLevel*/, 0/*RingNoiseLevel*/,
+            15/*ToneLength*/, -10/*Brightness*/, 7/*Saturation*/, 0/*SceneType*/, 50/*Contrast*/
+
+            /*index5*/,
+            800/*iso*/, 8/*LuminDenoiseLevel*/, 100/*ColorDenoiseLevel*/, 40/*SharpLevel*/, 0/*RingNoiseLevel*/,
+            15/*ToneLength*/, -8/*Brightness*/, 8/*Saturation*/, 0/*SceneType*/, 50/*Contrast*/
+
+            /*index6*/,
+            400/*iso*/, 4/*LuminDenoiseLevel*/, 80/*ColorDenoiseLevel*/, 30/*SharpLevel*/, 0/*RingNoiseLevel*/,
+            15/*ToneLength*/, -8/*Brightness*/, 8/*Saturation*/, 0/*SceneType*/, 50/*Contrast*/
+
+            /*index7*/,
+            200/*iso*/, 2/*LuminDenoiseLevel*/, 55/*ColorDenoiseLevel*/, 20/*SharpLevel*/, 0/*RingNoiseLevel*/,
+            15/*ToneLength*/, -6/*Brightness*/, 8/*Saturation*/, 0/*SceneType*/, 50/*Contrast*/
+
+            /*index8*/,
+            100/*iso*/, 1/*LuminDenoiseLevel*/, 40/*ColorDenoiseLevel*/, 15/*SharpLevel*/, 0/*RingNoiseLevel*/,
+            15/*ToneLength*/, -6/*Brightness*/, 8/*Saturation*/, 0/*SceneType*/, 50/*Contrast*/
+
+            /*index9*/,
+            0/*iso*/, 0/*LuminDenoiseLevel*/, 25/*ColorDenoiseLevel*/, 15/*SharpLevel*/, 0/*RingNoiseLevel*/,
+            15/*ToneLength*/, -6/*Brightness*/, 8/*Saturation*/, 0/*SceneType*/, 50/*Contrast*/
+            ",
+  "Comment": "arcsoft_hdr_sensor_param_t"
+},
+
+{
+  "VendorTag": "aps.params.snapshot.hdr.face",
+  "Type": "Float",
+  "Count": "102",
+  "Value": "
+            0 /* needNcf */,
+
+            10 /*isoZoneNumber*/
+
+            /*index0*/,
+            12800/*iso*/, 200/*LuminDenoiseLevel*/, 250/*ColorDenoiseLevel*/, 100/*SharpLevel*/, 0/*RingNoiseLevel*/,
+            15/*ToneLength*/, 0/*Brightness*/, 2/*Saturation*/, 2/*SceneType*/, 60/*Contrast*/
+
+            /*index1*/,
+            9600/*iso*/, 200/*LuminDenoiseLevel*/, 200/*ColorDenoiseLevel*/, 100/*SharpLevel*/, 0/*RingNoiseLevel*/,
+            15/*ToneLength*/, 0/*Brightness*/, 2/*Saturation*/, 2/*SceneType*/, 60/*Contrast*/
+
+            /*index2*/,
+            6400/*iso*/, 150/*LuminDenoiseLevel*/, 200/*ColorDenoiseLevel*/, 100/*SharpLevel*/, 0/*RingNoiseLevel*/,
+            15/*ToneLength*/, 0/*Brightness*/, 2/*Saturation*/, 2/*SceneType*/, 50/*Contrast*/
+
+            /*index3*/,
+            3200/*iso*/, 18/*LuminDenoiseLevel*/, 200/*ColorDenoiseLevel*/, 80/*SharpLevel*/, 0/*RingNoiseLevel*/,
+            15/*ToneLength*/, -12/*Brightness*/, 4/*Saturation*/, 0/*SceneType*/, 50/*Contrast*/
+
+            /*index4*/,
+            1600/*iso*/, 12/*LuminDenoiseLevel*/, 150/*ColorDenoiseLevel*/, 50/*SharpLevel*/, 0/*RingNoiseLevel*/,
+            15/*ToneLength*/, -8/*Brightness*/, 3/*Saturation*/, 0/*SceneType*/, 50/*Contrast*/
+
+            /*index5*/,
+            800/*iso*/, 8/*LuminDenoiseLevel*/, 100/*ColorDenoiseLevel*/, 40/*SharpLevel*/, 0/*RingNoiseLevel*/,
+            15/*ToneLength*/, -8/*Brightness*/, 3/*Saturation*/, 0/*SceneType*/, 50/*Contrast*/
+
+            /*index6*/,
+            400/*iso*/, 4/*LuminDenoiseLevel*/, 80/*ColorDenoiseLevel*/, 30/*SharpLevel*/, 0/*RingNoiseLevel*/,
+            15/*ToneLength*/, -8/*Brightness*/, 3/*Saturation*/, 0/*SceneType*/, 50/*Contrast*/
+
+            /*index7*/,
+            200/*iso*/, 2/*LuminDenoiseLevel*/, 55/*ColorDenoiseLevel*/, 20/*SharpLevel*/, 0/*RingNoiseLevel*/,
+            15/*ToneLength*/, -5/*Brightness*/, 3/*Saturation*/, 0/*SceneType*/, 50/*Contrast*/
+
+            /*index8*/,
+            100/*iso*/, 1/*LuminDenoiseLevel*/, 40/*ColorDenoiseLevel*/, 15/*SharpLevel*/, 0/*RingNoiseLevel*/,
+            15/*ToneLength*/, -4/*Brightness*/, 3/*Saturation*/, 0/*SceneType*/, 50/*Contrast*/
+
+            /*index9*/,
+            0/*iso*/, 0/*LuminDenoiseLevel*/, 25/*ColorDenoiseLevel*/, 15/*SharpLevel*/, 0/*RingNoiseLevel*/,
+            15/*ToneLength*/, -4/*Brightness*/, 3/*Saturation*/, 0/*SceneType*/, 50/*Contrast*/
+            ",
+  "Comment": "arcsoft_hdr_sensor_param_t"
+},
+
+{
+  "VendorTag": "aps.params.snapshot.couplehdr",
+  "Type": "Float",
+  "Count": "103",
+  "Value": "
+            0 /* needNcf */,
+
+            10 /*isoZoneNumber*/,
+
+            1 /*denoiseEnable*/
+
+            /*index0*/,
+            6400/*iso*/, 50/*LuminDenoiseLevel*/, 20/*ColorDenoiseLevel*/, 50/*SharpLevel*/, 0/*RingNoiseLevel*/,
+            550/*lux*/,   15/*ToneLength*/, 2/*Brightness*/, 0/*Saturation*/, 2/*SceneType*/
+
+            /*index1*/,
+            4000/*iso*/, 50/*LuminDenoiseLevel*/, 20/*ColorDenoiseLevel*/, 50/*SharpLevel*/, 0/*RingNoiseLevel*/,
+            550/*lux*/,   15/*ToneLength*/, 2/*Brightness*/, 0/*Saturation*/, 2/*SceneType*/
+
+            /*index2*/,
+            3200/*iso*/, 50/*LuminDenoiseLevel*/, 20/*ColorDenoiseLevel*/, 50/*SharpLevel*/, 0/*RingNoiseLevel*/,
+            550/*lux*/,   15/*ToneLength*/, 2/*Brightness*/, 0/*Saturation*/, 2/*SceneType*/
+
+            /*index3*/,
+            2000/*iso*/, 50/*LuminDenoiseLevel*/, 20/*ColorDenoiseLevel*/, 50/*SharpLevel*/, 0/*RingNoiseLevel*/,
+            550/*lux*/,   15/*ToneLength*/, 2/*Brightness*/, 0/*Saturation*/, 2/*SceneType*/
+
+            /*index4*/,
+            1600/*iso*/, 50/*LuminDenoiseLevel*/, 20/*ColorDenoiseLevel*/, 50/*SharpLevel*/, 0/*RingNoiseLevel*/,
+            350/*lux*/,   15/*ToneLength*/, 2/*Brightness*/, 0/*Saturation*/, 2/*SceneType*/
+
+            /*index5*/,
+            1000/*iso*/, 50/*LuminDenoiseLevel*/, 20/*ColorDenoiseLevel*/, 50/*SharpLevel*/, 0/*RingNoiseLevel*/,
+            300/*lux*/,   15/*ToneLength*/, 2/*Brightness*/, 0/*Saturation*/, 2/*SceneType*/
+
+            /*index6*/,
+            640/*iso*/, 50/*LuminDenoiseLevel*/, 20/*ColorDenoiseLevel*/, 50/*SharpLevel*/, 0/*RingNoiseLevel*/,
+            250/*lux*/,   15/*ToneLength*/, 2/*Brightness*/, 0/*Saturation*/, 1/*SceneType*/
+
+            /*index7*/,
+            320/*iso*/, 50/*LuminDenoiseLevel*/, 20/*ColorDenoiseLevel*/, 50/*SharpLevel*/, 0/*RingNoiseLevel*/,
+            200/*lux*/,   15/*ToneLength*/, 2/*Brightness*/, 0/*Saturation*/, 1/*SceneType*/
+
+            /*index8*/,
+            160/*iso*/, 50/*LuminDenoiseLevel*/, 20/*ColorDenoiseLevel*/, 50/*SharpLevel*/, 0/*RingNoiseLevel*/,
+            150/*lux*/,   15/*ToneLength*/, 2/*Brightness*/, 0/*Saturation*/, 0/*SceneType*/
+
+            /*index9*/,
+            0/*iso*/, 50/*LuminDenoiseLevel*/, 20/*ColorDenoiseLevel*/, 50/*SharpLevel*/, 0/*RingNoiseLevel*/,
+            0/*lux*/,   15/*ToneLength*/, 2/*Brightness*/, 0/*Saturation*/, 0/*SceneType*/
+            ",
+  "Comment": "arcsoft_couplehdr_sensor_param_t"
+},
+
+{
+  "VendorTag": "aps.params.snapshot.couplehdr.face",
+  "Type": "Float",
+  "Count": "103",
+  "Value": "
+            0 /* needNcf */,
+
+            10 /*isoZoneNumber*/,
+
+            1 /*denoiseEnable*/
+
+            /*index0*/,
+            6400/*iso*/, 50/*LuminDenoiseLevel*/, 20/*ColorDenoiseLevel*/, 50/*SharpLevel*/, 0/*RingNoiseLevel*/,
+            550/*lux*/,   15/*ToneLength*/, 2/*Brightness*/, 0/*Saturation*/, 2/*SceneType*/
+
+            /*index1*/,
+            4000/*iso*/, 50/*LuminDenoiseLevel*/, 20/*ColorDenoiseLevel*/, 50/*SharpLevel*/, 0/*RingNoiseLevel*/,
+            550/*lux*/,   15/*ToneLength*/, 2/*Brightness*/, 0/*Saturation*/, 2/*SceneType*/
+
+            /*index2*/,
+            3200/*iso*/, 50/*LuminDenoiseLevel*/, 20/*ColorDenoiseLevel*/, 50/*SharpLevel*/, 0/*RingNoiseLevel*/,
+            550/*lux*/,   15/*ToneLength*/, 2/*Brightness*/, 0/*Saturation*/, 2/*SceneType*/
+
+            /*index3*/,
+            2000/*iso*/, 50/*LuminDenoiseLevel*/, 20/*ColorDenoiseLevel*/, 50/*SharpLevel*/, 0/*RingNoiseLevel*/,
+            550/*lux*/,   15/*ToneLength*/, 2/*Brightness*/, 0/*Saturation*/, 2/*SceneType*/
+
+            /*index4*/,
+            1600/*iso*/, 50/*LuminDenoiseLevel*/, 20/*ColorDenoiseLevel*/, 50/*SharpLevel*/, 0/*RingNoiseLevel*/,
+            350/*lux*/,   15/*ToneLength*/, 2/*Brightness*/, 0/*Saturation*/, 2/*SceneType*/
+
+            /*index5*/,
+            1000/*iso*/, 50/*LuminDenoiseLevel*/, 20/*ColorDenoiseLevel*/, 50/*SharpLevel*/, 0/*RingNoiseLevel*/,
+            300/*lux*/,   15/*ToneLength*/, 2/*Brightness*/, 0/*Saturation*/, 2/*SceneType*/
+
+            /*index6*/,
+            640/*iso*/, 50/*LuminDenoiseLevel*/, 20/*ColorDenoiseLevel*/, 50/*SharpLevel*/, 0/*RingNoiseLevel*/,
+            250/*lux*/,   15/*ToneLength*/, 2/*Brightness*/, 0/*Saturation*/, 1/*SceneType*/
+
+            /*index7*/,
+            320/*iso*/, 50/*LuminDenoiseLevel*/, 20/*ColorDenoiseLevel*/, 50/*SharpLevel*/, 0/*RingNoiseLevel*/,
+            200/*lux*/,   15/*ToneLength*/, 2/*Brightness*/, 0/*Saturation*/, 1/*SceneType*/
+
+            /*index8*/,
+            160/*iso*/, 50/*LuminDenoiseLevel*/, 20/*ColorDenoiseLevel*/, 50/*SharpLevel*/, 0/*RingNoiseLevel*/,
+            150/*lux*/,   15/*ToneLength*/, 2/*Brightness*/, 0/*Saturation*/, 0/*SceneType*/
+
+            /*index9*/,
+            0/*iso*/, 50/*LuminDenoiseLevel*/, 20/*ColorDenoiseLevel*/, 50/*SharpLevel*/, 0/*RingNoiseLevel*/,
+            0/*lux*/,   15/*ToneLength*/, 2/*Brightness*/, 0/*Saturation*/, 0/*SceneType*/
+            ",
+  "Comment": "arcsoft_couplehdr_sensor_param_t"
+},
+
+{
+  "Key": "NORMAL_SCENE_LUX_INDEX_AINR_TRRIGGER",
+  "Value": "450.00"
+},
+
+{
+  "Key": "CFR_ISO_TRRIGGER",
+  "Value": "500",
+  "Comment": "iso trrigger for cfr"
+},
+
+{
+  "Key": "CFR_HDRSCOPE_TRRIGGER",
+  "Value": "30",
+  "Comment": "hdrscope trrigger for cfr"
+},
+
+{
+  "VendorTag": "aps.params.bokeh.llhdr.neon.lightSpotStrength",
+  "Type": "Int32",
+  "Count": "2",
+  "Value": "120 /*outdoor*/,
+            120 /*night*/"
+},
+
+{
+  "VendorTag": "aps.params.bokeh.llhdr.neon.trigerLightSpotBright",
+  "Type": "Int32",
+  "Count": "2",
+  "Value": "5 /*outdoor*/,
+            5 /*night*/"
+},
+
+{
+  "VendorTag": "aps.params.bokeh.llhdr.neon.lightSpotSaturation",
+  "Type": "Float",
+  "Count": "2",
+  "Value": "4 /*outdoor*/,
+            4 /*night*/"
+},
+
+{
+  "VendorTag": "aps.params.bokeh.llhdr.neon.blurIntensity",
+  "Type": "Int32",
+  "Count": "2",
+  "Value": "70 /*outdoor*/,
+            70 /*night*/"
+},
+
+{
+  "VendorTag": "aps.params.snapshot.bokehllhdr",
+  "Type": "Float",
+  "Count": "43",
+  "Value": "
+            6 /*isoZoneNumber*/
+            /*index0*/,
+            10000/*iso*/, 50/*Intensity*/, 10/*LightIntensity*/, 70/*Saturation*/, 0/*SharpenIntensity*/,
+            0/*YReprocIntensity*/, 90/*UVReprocIntensity*/
+
+            /*index1*/,
+            6400/*iso*/, 50/*Intensity*/, 10/*LightIntensity*/, 70/*Saturation*/, 0/*SharpenIntensity*/,
+            0/*YReprocIntensity*/, 60/*UVReprocIntensity*/
+
+            /*index2*/,
+            3200/*iso*/, 50/*Intensity*/, 10/*LightIntensity*/, 70/*Saturation*/, 0/*SharpenIntensity*/,
+            0/*YReprocIntensity*/, 50/*UVReprocIntensity*/
+
+            /*index3*/,
+            1600/*iso*/, 50/*Intensity*/, 10/*LightIntensity*/, 70/*Saturation*/, 0/*SharpenIntensity*/,
+            0/*YReprocIntensity*/, 30/*UVReprocIntensity*/
+
+            /*index4*/,
+            800/*iso*/, 50/*Intensity*/, 10/*LightIntensity*/, 60/*Saturation*/, 0/*SharpenIntensity*/,
+            0/*YReprocIntensity*/, 20/*UVReprocIntensity*/
+
+            /*index5*/,
+            0/*iso*/, 50/*Intensity*/, 10/*LightIntensity*/, 60/*Saturation*/, 0/*SharpenIntensity*/,
+            0/*YReprocIntensity*/, 0/*UVReprocIntensity*/
+            ",
+  "Comment": "arcsoft_llhdr_param_t"
+},
+{
+  "VendorTag": "com.oplus.aps.params.blurless",
+  "Type": "Float",
+  "Count": "461",
+  "Value": "
+            10 /*isoZoneNumber*/
+
+            /*index0*/,
+            0 /*frames*/,
+            0 /*scene*/,
+            100 /*iso*/,
+            1.0, 1.0, 1.0, 1.0, 0.8, 0.8, 0.8, 0.8, 0.8, 0.8 /*luminanceNoiseReduction*/,
+            0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0 /*chromaNoiseReduction*/,
+            0.3, 0.3, 0.3, 0.3, 0.3, 0.6, 0.8, 0.8, 0.8, 0.8 /*sharpen*/,
+            0 /*brightening*/,
+            0 /*colorBoost*/,
+            1 /*movingObjectNoiseRemoval*/,
+            15 /*inputSharpnessThreshold*/,
+            0.15 /*inputBrightnessThreshold*/,
+            0 /*allocate*/,
+            -1 /*baseFrame*/,
+            0 /*faceNoiseReductionStrength*/,
+            0 /*skinNoiseReductionStrength*/,
+            0 /*faceSharpnessWeight*/,
+            6 /*effectiveFrames*/,
+            50 /*deghostingStrength*/,
+            1 /*ispPreProcessingUsed*/
+
+            /*index1*/,
+            0 /*frames*/,
+            0 /*scene*/,
+            200 /*iso*/,
+            1.0, 1.0, 1.0, 1.0, 0.8, 0.8, 0.8, 0.8, 0.8, 0.8 /*luminanceNoiseReduction*/,
+            0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0 /*chromaNoiseReduction*/,
+            0.6, 0.6, 0.6, 0.6, 0.6, 0.7, 0.8, 0.8, 0.8, 0.8 /*sharpen*/,
+            0 /*brightening*/,
+            0 /*colorBoost*/,
+            1 /*movingObjectNoiseRemoval*/,
+            15 /*inputSharpnessThreshold*/,
+            0.15 /*inputBrightnessThreshold*/,
+            0 /*allocate*/,
+            -1 /*baseFrame*/,
+            0 /*faceNoiseReductionStrength*/,
+            0 /*skinNoiseReductionStrength*/,
+            0 /*faceSharpnessWeight*/,
+            6 /*effectiveFrames*/,
+            50 /*deghostingStrength*/,
+            1 /*ispPreProcessingUsed*/
+
+            /*index2*/,
+            0 /*frames*/,
+            0 /*scene*/,
+            400 /*iso*/,
+            1.6, 1.6, 1.6, 1.6, 0.7, 0.7, 0.8, 0.8, 0.8, 0.8 /*luminanceNoiseReduction*/,
+            0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0 /*chromaNoiseReduction*/,
+            0.8, 0.8, 0.8, 0.8, 0.4, 0.4, 0.4, 0.8, 0.8, 0.8 /*sharpen*/,
+            0 /*brightening*/,
+            0 /*colorBoost*/,
+            1 /*movingObjectNoiseRemoval*/,
+            15 /*inputSharpnessThreshold*/,
+            0.2 /*inputBrightnessThreshold*/,
+            0 /*allocate*/,
+            -1 /*baseFrame*/,
+            0 /*faceNoiseReductionStrength*/,
+            0 /*skinNoiseReductionStrength*/,
+            0 /*faceSharpnessWeight*/,
+            6 /*effectiveFrames*/,
+            50 /*deghostingStrength*/,
+            1 /*ispPreProcessingUsed*/
+
+            /*index3*/,
+            0 /*frames*/,
+            0 /*scene*/,
+            800 /*iso*/,
+            2.0, 2.0, 2.0, 2.0, 0.7, 0.7, 0.8, 0.8, 0.8, 0.8 /*luminanceNoiseReduction*/,
+            3.2, 2.0, 1.2, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0 /*chromaNoiseReduction*/,
+            1.0, 1.0, 1.0, 1.0, 0.5, 0.5, 1.0, 1.0, 1.0, 1.0 /*sharpen*/,
+            0 /*brightening*/,
+            0 /*colorBoost*/,
+            1 /*movingObjectNoiseRemoval*/,
+            20 /*inputSharpnessThreshold*/,
+            0.2 /*inputBrightnessThreshold*/,
+            0 /*allocate*/,
+            -1 /*baseFrame*/,
+            0 /*faceNoiseReductionStrength*/,
+            0 /*skinNoiseReductionStrength*/,
+            0 /*faceSharpnessWeight*/,
+            6 /*effectiveFrames*/,
+            50 /*deghostingStrength*/,
+            1 /*ispPreProcessingUsed*/
+
+            /*index4*/,
+            0 /*frames*/,
+            0 /*scene*/,
+            1600 /*iso*/,
+            2.6, 2.6, 2.6, 2.6, 0.7, 0.7, 0.8, 0.8, 0.8, 0.8 /*luminanceNoiseReduction*/,
+            3.2, 2.0, 1.2, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0 /*chromaNoiseReduction*/,
+            1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0 /*sharpen*/,
+            0 /*brightening*/,
+            0 /*colorBoost*/,
+            1 /*movingObjectNoiseRemoval*/,
+            30 /*inputSharpnessThreshold*/,
+            0.2 /*inputBrightnessThreshold*/,
+            0 /*allocate*/,
+            -1 /*baseFrame*/,
+            0 /*faceNoiseReductionStrength*/,
+            0 /*skinNoiseReductionStrength*/,
+            0 /*faceSharpnessWeight*/,
+            6 /*effectiveFrames*/,
+            50 /*deghostingStrength*/,
+            1 /*ispPreProcessingUsed*/
+
+            /*index5*/,
+            0 /*frames*/,
+            0 /*scene*/,
+            3200 /*iso*/,
+            3.4, 3.4, 3.4, 3.4, 0.7, 0.7, 0.8, 0.8, 0.8, 0.8 /*luminanceNoiseReduction*/,
+            6.2, 6.2, 6.2, 6.2, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0 /*chromaNoiseReduction*/,
+            0.8, 0.8, 0.8, 0.8, 0.6, 0.6, 0.2, 1.0, 1.0, 1.0 /*sharpen*/,
+            0 /*brightening*/,
+            0 /*colorBoost*/,
+            2 /*movingObjectNoiseRemoval*/,
+            30 /*inputSharpnessThreshold*/,
+            0.25 /*inputBrightnessThreshold*/,
+            0 /*allocate*/,
+            -1 /*baseFrame*/,
+            0 /*faceNoiseReductionStrength*/,
+            0 /*skinNoiseReductionStrength*/,
+            0 /*faceSharpnessWeight*/,
+            6 /*effectiveFrames*/,
+            55 /*deghostingStrength*/,
+            1 /*ispPreProcessingUsed*/
+
+            /*index6*/,
+            0 /*frames*/,
+            0 /*scene*/,
+            6400 /*iso*/,
+            6.8, 6.8, 6.8, 6.8, 6.0, 3.0, 1.6, 1.6, 1.6, 1.6 /*luminanceNoiseReduction*/,
+            6.2, 6.2, 6.2, 6.2, 3.0, 1.0, 1.0, 1.0, 1.0, 1.0 /*chromaNoiseReduction*/,
+            0.5, 0.5, 0.5, 0.5, 0.5, 0.6, 0.2, 1.0, 1.0, 1.0 /*sharpen*/,
+            0 /*brightening*/,
+            0 /*colorBoost*/,
+            3 /*movingObjectNoiseRemoval*/,
+            30 /*inputSharpnessThreshold*/,
+            0.2 /*inputBrightnessThreshold*/,
+            0 /*allocate*/,
+            -1 /*baseFrame*/,
+            0 /*faceNoiseReductionStrength*/,
+            0 /*skinNoiseReductionStrength*/,
+            0 /*faceSharpnessWeight*/,
+            6 /*effectiveFrames*/,
+            60 /*deghostingStrength*/,
+            1 /*ispPreProcessingUsed*/
+
+            /*index7*/,
+            0 /*frames*/,
+            0 /*scene*/,
+            8000 /*iso*/,
+            3.6, 3.6, 3.6, 3.6, 3.0, 3.0, 1.6, 1.6, 1.6, 1.6  /*luminanceNoiseReduction*/,
+            3.2, 2.0, 2.2, 2.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0 /*chromaNoiseReduction*/,
+            1.0, 1.0, 1.0, 1.0, 1.1, 1.1, 1.1, 1.1, 1.1, 1.1 /*sharpen*/,
+            0 /*brightening*/,
+            0 /*colorBoost*/,
+            3 /*movingObjectNoiseRemoval*/,
+            30 /*inputSharpnessThreshold*/,
+            0.2 /*inputBrightnessThreshold*/,
+            0 /*allocate*/,
+            -1 /*baseFrame*/,
+            0 /*faceNoiseReductionStrength*/,
+            0 /*skinNoiseReductionStrength*/,
+            0 /*faceSharpnessWeight*/,
+            6 /*effectiveFrames*/,
+            60 /*deghostingStrength*/,
+            1 /*ispPreProcessingUsed*/
+
+            /*index8*/,
+            0 /*frames*/,
+            0 /*scene*/,
+            9600 /*iso*/,
+            4.0, 4.0, 4.0, 4.0, 3.0, 3.0, 1.6, 1.6, 1.6, 1.6  /*luminanceNoiseReduction*/,
+            3.2, 2.0, 2.0, 2.0, 2.0, 1.0, 1.0, 1.0, 1.0, 1.0 /*chromaNoiseReduction*/,
+            1.0, 1.0, 1.0, 1.0, 1.1, 1.1, 1.1, 1.1, 1.1, 1.1 /*sharpen*/,
+            0 /*brightening*/,
+            0 /*colorBoost*/,
+            3 /*movingObjectNoiseRemoval*/,
+            30 /*inputSharpnessThreshold*/,
+            0.2 /*inputBrightnessThreshold*/,
+            0 /*allocate*/,
+            -1 /*baseFrame*/,
+            0 /*faceNoiseReductionStrength*/,
+            0 /*skinNoiseReductionStrength*/,
+            0 /*faceSharpnessWeight*/,
+            6 /*effectiveFrames*/,
+            60 /*deghostingStrength*/,
+            1 /*ispPreProcessingUsed*/
+
+            /*index9*/,
+            0 /*frames*/,
+            0 /*scene*/,
+            12000 /*iso*/,
+            4.9, 4.9, 4.9, 4.9, 3.0, 3.0, 1.6, 1.6, 1.6, 1.6  /*luminanceNoiseReduction*/,
+            3.2, 3.2, 3.2, 3.2, 3.0, 1.0, 1.0, 1.0, 1.0, 1.0 /*chromaNoiseReduction*/,
+            1.0, 1.0, 1.0, 1.0, 1.1, 1.1, 1.1, 1.1, 1.1, 1.1 /*sharpen*/,
+            0 /*brightening*/,
+            0 /*colorBoost*/,
+            3 /*movingObjectNoiseRemoval*/,
+            30 /*inputSharpnessThreshold*/,
+            0.2 /*inputBrightnessThreshold*/,
+            0 /*allocate*/,
+            -1 /*baseFrame*/,
+            0 /*faceNoiseReductionStrength*/,
+            0 /*skinNoiseReductionStrength*/,
+            0 /*faceSharpnessWeight*/,
+            6 /*effectiveFrames*/,
+            60 /*deghostingStrength*/,
+            1 /*ispPreProcessingUsed*/
+            ",
+  "Comment": "
+            isoZoneNumber,
+            frames,
+            blurless_params_scene,
+            iso,
+            engine_cfg_t[isoZoneNumber]"
+},
+
+{
+  "VendorTag": "com.oplus.aps.params.blurless.face",
+  "Type": "Float",
+  "Count": "461",
+  "Value": "
+            10 /*isoZoneNumber*/
+
+            /*index0*/,
+            0 /*frames*/,
+            0 /*scene*/,
+            100 /*iso*/,
+            1.0, 1.0, 1.0, 1.0, 0.7, 0.7, 0.8, 0.8, 0.8, 0.8 /*luminanceNoiseReduction*/,
+            0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0 /*chromaNoiseReduction*/,
+            0.4, 0.4, 0.4, 0.4, 0.6, 0.7, 0.8, 0.8, 0.8, 0.8 /*sharpen*/,
+            0 /*brightening*/,
+            0 /*colorBoost*/,
+            1 /*movingObjectNoiseRemoval*/,
+            15 /*inputSharpnessThreshold*/,
+            0.15 /*inputBrightnessThreshold*/,
+            0 /*allocate*/,
+            -1 /*baseFrame*/,
+            0 /*faceNoiseReductionStrength*/,
+            0 /*skinNoiseReductionStrength*/,
+            0 /*faceSharpnessWeight*/,
+            6 /*effectiveFrames*/,
+            50 /*deghostingStrength*/,
+            1 /*ispPreProcessingUsed*/
+
+            /*index1*/,
+            0 /*frames*/,
+            0 /*scene*/,
+            200 /*iso*/,
+            1.0, 1.0, 1.0, 1.0, 0.7, 0.7, 0.8, 0.8, 0.8, 0.8 /*luminanceNoiseReduction*/,
+            0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0 /*chromaNoiseReduction*/,
+            0.7, 0.7, 0.7, 0.7, 0.7, 0.7, 0.8, 0.8, 0.8, 0.8 /*sharpen*/,
+            0 /*brightening*/,
+            0 /*colorBoost*/,
+            1 /*movingObjectNoiseRemoval*/,
+            15 /*inputSharpnessThreshold*/,
+            0.15 /*inputBrightnessThreshold*/,
+            0 /*allocate*/,
+            -1 /*baseFrame*/,
+            0 /*faceNoiseReductionStrength*/,
+            1 /*skinNoiseReductionStrength*/,
+            0 /*faceSharpnessWeight*/,
+            6 /*effectiveFrames*/,
+            50 /*deghostingStrength*/,
+            1 /*ispPreProcessingUsed*/
+
+            /*index2*/,
+            0 /*frames*/,
+            0 /*scene*/,
+            400 /*iso*/,
+            1.2, 1.2, 1.2, 1.2, 0.7, 0.7, 0.8, 0.8, 0.8, 0.8 /*luminanceNoiseReduction*/,
+            0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0 /*chromaNoiseReduction*/,
+            1.0, 1.0, 1.0, 1.0, 0.4, 0.4, 0.4, 0.8, 0.8, 0.8 /*sharpen*/,
+            0 /*brightening*/,
+            0 /*colorBoost*/,
+            1 /*movingObjectNoiseRemoval*/,
+            15 /*inputSharpnessThreshold*/,
+            0.2 /*inputBrightnessThreshold*/,
+            0 /*allocate*/,
+            -1 /*baseFrame*/,
+            0 /*faceNoiseReductionStrength*/,
+            1 /*skinNoiseReductionStrength*/,
+            0 /*faceSharpnessWeight*/,
+            6 /*effectiveFrames*/,
+            50 /*deghostingStrength*/,
+            1 /*ispPreProcessingUsed*/
+
+            /*index3*/,
+            0 /*frames*/,
+            0 /*scene*/,
+            800 /*iso*/,
+            1.6, 1.6, 1.6, 1.6, 0.7, 0.7, 0.8, 0.8, 0.8, 0.8 /*luminanceNoiseReduction*/,
+            1.2, 1.2, 1.2, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0 /*chromaNoiseReduction*/,
+            1.0, 1.0, 1.0, 1.0, 0.5, 0.5, 1.0, 1.0, 1.0, 1.0 /*sharpen*/,
+            0 /*brightening*/,
+            0 /*colorBoost*/,
+            1 /*movingObjectNoiseRemoval*/,
+            20 /*inputSharpnessThreshold*/,
+            0.2 /*inputBrightnessThreshold*/,
+            0 /*allocate*/,
+            -1 /*baseFrame*/,
+            1 /*faceNoiseReductionStrength*/,
+            2 /*skinNoiseReductionStrength*/,
+            0 /*faceSharpnessWeight*/,
+            6 /*effectiveFrames*/,
+            50 /*deghostingStrength*/,
+            1 /*ispPreProcessingUsed*/
+
+            /*index4*/,
+            0 /*frames*/,
+            0 /*scene*/,
+            1600 /*iso*/,
+            2.5, 2.5, 2.5, 2.5, 0.7, 0.7, 0.8, 0.8, 0.8, 0.8 /*luminanceNoiseReduction*/,
+            1.2, 1.2, 1.2, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0 /*chromaNoiseReduction*/,
+            1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0 /*sharpen*/,
+            0 /*brightening*/,
+            0 /*colorBoost*/,
+            1 /*movingObjectNoiseRemoval*/,
+            30 /*inputSharpnessThreshold*/,
+            0.2 /*inputBrightnessThreshold*/,
+            0 /*allocate*/,
+            -1 /*baseFrame*/,
+            2 /*faceNoiseReductionStrength*/,
+            3 /*skinNoiseReductionStrength*/,
+            0 /*faceSharpnessWeight*/,
+            6 /*effectiveFrames*/,
+            50 /*deghostingStrength*/,
+            1 /*ispPreProcessingUsed*/
+
+            /*index5*/,
+            0 /*frames*/,
+            0 /*scene*/,
+            3200 /*iso*/,
+            3.4, 3.4, 3.4, 3.4, 0.7, 0.7, 0.8, 0.8, 0.8, 0.8 /*luminanceNoiseReduction*/,
+            6.2, 6.2, 6.2, 6.2, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0 /*chromaNoiseReduction*/,
+            0.8, 0.8, 0.8, 0.8, 0.6, 0.6, 0.2, 1.0, 1.0, 1.0 /*sharpen*/,
+            0 /*brightening*/,
+            0 /*colorBoost*/,
+            2 /*movingObjectNoiseRemoval*/,
+            30 /*inputSharpnessThreshold*/,
+            0.25 /*inputBrightnessThreshold*/,
+            0 /*allocate*/,
+            -1 /*baseFrame*/,
+            3 /*faceNoiseReductionStrength*/,
+            4 /*skinNoiseReductionStrength*/,
+            0 /*faceSharpnessWeight*/,
+            6 /*effectiveFrames*/,
+            55 /*deghostingStrength*/,
+            1 /*ispPreProcessingUsed*/
+
+            /*index6*/,
+            0 /*frames*/,
+            0 /*scene*/,
+            6400 /*iso*/,
+            6.8, 6.8, 6.8, 6.8, 6.0, 3.0, 1.6, 1.6, 1.6, 1.6 /*luminanceNoiseReduction*/,
+            6.2, 6.2, 6.2, 6.2, 3.0, 1.0, 1.0, 1.0, 1.0, 1.0 /*chromaNoiseReduction*/,
+            0.5, 0.5, 0.5, 0.5, 0.5, 0.6, 0.2, 1.0, 1.0, 1.0 /*sharpen*/,
+            0 /*brightening*/,
+            0 /*colorBoost*/,
+            2 /*movingObjectNoiseRemoval*/,
+            30 /*inputSharpnessThreshold*/,
+            0.2 /*inputBrightnessThreshold*/,
+            0 /*allocate*/,
+            -1 /*baseFrame*/,
+            3 /*faceNoiseReductionStrength*/,
+            4 /*skinNoiseReductionStrength*/,
+            0 /*faceSharpnessWeight*/,
+            6 /*effectiveFrames*/,
+            60 /*deghostingStrength*/,
+            1 /*ispPreProcessingUsed*/
+
+            /*index7*/,
+            0 /*frames*/,
+            0 /*scene*/,
+            8000 /*iso*/,
+            3.8, 3.8, 3.8, 3.8, 3.0, 3.0, 1.6, 1.6, 1.6, 1.6  /*luminanceNoiseReduction*/,
+            2.2, 2.2, 2.2, 2.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0 /*chromaNoiseReduction*/,
+            1.0, 1.0, 1.0, 1.0, 1.1, 1.1, 1.1, 1.1, 1.1, 1.1 /*sharpen*/,
+            0 /*brightening*/,
+            0 /*colorBoost*/,
+            3 /*movingObjectNoiseRemoval*/,
+            30 /*inputSharpnessThreshold*/,
+            0.2 /*inputBrightnessThreshold*/,
+            0 /*allocate*/,
+            -1 /*baseFrame*/,
+            4 /*faceNoiseReductionStrength*/,
+            5 /*skinNoiseReductionStrength*/,
+            0 /*faceSharpnessWeight*/,
+            6 /*effectiveFrames*/,
+            60 /*deghostingStrength*/,
+            1 /*ispPreProcessingUsed*/
+
+            /*index8*/,
+            0 /*frames*/,
+            0 /*scene*/,
+            9600 /*iso*/,
+            4.0, 4.0, 4.0, 4.0, 3.0, 3.0, 1.6, 1.6, 1.6, 1.6  /*luminanceNoiseReduction*/,
+            2.2, 2.2, 2.2, 2.0, 2.0, 1.0, 1.0, 1.0, 1.0, 1.0 /*chromaNoiseReduction*/,
+            1.0, 1.0, 1.0, 1.0, 1.1, 1.1, 1.1, 1.1, 1.1, 1.1 /*sharpen*/,
+            0 /*brightening*/,
+            0 /*colorBoost*/,
+            3 /*movingObjectNoiseRemoval*/,
+            30 /*inputSharpnessThreshold*/,
+            0.2 /*inputBrightnessThreshold*/,
+            0 /*allocate*/,
+            -1 /*baseFrame*/,
+            4 /*faceNoiseReductionStrength*/,
+            5 /*skinNoiseReductionStrength*/,
+            0 /*faceSharpnessWeight*/,
+            6 /*effectiveFrames*/,
+            60 /*deghostingStrength*/,
+            1 /*ispPreProcessingUsed*/
+
+            /*index9*/,
+            0 /*frames*/,
+            0 /*scene*/,
+            12000 /*iso*/,
+            5.0, 5.0, 5.0, 5.0, 3.0, 3.0, 1.6, 1.6, 1.6, 1.6  /*luminanceNoiseReduction*/,
+            3.2, 3.0, 3.2, 3.0, 3.0, 1.0, 1.0, 1.0, 1.0, 1.0 /*chromaNoiseReduction*/,
+            1.0, 1.0, 1.0, 1.0, 1.1, 1.1, 1.1, 1.1, 1.1, 1.1 /*sharpen*/,
+            0 /*brightening*/,
+            0 /*colorBoost*/,
+            3 /*movingObjectNoiseRemoval*/,
+            30 /*inputSharpnessThreshold*/,
+            0.2 /*inputBrightnessThreshold*/,
+            0 /*allocate*/,
+            -1 /*baseFrame*/,
+            4 /*faceNoiseReductionStrength*/,
+            5 /*skinNoiseReductionStrength*/,
+            0 /*faceSharpnessWeight*/,
+            6 /*effectiveFrames*/,
+            60 /*deghostingStrength*/,
+            1 /*ispPreProcessingUsed*/
+            ",
+  "Comment": "
+            isoZoneNumber,
+            frames,
+            blurless_params_scene,
+            iso,
+            engine_cfg_t[isoZoneNumber]"
+},
+
+{
+  "VendorTag": "aps.params.bokeh.proc.blurless",
+  "Type": "Float",
+  "Count": "804",
+  "Value": "
+            0 /* process_type - param_set[0] - half_param_set normal*/
+            /* index 0 */,
+            12000/*iso*/, 5.0f/*luminanceNoiseReduction*/, 3.0f/*chromaNoiseReduction*/, 1.7f/*sharpen*/, 0/*brightening*/, 0/*colorBoost*/,
+            3/*movingObjectNoiseRemoval*/, 30/* inputSharpnessThreshold*/, 0/* faceNoiseReductionStrength*/, 0/*skinNoiseReductionStrength*/
+
+            /* index 1 */,
+            8000/*iso*/, 4.0f/*luminanceNoiseReduction*/, 2.0f/*chromaNoiseReduction*/, 1.8f/*sharpen*/, 0/*brightening*/, 0/*colorBoost*/,
+            3/*movingObjectNoiseRemoval*/, 30/* inputSharpnessThreshold*/, 0/* faceNoiseReductionStrength*/, 0/*skinNoiseReductionStrength*/
+
+            /* index 2 */,
+            6400/*iso*/, 3.6f/*luminanceNoiseReduction*/, 1.0f/*chromaNoiseReduction*/, 2.0f/*sharpen*/, 0/*brightening*/, 0/*colorBoost*/,
+            3/*movingObjectNoiseRemoval*/, 30/* inputSharpnessThreshold*/, 0/* faceNoiseReductionStrength*/, 0/*skinNoiseReductionStrength*/
+
+            /* index 3 */,
+            4000/*iso*/, 3.3f/*luminanceNoiseReduction*/, 1.0f/*chromaNoiseReduction*/, 1.6f/*sharpen*/, 0/*brightening*/, 0/*colorBoost*/,
+            2/*movingObjectNoiseRemoval*/, 30/* inputSharpnessThreshold*/, 0/* faceNoiseReductionStrength*/, 0/*skinNoiseReductionStrength*/
+
+            /* index 4 */,
+            3200/*iso*/, 3.0f/*luminanceNoiseReduction*/, 1.0f/*chromaNoiseReduction*/, 1.4f/*sharpen*/, 0/*brightening*/, 0/*colorBoost*/,
+            2/*movingObjectNoiseRemoval*/, 30/* inputSharpnessThreshold*/, 0/* faceNoiseReductionStrength*/, 0/*skinNoiseReductionStrength*/
+
+            /* index 5 */,
+            2400/*iso*/, 2.8f/*luminanceNoiseReduction*/, 1.0f/*chromaNoiseReduction*/, 1.2f/*sharpen*/, 0/*brightening*/, 0/*colorBoost*/,
+            1/*movingObjectNoiseRemoval*/, 30/* inputSharpnessThreshold*/, 0/* faceNoiseReductionStrength*/, 0/*skinNoiseReductionStrength*/
+
+            /* index 6 */,
+            1600/*iso*/, 2.4f/*luminanceNoiseReduction*/, 1.0f/*chromaNoiseReduction*/, 1.2f/*sharpen*/, 0/*brightening*/, 0/*colorBoost*/,
+            1/*movingObjectNoiseRemoval*/, 30/* inputSharpnessThreshold*/, 0/* faceNoiseReductionStrength*/, 0/*skinNoiseReductionStrength*/
+
+            /* index 7 */,
+            800/*iso*/, 2.0f/*luminanceNoiseReduction*/, 1.0f/*chromaNoiseReduction*/, 1.1f/*sharpen*/, 0/*brightening*/, 0/*colorBoost*/,
+            0/*movingObjectNoiseRemoval*/, 25/* inputSharpnessThreshold*/, 0/* faceNoiseReductionStrength*/, 0/*skinNoiseReductionStrength*/
+
+            /* index 8 */,
+            400/*iso*/, 1.6/*luminanceNoiseReduction*/, 1.0f/*chromaNoiseReduction*/, 1.0f/*sharpen*/, 0/*brightening*/, 0/*colorBoost*/,
+            0/*movingObjectNoiseRemoval*/, 20/* inputSharpnessThreshold*/, 0/* faceNoiseReductionStrength*/, 0/*skinNoiseReductionStrength*/
+
+            /* index 9 */,
+            100/*iso*/, 1.0/*luminanceNoiseReduction*/, 0.0f/*chromaNoiseReduction*/, 1.0f/*sharpen*/, 0/*brightening*/, 0/*colorBoost*/,
+            0/*movingObjectNoiseRemoval*/, 15/* inputSharpnessThreshold*/, 0/* faceNoiseReductionStrength*/, 0/*skinNoiseReductionStrength*/
+
+            /* index 10 */,
+            0/*iso*/, 0/*luminanceNoiseReduction*/, 0/*chromaNoiseReduction*/, 1.0f/*sharpen*/, 0/*brightening*/, 0/*colorBoost*/,
+            0/*movingObjectNoiseRemoval*/, 15/* inputSharpnessThreshold*/, 0/* faceNoiseReductionStrength*/, 0/*skinNoiseReductionStrength*/
+
+            /* index 11 */,
+            0/*iso*/, 0/*luminanceNoiseReduction*/, 0/*chromaNoiseReduction*/, 1.0f/*sharpen*/, 0/*brightening*/, 0/*colorBoost*/,
+            2/*movingObjectNoiseRemoval*/, 15/* inputSharpnessThreshold*/, 0/* faceNoiseReductionStrength*/, 0/*skinNoiseReductionStrength*/
+
+            /* index 12 */,
+            0/*iso*/, 0/*luminanceNoiseReduction*/, 0/*chromaNoiseReduction*/, 1.0f/*sharpen*/, 0/*brightening*/, 0/*colorBoost*/,
+            0/*movingObjectNoiseRemoval*/, 15/* inputSharpnessThreshold*/, 0/* faceNoiseReductionStrength*/, 0/*skinNoiseReductionStrength*/
+
+            /* index 13 */,
+            0/*iso*/, 0/*luminanceNoiseReduction*/, 0/*chromaNoiseReduction*/, 1.0f/*sharpen*/, 0/*brightening*/, 0/*colorBoost*/,
+            0/*movingObjectNoiseRemoval*/, 15/* inputSharpnessThreshold*/, 0/* faceNoiseReductionStrength*/, 0/*skinNoiseReductionStrength*/
+
+            /* index 14 */,
+            0/*iso*/, 0/*luminanceNoiseReduction*/, 0/*chromaNoiseReduction*/, 1.0f/*sharpen*/, 0/*brightening*/, 0/*colorBoost*/,
+            0/*movingObjectNoiseRemoval*/, 15/* inputSharpnessThreshold*/, 0/* faceNoiseReductionStrength*/, 0/*skinNoiseReductionStrength*/
+
+            /* index 15 */,
+            0/*iso*/, 0/*luminanceNoiseReduction*/, 0/*chromaNoiseReduction*/, 1.0f/*sharpen*/, 0/*brightening*/, 0/*colorBoost*/,
+            0/*movingObjectNoiseRemoval*/, 15/* inputSharpnessThreshold*/, 0/* faceNoiseReductionStrength*/, 0/*skinNoiseReductionStrength*/
+
+            /* index 16 */,
+            0/*iso*/, 0/*luminanceNoiseReduction*/, 0/*chromaNoiseReduction*/, 1.0f/*sharpen*/, 0/*brightening*/, 0/*colorBoost*/,
+            0/*movingObjectNoiseRemoval*/, 15/* inputSharpnessThreshold*/, 0/* faceNoiseReductionStrength*/, 0/*skinNoiseReductionStrength*/
+
+            /* index 17 */,
+            0/*iso*/, 1.0f/*luminanceNoiseReduction*/, 0/*chromaNoiseReduction*/, 1.0f/*sharpen*/, 0/*brightening*/, 0/*colorBoost*/,
+            0/*movingObjectNoiseRemoval*/, 15/* inputSharpnessThreshold*/, 0/* faceNoiseReductionStrength*/, 0/*skinNoiseReductionStrength*/
+
+            /* index 18 */,
+            0/*iso*/, 1.0f/*luminanceNoiseReduction*/, 0/*chromaNoiseReduction*/, 1.0f/*sharpen*/, 0/*brightening*/, 0/*colorBoost*/,
+            0/*movingObjectNoiseRemoval*/, 15/* inputSharpnessThreshold*/, 0/* faceNoiseReductionStrength*/, 0/*skinNoiseReductionStrength*/
+
+            /* index 19 */,
+            0/*iso*/, 1.0f/*luminanceNoiseReduction*/, 0/*chromaNoiseReduction*/, 1.0f/*sharpen*/, 0/*brightening*/, 0/*colorBoost*/,
+            0/*movingObjectNoiseRemoval*/, 15/* inputSharpnessThreshold*/, 0/* faceNoiseReductionStrength*/, 0/*skinNoiseReductionStrength*/
+            ,
+
+            1 /* process_type - param_set[1] - half_param_set face*/
+            /* index 0 */,
+            12000/*iso*/, 4.0f/*luminanceNoiseReduction*/, 2.0f/*chromaNoiseReduction*/, 0/*sharpen*/, 0/*brightening*/, 0/*colorBoost*/,
+            2/*movingObjectNoiseRemoval*/, 30/* inputSharpnessThreshold*/, 0/* faceNoiseReductionStrength*/, 0/*skinNoiseReductionStrength*/
+
+            /* index 1 */,
+            8000/*iso*/, 3.8f/*luminanceNoiseReduction*/, 1.5f/*chromaNoiseReduction*/, 0/*sharpen*/, 0/*brightening*/, 0/*colorBoost*/,
+            1/*movingObjectNoiseRemoval*/, 30/* inputSharpnessThreshold*/, 0/* faceNoiseReductionStrength*/, 0/*skinNoiseReductionStrength*/
+
+            /* index 2 */,
+            6400/*iso*/, 3.6f/*luminanceNoiseReduction*/, 1.0f/*chromaNoiseReduction*/, 0/*sharpen*/, 0/*brightening*/, 0/*colorBoost*/,
+            1/*movingObjectNoiseRemoval*/, 30/* inputSharpnessThreshold*/, 0/* faceNoiseReductionStrength*/, 0/*skinNoiseReductionStrength*/
+
+            /* index 3 */,
+            4000/*iso*/, 3.3f/*luminanceNoiseReduction*/, 1.0f/*chromaNoiseReduction*/, 0/*sharpen*/, 0/*brightening*/, 0/*colorBoost*/,
+            1/*movingObjectNoiseRemoval*/, 30/* inputSharpnessThreshold*/, 0/* faceNoiseReductionStrength*/, 0/*skinNoiseReductionStrength*/
+
+            /* index 4 */,
+            3200/*iso*/, 3.0f/*luminanceNoiseReduction*/, 0.8f/*chromaNoiseReduction*/, 0/*sharpen*/, 0/*brightening*/, 0/*colorBoost*/,
+            1/*movingObjectNoiseRemoval*/, 30/* inputSharpnessThreshold*/, 0/* faceNoiseReductionStrength*/, 0/*skinNoiseReductionStrength*/
+
+            /* index 5 */,
+            2400/*iso*/, 2.8f/*luminanceNoiseReduction*/, 0.6f/*chromaNoiseReduction*/, 0/*sharpen*/, 0/*brightening*/, 0/*colorBoost*/,
+            1/*movingObjectNoiseRemoval*/, 30/* inputSharpnessThreshold*/, 0/* faceNoiseReductionStrength*/, 0/*skinNoiseReductionStrength*/
+
+            /* index 6 */,
+            1600/*iso*/, 2.4f/*luminanceNoiseReduction*/, 0.4f/*chromaNoiseReduction*/, 0/*sharpen*/, 0/*brightening*/, 0/*colorBoost*/,
+            1/*movingObjectNoiseRemoval*/, 30/* inputSharpnessThreshold*/, 0/* faceNoiseReductionStrength*/, 0/*skinNoiseReductionStrength*/
+
+            /* index 7 */,
+            800/*iso*/, 2.0f/*luminanceNoiseReduction*/, 0.2/*chromaNoiseReduction*/, 0/*sharpen*/, 0/*brightening*/, 0/*colorBoost*/,
+            0/*movingObjectNoiseRemoval*/, 25/* inputSharpnessThreshold*/, 0/* faceNoiseReductionStrength*/, 0/*skinNoiseReductionStrength*/
+
+            /* index 8 */,
+            400/*iso*/, 1.6/*luminanceNoiseReduction*/, 0/*chromaNoiseReduction*/, 0/*sharpen*/, 0/*brightening*/, 0/*colorBoost*/,
+            0/*movingObjectNoiseRemoval*/, 20/* inputSharpnessThreshold*/, 0/* faceNoiseReductionStrength*/, 0/*skinNoiseReductionStrength*/
+
+            /* index 9 */,
+            100/*iso*/, 1.0/*luminanceNoiseReduction*/, 0/*chromaNoiseReduction*/, 0/*sharpen*/, 0/*brightening*/, 0/*colorBoost*/,
+            0/*movingObjectNoiseRemoval*/, 15/* inputSharpnessThreshold*/, 0/* faceNoiseReductionStrength*/, 0/*skinNoiseReductionStrength*/
+
+            /* index 10 */,
+            0/*iso*/, 0/*luminanceNoiseReduction*/, 0/*chromaNoiseReduction*/, 0/*sharpen*/, 0/*brightening*/, 0/*colorBoost*/,
+            0/*movingObjectNoiseRemoval*/, 15/* inputSharpnessThreshold*/, 0/* faceNoiseReductionStrength*/, 0/*skinNoiseReductionStrength*/
+
+            /* index 11 */,
+            0/*iso*/, 0/*luminanceNoiseReduction*/, 0/*chromaNoiseReduction*/, 0/*sharpen*/, 0/*brightening*/, 0/*colorBoost*/,
+            0/*movingObjectNoiseRemoval*/, 15/* inputSharpnessThreshold*/, 0/* faceNoiseReductionStrength*/, 0/*skinNoiseReductionStrength*/
+
+            /* index 12 */,
+            0/*iso*/, 0/*luminanceNoiseReduction*/, 0/*chromaNoiseReduction*/, 0/*sharpen*/, 0/*brightening*/, 0/*colorBoost*/,
+            0/*movingObjectNoiseRemoval*/, 15/* inputSharpnessThreshold*/, 0/* faceNoiseReductionStrength*/, 0/*skinNoiseReductionStrength*/
+
+            /* index 13 */,
+            0/*iso*/, 0/*luminanceNoiseReduction*/, 0/*chromaNoiseReduction*/, 0/*sharpen*/, 0/*brightening*/, 0/*colorBoost*/,
+            0/*movingObjectNoiseRemoval*/, 15/* inputSharpnessThreshold*/, 0/* faceNoiseReductionStrength*/, 0/*skinNoiseReductionStrength*/
+
+            /* index 14 */,
+            0/*iso*/, 0/*luminanceNoiseReduction*/, 0/*chromaNoiseReduction*/, 0/*sharpen*/, 0/*brightening*/, 0/*colorBoost*/,
+            0/*movingObjectNoiseRemoval*/, 15/* inputSharpnessThreshold*/, 0/* faceNoiseReductionStrength*/, 0/*skinNoiseReductionStrength*/
+
+            /* index 15 */,
+            0/*iso*/, 0/*luminanceNoiseReduction*/, 0/*chromaNoiseReduction*/, 0/*sharpen*/, 0/*brightening*/, 0/*colorBoost*/,
+            0/*movingObjectNoiseRemoval*/, 15/* inputSharpnessThreshold*/, 0/* faceNoiseReductionStrength*/, 0/*skinNoiseReductionStrength*/
+
+            /* index 16 */,
+            0/*iso*/, 0/*luminanceNoiseReduction*/, 0/*chromaNoiseReduction*/, 0/*sharpen*/, 0/*brightening*/, 0/*colorBoost*/,
+            0/*movingObjectNoiseRemoval*/, 15/* inputSharpnessThreshold*/, 0/* faceNoiseReductionStrength*/, 0/*skinNoiseReductionStrength*/
+
+            /* index 17 */,
+            0/*iso*/, 0/*luminanceNoiseReduction*/, 0/*chromaNoiseReduction*/, 0/*sharpen*/, 0/*brightening*/, 0/*colorBoost*/,
+            0/*movingObjectNoiseRemoval*/, 15/* inputSharpnessThreshold*/, 0/* faceNoiseReductionStrength*/, 0/*skinNoiseReductionStrength*/
+
+            /* index 18 */,
+            0/*iso*/, 0/*luminanceNoiseReduction*/, 0/*chromaNoiseReduction*/, 0/*sharpen*/, 0/*brightening*/, 0/*colorBoost*/,
+            0/*movingObjectNoiseRemoval*/, 15/* inputSharpnessThreshold*/, 0/* faceNoiseReductionStrength*/, 0/*skinNoiseReductionStrength*/
+
+            /* index 19 */,
+            0/*iso*/, 0/*luminanceNoiseReduction*/, 0/*chromaNoiseReduction*/, 0/*sharpen*/, 0/*brightening*/, 0/*colorBoost*/,
+            0/*movingObjectNoiseRemoval*/, 15/* inputSharpnessThreshold*/, 0/* faceNoiseReductionStrength*/, 0/*skinNoiseReductionStrength*/
+            ,
+
+            0 /* process_type - param_set[0] - full normal*/
+            /* index 0 */,
+            12000/*iso*/, 4.5f/*luminanceNoiseReduction*/, 2.0f/*chromaNoiseReduction*/, 1.4f/*sharpen*/, 0/*brightening*/, 0/*colorBoost*/,
+            3/*movingObjectNoiseRemoval*/, 30/* inputSharpnessThreshold*/, 0/* faceNoiseReductionStrength*/, 0/*skinNoiseReductionStrength*/
+
+            /* index 1 */,
+            8000/*iso*/, 4.0f/*luminanceNoiseReduction*/, 1.5f/*chromaNoiseReduction*/, 1.4f/*sharpen*/, 0/*brightening*/, 0/*colorBoost*/,
+            3/*movingObjectNoiseRemoval*/, 30/* inputSharpnessThreshold*/, 0/* faceNoiseReductionStrength*/, 0/*skinNoiseReductionStrength*/
+
+            /* index 2 */,
+            6400/*iso*/, 3.6f/*luminanceNoiseReduction*/, 1.0f/*chromaNoiseReduction*/, 1.4f/*sharpen*/, 0/*brightening*/, 0/*colorBoost*/,
+            3/*movingObjectNoiseRemoval*/, 30/* inputSharpnessThreshold*/, 0/* faceNoiseReductionStrength*/, 0/*skinNoiseReductionStrength*/
+
+            /* index 3 */,
+            4000/*iso*/, 3.3f/*luminanceNoiseReduction*/, 1.0f/*chromaNoiseReduction*/, 1.4f/*sharpen*/, 0/*brightening*/, 0/*colorBoost*/,
+            2/*movingObjectNoiseRemoval*/, 30/* inputSharpnessThreshold*/, 0/* faceNoiseReductionStrength*/, 0/*skinNoiseReductionStrength*/
+
+            /* index 4 */,
+            3200/*iso*/, 3.0f/*luminanceNoiseReduction*/, 1.0f/*chromaNoiseReduction*/, 1.4f/*sharpen*/, 0/*brightening*/, 0/*colorBoost*/,
+            2/*movingObjectNoiseRemoval*/, 30/* inputSharpnessThreshold*/, 0/* faceNoiseReductionStrength*/, 0/*skinNoiseReductionStrength*/
+
+            /* index 5 */,
+            2400/*iso*/, 2.8f/*luminanceNoiseReduction*/, 0.8f/*chromaNoiseReduction*/, 1.4f/*sharpen*/, 0/*brightening*/, 0/*colorBoost*/,
+            1/*movingObjectNoiseRemoval*/, 30/* inputSharpnessThreshold*/, 0/* faceNoiseReductionStrength*/, 0/*skinNoiseReductionStrength*/
+
+            /* index 6 */,
+            1600/*iso*/, 2.4f/*luminanceNoiseReduction*/, 0.6f/*chromaNoiseReduction*/, 1.4f/*sharpen*/, 0/*brightening*/, 0/*colorBoost*/,
+            1/*movingObjectNoiseRemoval*/, 30/* inputSharpnessThreshold*/, 0/* faceNoiseReductionStrength*/, 0/*skinNoiseReductionStrength*/
+
+            /* index 7 */,
+            800/*iso*/, 2.0f/*luminanceNoiseReduction*/, 0.4f/*chromaNoiseReduction*/, 1.2f/*sharpen*/, 0/*brightening*/, 0/*colorBoost*/,
+            0/*movingObjectNoiseRemoval*/, 25/* inputSharpnessThreshold*/, 0/* faceNoiseReductionStrength*/, 0/*skinNoiseReductionStrength*/
+
+            /* index 8 */,
+            400/*iso*/, 1.6f/*luminanceNoiseReduction*/, 0.2f/*chromaNoiseReduction*/, 1.0f/*sharpen*/, 0/*brightening*/, 0/*colorBoost*/,
+            0/*movingObjectNoiseRemoval*/, 20/* inputSharpnessThreshold*/, 0/* faceNoiseReductionStrength*/, 0/*skinNoiseReductionStrength*/
+
+            /* index 9 */,
+            100/*iso*/, 1.0f/*luminanceNoiseReduction*/, 0/*chromaNoiseReduction*/, 0.4f/*sharpen*/, 0/*brightening*/, 0/*colorBoost*/,
+            0/*movingObjectNoiseRemoval*/, 15/* inputSharpnessThreshold*/, 0/* faceNoiseReductionStrength*/, 0/*skinNoiseReductionStrength*/
+
+            /* index 10 */,
+            0/*iso*/, 0/*luminanceNoiseReduction*/, 0/*chromaNoiseReduction*/, 1.0f/*sharpen*/, 0/*brightening*/, 0/*colorBoost*/,
+            0/*movingObjectNoiseRemoval*/, 15/* inputSharpnessThreshold*/, 0/* faceNoiseReductionStrength*/, 0/*skinNoiseReductionStrength*/
+
+            /* index 11 */,
+            0/*iso*/, 0/*luminanceNoiseReduction*/, 0/*chromaNoiseReduction*/, 1.0f/*sharpen*/, 0/*brightening*/, 0/*colorBoost*/,
+            2/*movingObjectNoiseRemoval*/, 15/* inputSharpnessThreshold*/, 0/* faceNoiseReductionStrength*/, 0/*skinNoiseReductionStrength*/
+
+            /* index 12 */,
+            0/*iso*/, 0/*luminanceNoiseReduction*/, 0/*chromaNoiseReduction*/, 1.0f/*sharpen*/, 0/*brightening*/, 0/*colorBoost*/,
+            0/*movingObjectNoiseRemoval*/, 15/* inputSharpnessThreshold*/, 0/* faceNoiseReductionStrength*/, 0/*skinNoiseReductionStrength*/
+
+            /* index 13 */,
+            0/*iso*/, 0/*luminanceNoiseReduction*/, 0/*chromaNoiseReduction*/, 1.0f/*sharpen*/, 0/*brightening*/, 0/*colorBoost*/,
+            0/*movingObjectNoiseRemoval*/, 15/* inputSharpnessThreshold*/, 0/* faceNoiseReductionStrength*/, 0/*skinNoiseReductionStrength*/
+
+            /* index 14 */,
+            0/*iso*/, 0/*luminanceNoiseReduction*/, 0/*chromaNoiseReduction*/, 1.0f/*sharpen*/, 0/*brightening*/, 0/*colorBoost*/,
+            0/*movingObjectNoiseRemoval*/, 15/* inputSharpnessThreshold*/, 0/* faceNoiseReductionStrength*/, 0/*skinNoiseReductionStrength*/
+
+            /* index 15 */,
+            0/*iso*/, 0/*luminanceNoiseReduction*/, 0/*chromaNoiseReduction*/, 1.0f/*sharpen*/, 0/*brightening*/, 0/*colorBoost*/,
+            0/*movingObjectNoiseRemoval*/, 15/* inputSharpnessThreshold*/, 0/* faceNoiseReductionStrength*/, 0/*skinNoiseReductionStrength*/
+
+            /* index 16 */,
+            0/*iso*/, 0/*luminanceNoiseReduction*/, 0/*chromaNoiseReduction*/, 1.0f/*sharpen*/, 0/*brightening*/, 0/*colorBoost*/,
+            0/*movingObjectNoiseRemoval*/, 15/* inputSharpnessThreshold*/, 0/* faceNoiseReductionStrength*/, 0/*skinNoiseReductionStrength*/
+
+            /* index 17 */,
+            0/*iso*/, 1.0f/*luminanceNoiseReduction*/, 0/*chromaNoiseReduction*/, 1.0f/*sharpen*/, 0/*brightening*/, 0/*colorBoost*/,
+            0/*movingObjectNoiseRemoval*/, 15/* inputSharpnessThreshold*/, 0/* faceNoiseReductionStrength*/, 0/*skinNoiseReductionStrength*/
+
+            /* index 18 */,
+            0/*iso*/, 1.0f/*luminanceNoiseReduction*/, 0/*chromaNoiseReduction*/, 1.0f/*sharpen*/, 0/*brightening*/, 0/*colorBoost*/,
+            0/*movingObjectNoiseRemoval*/, 15/* inputSharpnessThreshold*/, 0/* faceNoiseReductionStrength*/, 0/*skinNoiseReductionStrength*/
+
+            /* index 19 */,
+            0/*iso*/, 1.0f/*luminanceNoiseReduction*/, 0/*chromaNoiseReduction*/, 1.0f/*sharpen*/, 0/*brightening*/, 0/*colorBoost*/,
+            0/*movingObjectNoiseRemoval*/, 15/* inputSharpnessThreshold*/, 0/* faceNoiseReductionStrength*/, 0/*skinNoiseReductionStrength*/
+            ,
+
+            1 /* process_type - param_set[1] - full- face*/
+            /* index 0 */,
+            12000/*iso*/, 4.5f/*luminanceNoiseReduction*/, 2.0f/*chromaNoiseReduction*/, 0/*sharpen*/, 0/*brightening*/, 0/*colorBoost*/,
+            2/*movingObjectNoiseRemoval*/, 30/* inputSharpnessThreshold*/, 0/* faceNoiseReductionStrength*/, 0/*skinNoiseReductionStrength*/
+
+            /* index 1 */,
+            8000/*iso*/, 4.0f/*luminanceNoiseReduction*/, 1.5f/*chromaNoiseReduction*/, 0/*sharpen*/, 0/*brightening*/, 0/*colorBoost*/,
+            1/*movingObjectNoiseRemoval*/, 30/* inputSharpnessThreshold*/, 0/* faceNoiseReductionStrength*/, 0/*skinNoiseReductionStrength*/
+
+            /* index 2 */,
+            6400/*iso*/, 3.6f/*luminanceNoiseReduction*/, 1.0f/*chromaNoiseReduction*/, 0/*sharpen*/, 0/*brightening*/, 0/*colorBoost*/,
+            1/*movingObjectNoiseRemoval*/, 30/* inputSharpnessThreshold*/, 0/* faceNoiseReductionStrength*/, 0/*skinNoiseReductionStrength*/
+
+            /* index 3 */,
+            4000/*iso*/, 3.3f/*luminanceNoiseReduction*/, 1.0f/*chromaNoiseReduction*/, 0/*sharpen*/, 0/*brightening*/, 0/*colorBoost*/,
+            1/*movingObjectNoiseRemoval*/, 30/* inputSharpnessThreshold*/, 0/* faceNoiseReductionStrength*/, 0/*skinNoiseReductionStrength*/
+
+            /* index 4 */,
+            3200/*iso*/, 3.0f/*luminanceNoiseReduction*/, 1.0f/*chromaNoiseReduction*/, 0/*sharpen*/, 0/*brightening*/, 0/*colorBoost*/,
+            1/*movingObjectNoiseRemoval*/, 30/* inputSharpnessThreshold*/, 0/* faceNoiseReductionStrength*/, 0/*skinNoiseReductionStrength*/
+
+            /* index 5 */,
+            2400/*iso*/, 2.8f/*luminanceNoiseReduction*/, 0.8f/*chromaNoiseReduction*/, 0/*sharpen*/, 0/*brightening*/, 0/*colorBoost*/,
+            1/*movingObjectNoiseRemoval*/, 30/* inputSharpnessThreshold*/, 0/* faceNoiseReductionStrength*/, 0/*skinNoiseReductionStrength*/
+
+            /* index 6 */,
+            1600/*iso*/, 2.4f/*luminanceNoiseReduction*/, 0.6f/*chromaNoiseReduction*/, 0/*sharpen*/, 0/*brightening*/, 0/*colorBoost*/,
+            1/*movingObjectNoiseRemoval*/, 30/* inputSharpnessThreshold*/, 0/* faceNoiseReductionStrength*/, 0/*skinNoiseReductionStrength*/
+
+            /* index 7 */,
+            800/*iso*/, 2.0f/*luminanceNoiseReduction*/, 0.4f/*chromaNoiseReduction*/, 0/*sharpen*/, 0/*brightening*/, 0/*colorBoost*/,
+            0/*movingObjectNoiseRemoval*/, 25/* inputSharpnessThreshold*/, 0/* faceNoiseReductionStrength*/, 0/*skinNoiseReductionStrength*/
+
+            /* index 8 */,
+            400/*iso*/, 1.6f/*luminanceNoiseReduction*/, 0.2f/*chromaNoiseReduction*/, 0/*sharpen*/, 0/*brightening*/, 0/*colorBoost*/,
+            0/*movingObjectNoiseRemoval*/, 20/* inputSharpnessThreshold*/, 0/* faceNoiseReductionStrength*/, 0/*skinNoiseReductionStrength*/
+
+            /* index 9 */,
+            100/*iso*/, 1.0f/*luminanceNoiseReduction*/, 0/*chromaNoiseReduction*/, 0/*sharpen*/, 0/*brightening*/, 0/*colorBoost*/,
+            0/*movingObjectNoiseRemoval*/, 15/* inputSharpnessThreshold*/, 0/* faceNoiseReductionStrength*/, 0/*skinNoiseReductionStrength*/
+
+            /* index 10 */,
+            0/*iso*/, 0/*luminanceNoiseReduction*/, 0/*chromaNoiseReduction*/, 0/*sharpen*/, 0/*brightening*/, 0/*colorBoost*/,
+            0/*movingObjectNoiseRemoval*/, 15/* inputSharpnessThreshold*/, 0/* faceNoiseReductionStrength*/, 0/*skinNoiseReductionStrength*/
+
+            /* index 11 */,
+            0/*iso*/, 0/*luminanceNoiseReduction*/, 0/*chromaNoiseReduction*/, 0/*sharpen*/, 0/*brightening*/, 0/*colorBoost*/,
+            0/*movingObjectNoiseRemoval*/, 15/* inputSharpnessThreshold*/, 0/* faceNoiseReductionStrength*/, 0/*skinNoiseReductionStrength*/
+
+            /* index 12 */,
+            0/*iso*/, 0/*luminanceNoiseReduction*/, 0/*chromaNoiseReduction*/, 0/*sharpen*/, 0/*brightening*/, 0/*colorBoost*/,
+            0/*movingObjectNoiseRemoval*/, 15/* inputSharpnessThreshold*/, 0/* faceNoiseReductionStrength*/, 0/*skinNoiseReductionStrength*/
+
+            /* index 13 */,
+            0/*iso*/, 0/*luminanceNoiseReduction*/, 0/*chromaNoiseReduction*/, 0/*sharpen*/, 0/*brightening*/, 0/*colorBoost*/,
+            0/*movingObjectNoiseRemoval*/, 15/* inputSharpnessThreshold*/, 0/* faceNoiseReductionStrength*/, 0/*skinNoiseReductionStrength*/
+
+            /* index 14 */,
+            0/*iso*/, 0/*luminanceNoiseReduction*/, 0/*chromaNoiseReduction*/, 0/*sharpen*/, 0/*brightening*/, 0/*colorBoost*/,
+            0/*movingObjectNoiseRemoval*/, 15/* inputSharpnessThreshold*/, 0/* faceNoiseReductionStrength*/, 0/*skinNoiseReductionStrength*/
+
+            /* index 15 */,
+            0/*iso*/, 0/*luminanceNoiseReduction*/, 0/*chromaNoiseReduction*/, 0/*sharpen*/, 0/*brightening*/, 0/*colorBoost*/,
+            0/*movingObjectNoiseRemoval*/, 15/* inputSharpnessThreshold*/, 0/* faceNoiseReductionStrength*/, 0/*skinNoiseReductionStrength*/
+
+            /* index 16 */,
+            0/*iso*/, 0/*luminanceNoiseReduction*/, 0/*chromaNoiseReduction*/, 0/*sharpen*/, 0/*brightening*/, 0/*colorBoost*/,
+            0/*movingObjectNoiseRemoval*/, 15/* inputSharpnessThreshold*/, 0/* faceNoiseReductionStrength*/, 0/*skinNoiseReductionStrength*/
+
+            /* index 17 */,
+            0/*iso*/, 0/*luminanceNoiseReduction*/, 0/*chromaNoiseReduction*/, 0/*sharpen*/, 0/*brightening*/, 0/*colorBoost*/,
+            0/*movingObjectNoiseRemoval*/, 15/* inputSharpnessThreshold*/, 0/* faceNoiseReductionStrength*/, 0/*skinNoiseReductionStrength*/
+
+            /* index 18 */,
+            0/*iso*/, 0/*luminanceNoiseReduction*/, 0/*chromaNoiseReduction*/, 0/*sharpen*/, 0/*brightening*/, 0/*colorBoost*/,
+            0/*movingObjectNoiseRemoval*/, 15/* inputSharpnessThreshold*/, 0/* faceNoiseReductionStrength*/, 0/*skinNoiseReductionStrength*/
+
+            /* index 19 */,
+            0/*iso*/, 0/*luminanceNoiseReduction*/, 0/*chromaNoiseReduction*/, 0/*sharpen*/, 0/*brightening*/, 0/*colorBoost*/,
+            0/*movingObjectNoiseRemoval*/, 15/* inputSharpnessThreshold*/, 0/* faceNoiseReductionStrength*/, 0/*skinNoiseReductionStrength*/
+            ",
+  "Comment":"half_param_set, full_param_set"
+},
+
+
+{
+  "VendorTag": "com.oplus.aps.params.superphoto.noface.v3",
+  "Type": "Float",
+  "Count": "2646",
+  "Value": "
+            11 /*isoZoneNumber*/
+
+            /*index0*/,
+            2.0 /*zoom 0~5.0*/,
+
+            9000 /*iso >9000*/,
+            7.0, 6.5, 4.5, 3.5, 3.2, 3.2, 3.2, 3.2, 3.2, 3.2 /*noiseReductionStrength*/,
+            3.0, 2.5, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0 /*colorFilterStrength*/,
+            1.5, 2.0, 2.5, 2.5, 2.8, 2.8, 2.8, 2.8, 2.8, 2.8 /*sharpen*/,
+            0/*contrast*/, -1/*iso*/, -1.0/*gain*/, 0/*dynamic*/, 0/*lowIntensity*/, 0/*colorBoost*/, 62/*deghost*/, 8/*effectiveFrames*/, 40/*inputSharpnessThreshold*/, 0.7/*alphalBlendingWeight*/, 0.05/*alphalBlendingStep*/, 0/*preSharpenStrength*/, 4/*movingObject*/,
+
+            8000 /*iso 8000~9000*/,
+            7.0, 6.5, 4.5, 3.5, 3.2, 3.2, 3.2, 3.2, 3.2, 3.2 /*noiseReductionStrength*/,
+            3.0, 2.5, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0 /*colorFilterStrength*/,
+            1.5, 2.0, 2.5, 2.5, 2.8, 2.8, 2.8, 2.8, 2.8, 2.8 /*sharpen*/,
+            0/*contrast*/, -1/*iso*/, -1.0/*gain*/, 0/*dynamic*/, 0/*lowIntensity*/, 0/*colorBoost*/, 62/*deghost*/, 8/*effectiveFrames*/, 40/*inputSharpnessThreshold*/, 0.7/*alphalBlendingWeight*/, 0.05/*alphalBlendingStep*/, 0/*preSharpenStrength*/, 4/*movingObject*/,
+
+            7000 /*iso 7000~8000*/,
+            7.0, 6.5, 4.5, 3.5, 3.2, 3.2, 3.2, 3.2, 3.2, 3.2 /*noiseReductionStrength*/,
+            3.0, 2.5, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0 /*colorFilterStrength*/,
+            1.5, 2.0, 2.5, 2.5, 2.8, 2.8, 2.8, 2.8, 2.8, 2.8 /*sharpen*/,
+            0/*contrast*/, -1/*iso*/, -1.0/*gain*/, 0/*dynamic*/, 0/*lowIntensity*/, 0/*colorBoost*/, 62/*deghost*/, 8/*effectiveFrames*/, 40/*inputSharpnessThreshold*/, 0.7/*alphalBlendingWeight*/, 0.05/*alphalBlendingStep*/, 0/*preSharpenStrength*/, 4/*movingObject*/,
+
+            5000 /*iso 5000~7000*/,
+            7.0, 6.5, 4.5, 3.5, 2.8, 2.8, 2.8, 2.8, 2.8, 2.8 /*noiseReductionStrength*/,
+            3.0, 2.5, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0 /*colorFilterStrength*/,
+            1.5, 2.0, 2.5, 2.5, 2.8, 2.8, 2.8, 2.8, 2.8, 2.8 /*sharpen*/,
+            0/*contrast*/, -1/*iso*/, -1.0/*gain*/, 0/*dynamic*/, 0/*lowIntensity*/, 0/*colorBoost*/, 62/*deghost*/, 8/*effectiveFrames*/, 40/*inputSharpnessThreshold*/, 0.7/*alphalBlendingWeight*/, 0.05/*alphalBlendingStep*/, 0/*preSharpenStrength*/, 4/*movingObject*/,
+
+            3200 /*iso 3200~5000*/,
+            7.0, 6.5, 4.5, 3.5, 2.4, 2.4, 2.4, 2.4, 2.4, 2.4 /*noiseReductionStrength*/,
+            3.0, 2.5, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0 /*colorFilterStrength*/,
+            1.5, 2.0, 2.5, 2.5, 2.8, 2.8, 2.8, 2.8, 2.8, 2.8 /*sharpen*/,
+            0/*contrast*/, -1/*iso*/, -1.0/*gain*/, 0/*dynamic*/, 0/*lowIntensity*/, 0/*colorBoost*/, 62/*deghost*/, 8/*effectiveFrames*/, 40/*inputSharpnessThreshold*/, 0.7/*alphalBlendingWeight*/, 0.05/*alphalBlendingStep*/, 0/*preSharpenStrength*/, 4/*movingObject*/,
+
+            2000 /*iso 2000~3200*/,
+            4.0, 3.5, 3.0, 2.5, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0 /*noiseReductionStrength*/,
+            2.2, 2.2, 1.8, 1.6, 1.6, 1.6, 1.6, 1.6, 1.6, 1.6 /*colorFilterStrength*/,
+            0.8, 1.2, 1.5, 1.5, 1.5, 1.5, 1.5, 1.5, 1.5, 1.5 /*sharpen*/,
+            0/*contrast*/, -1/*iso*/, -1.0/*gain*/, 0/*dynamic*/, 0/*lowIntensity*/, 0/*colorBoost*/, 62/*deghost*/, 8/*effectiveFrames*/, 30/*inputSharpnessThreshold*/, 0.4/*alphalBlendingWeight*/, 0.05/*alphalBlendingStep*/, 0/*preSharpenStrength*/, 4/*movingObject*/,
+
+            1000 /*iso 1000~2000*/,
+            2.9, 2.4, 2.0, 1.8, 1.5, 1.5, 1.5, 1.5, 1.5, 1.5 /*noiseReductionStrength*/,
+            1.3, 1.0, 1.2, 1.2, 1.2, 1.2, 1.2, 1.2, 1.2, 1.2 /*colorFilterStrength*/,
+            0.4, 0.8, 1.2, 1.2, 1.2, 1.2, 1.2, 1.2, 1.2, 1.2 /*sharpen*/,
+            0/*contrast*/, -1/*iso*/, -1.0/*gain*/, 0/*dynamic*/, 0/*lowIntensity*/, 0/*colorBoost*/, 63/*deghost*/, 8/*effectiveFrames*/, 25/*inputSharpnessThreshold*/, 0.3/*alphalBlendingWeight*/, 0.05/*alphalBlendingStep*/, 0/*preSharpenStrength*/, 4/*movingObject*/,
+
+            800 /*iso 800~1000*/,
+            2.5, 2.0, 1.8, 1.5, 1.2, 1.2, 1.2, 1.2, 1.2, 1.2 /*noiseReductionStrength*/,
+            1.3, 1.0, 1.2, 1.2, 1.2, 1.2, 1.2, 1.2, 1.2, 1.2 /*colorFilterStrength*/,
+            0.0, 0.0, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1 /*sharpen*/,
+            0/*contrast*/, -1/*iso*/, -1.0/*gain*/, 0/*dynamic*/, 0/*lowIntensity*/, 0/*colorBoost*/, 63/*deghost*/, 8/*effectiveFrames*/, 25/*inputSharpnessThreshold*/, 0.3/*alphalBlendingWeight*/, 0.05/*alphalBlendingStep*/, 1/*preSharpenStrength*/, 4/*movingObject*/,
+
+            400 /*iso 400~800*/,
+            3.0, 2.5, 2.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0 /*noiseReductionStrength*/,
+            1.3, 1.0, 1.2, 1.2, 1.2, 1.2, 1.2, 1.2, 1.2, 1.2 /*colorFilterStrength*/,
+            0.0, 0.0, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1 /*sharpen*/,
+            0/*contrast*/, -1/*iso*/, -1.0/*gain*/, 0/*dynamic*/, 0/*lowIntensity*/, 0/*colorBoost*/, 64/*deghost*/, 8/*effectiveFrames*/, 20/*inputSharpnessThreshold*/, 0.3/*alphalBlendingWeight*/, 0.05/*alphalBlendingStep*/, 1/*preSharpenStrength*/, 4/*movingObject*/,
+
+            200 /*iso 200~400*/,
+            2.3, 1.6, 1.3, 0.6, 0.6, 0.6, 0.6, 0.6, 0.6, 0.6 /*noiseReductionStrength*/,
+            1.3, 1.0, 1.2, 1.2, 1.2, 1.2, 1.2, 1.2, 1.2, 1.2 /*colorFilterStrength*/,
+            0.0, 0.1, 0.1, 0.2, 0.2, 0.2, 0.2, 0.2, 0.2, 0.2 /*sharpen*/,
+            0/*contrast*/, -1/*iso*/, -1.0/*gain*/, 0/*dynamic*/, 0/*lowIntensity*/, 0/*colorBoost*/, 64/*deghost*/, 8/*effectiveFrames*/, 20/*inputSharpnessThreshold*/, 0.3/*alphalBlendingWeight*/, 0.05/*alphalBlendingStep*/, 2/*preSharpenStrength*/, 3/*movingObject*/,
+
+            0 /*iso 0~200*/,
+            2.0, 1.5, 1.0, 0.5, 0.2, 0.2, 0.2, 0.2, 0.2, 0.2 /*noiseReductionStrength*/,
+            1.3, 1.0, 1.2, 1.2, 1.2, 1.2, 1.2, 1.2, 1.2, 1.2 /*colorFilterStrength*/,
+            0.0, 0.1, 0.1, 0.2, 0.2, 0.2, 0.2, 0.2, 0.2, 0.2 /*sharpen*/,
+            0/*contrast*/, -1/*iso*/, -1.0/*gain*/, 0/*dynamic*/, 0/*lowIntensity*/, 0/*colorBoost*/, 68/*deghost*/, 8/*effectiveFrames*/, 15/*inputSharpnessThreshold*/, 0.2/*alphalBlendingWeight*/, 0.05/*alphalBlendingStep*/, 2/*preSharpenStrength*/, 2/*movingObject*/,
+
+            0 /*iso not defined*/,
+            4.0, 3.0, 2.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0 /*noiseReductionStrength*/,
+            2.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0 /*colorFilterStrength*/,
+            0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0 /*sharpen*/,
+            0/*contrast*/, -1/*iso*/, -1.0/*gain*/, 0/*dynamic*/, 0/*lowIntensity*/, 0/*colorBoost*/, 75/*deghost*/, 8/*effectiveFrames*/, 30/*inputSharpnessThreshold*/, 0.3/*alphalBlendingWeight*/, 0.05/*alphalBlendingStep*/, 0/*preSharpenStrength*/, 2/*movingObject*/
+
+            /*index1*/,
+            4.9 /*zoom 5.0~10.0*/,
+
+            9000 /*iso >9000*/,
+            7.0, 6.5, 4.5, 3.5, 3.2, 3.2, 3.2, 3.2, 3.2, 3.2 /*noiseReductionStrength*/,
+            3.0, 2.5, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0 /*colorFilterStrength*/,
+            1.5, 2.0, 2.5, 2.5, 2.8, 2.8, 2.8, 2.8, 2.8, 2.8 /*sharpen*/,
+            0/*contrast*/, -1/*iso*/, -1.0/*gain*/, 0/*dynamic*/, 0/*lowIntensity*/, 0/*colorBoost*/, 62/*deghost*/, 8/*effectiveFrames*/, 40/*inputSharpnessThreshold*/, 0.7/*alphalBlendingWeight*/, 0.05/*alphalBlendingStep*/, 0/*preSharpenStrength*/, 4/*movingObject*/,
+
+            8000 /*iso 8000~9000*/,
+            7.0, 6.5, 4.5, 3.5, 3.2, 3.2, 3.2, 3.2, 3.2, 3.2 /*noiseReductionStrength*/,
+            3.0, 2.5, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0 /*colorFilterStrength*/,
+            1.5, 2.0, 2.5, 2.5, 2.8, 2.8, 2.8, 2.8, 2.8, 2.8 /*sharpen*/,
+            0/*contrast*/, -1/*iso*/, -1.0/*gain*/, 0/*dynamic*/, 0/*lowIntensity*/, 0/*colorBoost*/, 62/*deghost*/, 8/*effectiveFrames*/, 40/*inputSharpnessThreshold*/, 0.7/*alphalBlendingWeight*/, 0.05/*alphalBlendingStep*/, 0/*preSharpenStrength*/, 4/*movingObject*/,
+
+            7000 /*iso 7000~8000*/,
+            7.0, 6.5, 4.5, 3.5, 3.2, 3.2, 3.2, 3.2, 3.2, 3.2 /*noiseReductionStrength*/,
+            3.0, 2.5, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0 /*colorFilterStrength*/,
+            1.5, 2.0, 2.5, 2.5, 2.8, 2.8, 2.8, 2.8, 2.8, 2.8 /*sharpen*/,
+            0/*contrast*/, -1/*iso*/, -1.0/*gain*/, 0/*dynamic*/, 0/*lowIntensity*/, 0/*colorBoost*/, 62/*deghost*/, 8/*effectiveFrames*/, 40/*inputSharpnessThreshold*/, 0.7/*alphalBlendingWeight*/, 0.05/*alphalBlendingStep*/, 0/*preSharpenStrength*/, 4/*movingObject*/,
+
+            5000 /*iso 5000~7000*/,
+            7.0, 6.5, 4.5, 3.5, 2.8, 2.8, 2.8, 2.8, 2.8, 2.8 /*noiseReductionStrength*/,
+            3.0, 2.5, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0 /*colorFilterStrength*/,
+            1.5, 2.0, 2.5, 2.5, 2.8, 2.8, 2.8, 2.8, 2.8, 2.8 /*sharpen*/,
+            0/*contrast*/, -1/*iso*/, -1.0/*gain*/, 0/*dynamic*/, 0/*lowIntensity*/, 0/*colorBoost*/, 62/*deghost*/, 8/*effectiveFrames*/, 40/*inputSharpnessThreshold*/, 0.7/*alphalBlendingWeight*/, 0.05/*alphalBlendingStep*/, 0/*preSharpenStrength*/, 4/*movingObject*/,
+
+            3200 /*iso 3200~5000*/,
+            7.0, 6.5, 4.5, 3.5, 2.4, 2.4, 2.4, 2.4, 2.4, 2.4 /*noiseReductionStrength*/,
+            3.0, 2.5, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0 /*colorFilterStrength*/,
+            1.5, 2.0, 2.5, 2.5, 2.8, 2.8, 2.8, 2.8, 2.8, 2.8 /*sharpen*/,
+            0/*contrast*/, -1/*iso*/, -1.0/*gain*/, 0/*dynamic*/, 0/*lowIntensity*/, 0/*colorBoost*/, 62/*deghost*/, 8/*effectiveFrames*/, 40/*inputSharpnessThreshold*/, 0.7/*alphalBlendingWeight*/, 0.05/*alphalBlendingStep*/, 0/*preSharpenStrength*/, 4/*movingObject*/,
+
+            2000 /*iso 2000~3200*/,
+            4.0, 3.5, 3.0, 2.5, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0 /*noiseReductionStrength*/,
+            1.8, 1.5, 1.2, 1.2, 1.2, 1.2, 1.2, 1.2, 1.2, 1.2 /*colorFilterStrength*/,
+            0.8, 1.2, 1.5, 1.5, 1.5, 1.5, 1.5, 1.5, 1.5, 1.5 /*sharpen*/,
+            0/*contrast*/, -1/*iso*/, -1.0/*gain*/, 0/*dynamic*/, 0/*lowIntensity*/, 0/*colorBoost*/, 62/*deghost*/, 8/*effectiveFrames*/, 30/*inputSharpnessThreshold*/, 0.4/*alphalBlendingWeight*/, 0.05/*alphalBlendingStep*/, 0/*preSharpenStrength*/, 4/*movingObject*/,
+
+            1000 /*iso 1000~2000*/,
+            2.9, 2.4, 2.0, 1.8, 1.5, 1.5, 1.5, 1.5, 1.5, 1.5 /*noiseReductionStrength*/,
+            1.3, 1.0, 1.2, 1.2, 1.2, 1.2, 1.2, 1.2, 1.2, 1.2 /*colorFilterStrength*/,
+            0.4, 0.8, 1.2, 1.2, 1.2, 1.2, 1.2, 1.2, 1.2, 1.2 /*sharpen*/,
+            0/*contrast*/, -1/*iso*/, -1.0/*gain*/, 0/*dynamic*/, 0/*lowIntensity*/, 0/*colorBoost*/, 63/*deghost*/, 8/*effectiveFrames*/, 25/*inputSharpnessThreshold*/, 0.3/*alphalBlendingWeight*/, 0.05/*alphalBlendingStep*/, 0/*preSharpenStrength*/, 4/*movingObject*/,
+
+            800 /*iso 800~1000*/,
+            2.5, 2.0, 1.8, 1.5, 1.2, 1.2, 1.2, 1.2, 1.2, 1.2 /*noiseReductionStrength*/,
+            1.3, 1.0, 1.2, 1.2, 1.2, 1.2, 1.2, 1.2, 1.2, 1.2 /*colorFilterStrength*/,
+            0.0, 0.0, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1 /*sharpen*/,
+            0/*contrast*/, -1/*iso*/, -1.0/*gain*/, 0/*dynamic*/, 0/*lowIntensity*/, 0/*colorBoost*/, 63/*deghost*/, 8/*effectiveFrames*/, 25/*inputSharpnessThreshold*/, 0.3/*alphalBlendingWeight*/, 0.05/*alphalBlendingStep*/, 1/*preSharpenStrength*/, 4/*movingObject*/,
+
+            400 /*iso 400~800*/,
+            3.0, 2.5, 2.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0 /*noiseReductionStrength*/,
+            1.3, 1.0, 1.2, 1.2, 1.2, 1.2, 1.2, 1.2, 1.2, 1.2 /*colorFilterStrength*/,
+            0.0, 0.0, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1 /*sharpen*/,
+            0/*contrast*/, -1/*iso*/, -1.0/*gain*/, 0/*dynamic*/, 0/*lowIntensity*/, 0/*colorBoost*/, 63/*deghost*/, 8/*effectiveFrames*/, 20/*inputSharpnessThreshold*/, 0.3/*alphalBlendingWeight*/, 0.05/*alphalBlendingStep*/, 1/*preSharpenStrength*/, 4/*movingObject*/,
+
+            200 /*iso 200~400*/,
+            2.3, 1.6, 1.3, 0.6, 0.6, 0.6, 0.6, 0.6, 0.6, 0.6 /*noiseReductionStrength*/,
+            1.3, 1.0, 1.2, 1.2, 1.2, 1.2, 1.2, 1.2, 1.2, 1.2 /*colorFilterStrength*/,
+            0.0, 0.1, 0.1, 0.2, 0.2, 0.2, 0.2, 0.2, 0.2, 0.2 /*sharpen*/,
+            0/*contrast*/, -1/*iso*/, -1.0/*gain*/, 0/*dynamic*/, 0/*lowIntensity*/, 0/*colorBoost*/, 65/*deghost*/, 8/*effectiveFrames*/, 20/*inputSharpnessThreshold*/, 0.3/*alphalBlendingWeight*/, 0.05/*alphalBlendingStep*/, 1/*preSharpenStrength*/, 3/*movingObject*/,
+
+            0 /*iso 0~200*/,
+            2.0, 1.5, 1.0, 0.5, 0.2, 0.2, 0.2, 0.2, 0.2, 0.2 /*noiseReductionStrength*/,
+            1.3, 1.0, 1.2, 1.2, 1.2, 1.2, 1.2, 1.2, 1.2, 1.2 /*colorFilterStrength*/,
+            0.0, 0.1, 0.1, 0.2, 0.2, 0.2, 0.2, 0.2, 0.2, 0.2 /*sharpen*/,
+            0/*contrast*/, -1/*iso*/, -1.0/*gain*/, 0/*dynamic*/, 0/*lowIntensity*/, 0/*colorBoost*/, 68/*deghost*/, 8/*effectiveFrames*/, 15/*inputSharpnessThreshold*/, 0.2/*alphalBlendingWeight*/, 0.05/*alphalBlendingStep*/, 1/*preSharpenStrength*/, 2/*movingObject*/,
+
+            0 /*iso not defined*/,
+            4.0, 3.0, 2.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0 /*noiseReductionStrength*/,
+            2.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0 /*colorFilterStrength*/,
+            0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0 /*sharpen*/,
+            0/*contrast*/, -1/*iso*/, -1.0/*gain*/, 0/*dynamic*/, 0/*lowIntensity*/, 0/*colorBoost*/, 75/*deghost*/, 8/*effectiveFrames*/, 30/*inputSharpnessThreshold*/, 0.3/*alphalBlendingWeight*/, 0.05/*alphalBlendingStep*/, 0/*preSharpenStrength*/, 2/*movingObject*/
+
+            /*index2*/,
+            9.9 /*zoom 10.0~20.0*/,
+
+            9000 /*iso >9000*/,
+            7.0, 6.5, 4.5, 3.5, 3.2, 3.2, 3.2, 3.2, 3.2, 3.2 /*noiseReductionStrength*/,
+            3.0, 2.5, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0 /*colorFilterStrength*/,
+            1.5, 2.0, 2.5, 2.5, 2.8, 2.8, 2.8, 2.8, 2.8, 2.8 /*sharpen*/,
+            0/*contrast*/, -1/*iso*/, -1.0/*gain*/, 0/*dynamic*/, 0/*lowIntensity*/, 0/*colorBoost*/, 62/*deghost*/, 8/*effectiveFrames*/, 40/*inputSharpnessThreshold*/, 0.7/*alphalBlendingWeight*/, 0.05/*alphalBlendingStep*/, 0/*preSharpenStrength*/, 4/*movingObject*/,
+
+            8000 /*iso 8000~9000*/,
+            7.0, 6.5, 4.5, 3.5, 3.2, 3.2, 3.2, 3.2, 3.2, 3.2 /*noiseReductionStrength*/,
+            3.0, 2.5, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0 /*colorFilterStrength*/,
+            1.5, 2.0, 2.5, 2.5, 2.8, 2.8, 2.8, 2.8, 2.8, 2.8 /*sharpen*/,
+            0/*contrast*/, -1/*iso*/, -1.0/*gain*/, 0/*dynamic*/, 0/*lowIntensity*/, 0/*colorBoost*/, 62/*deghost*/, 8/*effectiveFrames*/, 40/*inputSharpnessThreshold*/, 0.7/*alphalBlendingWeight*/, 0.05/*alphalBlendingStep*/, 0/*preSharpenStrength*/, 4/*movingObject*/,
+
+            7000 /*iso 7000~8000*/,
+            7.0, 6.5, 4.5, 3.5, 3.2, 3.2, 3.2, 3.2, 3.2, 3.2 /*noiseReductionStrength*/,
+            3.0, 2.5, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0 /*colorFilterStrength*/,
+            1.5, 2.0, 2.5, 2.5, 2.8, 2.8, 2.8, 2.8, 2.8, 2.8 /*sharpen*/,
+            0/*contrast*/, -1/*iso*/, -1.0/*gain*/, 0/*dynamic*/, 0/*lowIntensity*/, 0/*colorBoost*/, 62/*deghost*/, 8/*effectiveFrames*/, 40/*inputSharpnessThreshold*/, 0.7/*alphalBlendingWeight*/, 0.05/*alphalBlendingStep*/, 0/*preSharpenStrength*/, 4/*movingObject*/,
+
+            5000 /*iso 5000~7000*/,
+            7.0, 6.5, 4.5, 3.5, 2.8, 2.8, 2.8, 2.8, 2.8, 2.8 /*noiseReductionStrength*/,
+            3.0, 2.5, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0 /*colorFilterStrength*/,
+            1.5, 2.0, 2.5, 2.5, 2.8, 2.8, 2.8, 2.8, 2.8, 2.8 /*sharpen*/,
+            0/*contrast*/, -1/*iso*/, -1.0/*gain*/, 0/*dynamic*/, 0/*lowIntensity*/, 0/*colorBoost*/, 62/*deghost*/, 8/*effectiveFrames*/, 40/*inputSharpnessThreshold*/, 0.7/*alphalBlendingWeight*/, 0.05/*alphalBlendingStep*/, 0/*preSharpenStrength*/, 4/*movingObject*/,
+
+            3200 /*iso 3200~5000*/,
+            7.0, 6.5, 4.5, 3.5, 2.4, 2.4, 2.4, 2.4, 2.4, 2.4 /*noiseReductionStrength*/,
+            3.0, 2.5, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0 /*colorFilterStrength*/,
+            1.5, 2.0, 2.5, 2.5, 2.8, 2.8, 2.8, 2.8, 2.8, 2.8 /*sharpen*/,
+            0/*contrast*/, -1/*iso*/, -1.0/*gain*/, 0/*dynamic*/, 0/*lowIntensity*/, 0/*colorBoost*/, 62/*deghost*/, 8/*effectiveFrames*/, 40/*inputSharpnessThreshold*/, 0.7/*alphalBlendingWeight*/, 0.05/*alphalBlendingStep*/, 0/*preSharpenStrength*/, 4/*movingObject*/,
+
+            2000 /*iso 2000~3200*/,
+            4.0, 3.5, 3.0, 2.5, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0 /*noiseReductionStrength*/,
+            1.8, 1.5, 1.2, 1.2, 1.2, 1.2, 1.2, 1.2, 1.2, 1.2 /*colorFilterStrength*/,
+            0.8, 1.2, 1.5, 1.5, 1.5, 1.5, 1.5, 1.5, 1.5, 1.5 /*sharpen*/,
+            0/*contrast*/, -1/*iso*/, -1.0/*gain*/, 0/*dynamic*/, 0/*lowIntensity*/, 0/*colorBoost*/, 62/*deghost*/, 8/*effectiveFrames*/, 30/*inputSharpnessThreshold*/, 0.4/*alphalBlendingWeight*/, 0.05/*alphalBlendingStep*/, 0/*preSharpenStrength*/, 4/*movingObject*/,
+
+            1000 /*iso 1000~2000*/,
+            2.9, 2.4, 2.0, 1.8, 1.5, 1.5, 1.5, 1.5, 1.5, 1.5 /*noiseReductionStrength*/,
+            1.3, 1.0, 1.2, 1.2, 1.2, 1.2, 1.2, 1.2, 1.2, 1.2 /*colorFilterStrength*/,
+            0.4, 0.8, 1.2, 1.2, 1.2, 1.2, 1.2, 1.2, 1.2, 1.2 /*sharpen*/,
+            0/*contrast*/, -1/*iso*/, -1.0/*gain*/, 0/*dynamic*/, 0/*lowIntensity*/, 0/*colorBoost*/, 63/*deghost*/, 8/*effectiveFrames*/, 25/*inputSharpnessThreshold*/, 0.3/*alphalBlendingWeight*/, 0.05/*alphalBlendingStep*/, 0/*preSharpenStrength*/, 4/*movingObject*/,
+
+            800 /*iso 800~1000*/,
+            2.5, 2.0, 1.8, 1.5, 1.2, 1.2, 1.2, 1.2, 1.2, 1.2 /*noiseReductionStrength*/,
+            1.3, 1.0, 1.2, 1.2, 1.2, 1.2, 1.2, 1.2, 1.2, 1.2 /*colorFilterStrength*/,
+            0.0, 0.0, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1 /*sharpen*/,
+            0/*contrast*/, -1/*iso*/, -1.0/*gain*/, 0/*dynamic*/, 0/*lowIntensity*/, 0/*colorBoost*/, 63/*deghost*/, 8/*effectiveFrames*/, 25/*inputSharpnessThreshold*/, 0.3/*alphalBlendingWeight*/, 0.05/*alphalBlendingStep*/, 1/*preSharpenStrength*/, 4/*movingObject*/,
+
+            400 /*iso 400~800*/,
+            3.0, 2.5, 2.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0 /*noiseReductionStrength*/,
+            1.3, 1.0, 1.2, 1.2, 1.2, 1.2, 1.2, 1.2, 1.2, 1.2 /*colorFilterStrength*/,
+            0.0, 0.0, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1 /*sharpen*/,
+            0/*contrast*/, -1/*iso*/, -1.0/*gain*/, 0/*dynamic*/, 0/*lowIntensity*/, 0/*colorBoost*/, 64/*deghost*/, 8/*effectiveFrames*/, 20/*inputSharpnessThreshold*/, 0.3/*alphalBlendingWeight*/, 0.05/*alphalBlendingStep*/, 1/*preSharpenStrength*/, 4/*movingObject*/,
+
+            200 /*iso 200~400*/,
+            2.3, 1.6, 1.3, 0.6, 0.6, 0.6, 0.6, 0.6, 0.6, 0.6 /*noiseReductionStrength*/,
+            1.3, 1.0, 1.2, 1.2, 1.2, 1.2, 1.2, 1.2, 1.2, 1.2 /*colorFilterStrength*/,
+            0.0, 0.1, 0.1, 0.2, 0.2, 0.2, 0.2, 0.2, 0.2, 0.2 /*sharpen*/,
+            0/*contrast*/, -1/*iso*/, -1.0/*gain*/, 0/*dynamic*/, 0/*lowIntensity*/, 0/*colorBoost*/, 65/*deghost*/, 8/*effectiveFrames*/, 20/*inputSharpnessThreshold*/, 0.3/*alphalBlendingWeight*/, 0.05/*alphalBlendingStep*/, 1/*preSharpenStrength*/, 3/*movingObject*/,
+
+            0 /*iso 0~200*/,
+            2.0, 1.5, 1.0, 0.5, 0.2, 0.2, 0.2, 0.2, 0.2, 0.2 /*noiseReductionStrength*/,
+            1.3, 1.0, 1.2, 1.2, 1.2, 1.2, 1.2, 1.2, 1.2, 1.2 /*colorFilterStrength*/,
+            0.0, 0.1, 0.1, 0.2, 0.2, 0.2, 0.2, 0.2, 0.2, 0.2 /*sharpen*/,
+            0/*contrast*/, -1/*iso*/, -1.0/*gain*/, 0/*dynamic*/, 0/*lowIntensity*/, 0/*colorBoost*/, 67/*deghost*/, 8/*effectiveFrames*/, 15/*inputSharpnessThreshold*/, 0.2/*alphalBlendingWeight*/, 0.05/*alphalBlendingStep*/, 1/*preSharpenStrength*/, 2/*movingObject*/,
+
+            0 /*iso not defined*/,
+            4.0, 3.0, 2.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0 /*noiseReductionStrength*/,
+            2.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0 /*colorFilterStrength*/,
+            0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0 /*sharpen*/,
+            0/*contrast*/, -1/*iso*/, -1.0/*gain*/, 0/*dynamic*/, 0/*lowIntensity*/, 0/*colorBoost*/, 75/*deghost*/, 8/*effectiveFrames*/, 30/*inputSharpnessThreshold*/, 0.3/*alphalBlendingWeight*/, 0.05/*alphalBlendingStep*/, 0/*preSharpenStrength*/, 2/*movingObject*/
+
+            /*index3*/,
+            100.0 /*zoom >20.0*/,
+
+            9000 /*iso >9000*/,
+            7.0, 6.5, 4.5, 3.5, 3.2, 3.2, 3.2, 3.2, 3.2, 3.2 /*noiseReductionStrength*/,
+            3.0, 2.5, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0 /*colorFilterStrength*/,
+            1.5, 2.0, 2.5, 2.5, 2.8, 2.8, 2.8, 2.8, 2.8, 2.8 /*sharpen*/,
+            0/*contrast*/, -1/*iso*/, -1.0/*gain*/, 0/*dynamic*/, 0/*lowIntensity*/, 0/*colorBoost*/, 62/*deghost*/, 8/*effectiveFrames*/, 40/*inputSharpnessThreshold*/, 0.7/*alphalBlendingWeight*/, 0.05/*alphalBlendingStep*/, 0/*preSharpenStrength*/, 4/*movingObject*/,
+
+            8000 /*iso 8000~9000*/,
+            7.0, 6.5, 4.5, 3.5, 3.2, 3.2, 3.2, 3.2, 3.2, 3.2 /*noiseReductionStrength*/,
+            3.0, 2.5, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0 /*colorFilterStrength*/,
+            1.5, 2.0, 2.5, 2.5, 2.8, 2.8, 2.8, 2.8, 2.8, 2.8 /*sharpen*/,
+            0/*contrast*/, -1/*iso*/, -1.0/*gain*/, 0/*dynamic*/, 0/*lowIntensity*/, 0/*colorBoost*/, 62/*deghost*/, 8/*effectiveFrames*/, 40/*inputSharpnessThreshold*/, 0.7/*alphalBlendingWeight*/, 0.05/*alphalBlendingStep*/, 0/*preSharpenStrength*/, 4/*movingObject*/,
+
+            7000 /*iso 7000~8000*/,
+            7.0, 6.5, 4.5, 3.5, 3.2, 3.2, 3.2, 3.2, 3.2, 3.2 /*noiseReductionStrength*/,
+            3.0, 2.5, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0 /*colorFilterStrength*/,
+            1.5, 2.0, 2.5, 2.5, 2.8, 2.8, 2.8, 2.8, 2.8, 2.8 /*sharpen*/,
+            0/*contrast*/, -1/*iso*/, -1.0/*gain*/, 0/*dynamic*/, 0/*lowIntensity*/, 0/*colorBoost*/, 62/*deghost*/, 8/*effectiveFrames*/, 40/*inputSharpnessThreshold*/, 0.7/*alphalBlendingWeight*/, 0.05/*alphalBlendingStep*/, 0/*preSharpenStrength*/, 4/*movingObject*/,
+
+            5000 /*iso 5000~7000*/,
+            7.0, 6.5, 4.5, 3.5, 2.8, 2.8, 2.8, 2.8, 2.8, 2.8 /*noiseReductionStrength*/,
+            3.0, 2.5, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0 /*colorFilterStrength*/,
+            1.5, 2.0, 2.5, 2.5, 2.8, 2.8, 2.8, 2.8, 2.8, 2.8 /*sharpen*/,
+            0/*contrast*/, -1/*iso*/, -1.0/*gain*/, 0/*dynamic*/, 0/*lowIntensity*/, 0/*colorBoost*/, 62/*deghost*/, 8/*effectiveFrames*/, 40/*inputSharpnessThreshold*/, 0.7/*alphalBlendingWeight*/, 0.05/*alphalBlendingStep*/, 0/*preSharpenStrength*/, 4/*movingObject*/,
+
+            3200 /*iso 3200~5000*/,
+            7.0, 6.5, 4.5, 3.5, 2.4, 2.4, 2.4, 2.4, 2.4, 2.4 /*noiseReductionStrength*/,
+            3.0, 2.5, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0 /*colorFilterStrength*/,
+            1.5, 2.0, 2.5, 2.5, 2.8, 2.8, 2.8, 2.8, 2.8, 2.8 /*sharpen*/,
+            0/*contrast*/, -1/*iso*/, -1.0/*gain*/, 0/*dynamic*/, 0/*lowIntensity*/, 0/*colorBoost*/, 62/*deghost*/, 8/*effectiveFrames*/, 40/*inputSharpnessThreshold*/, 0.7/*alphalBlendingWeight*/, 0.05/*alphalBlendingStep*/, 0/*preSharpenStrength*/, 4/*movingObject*/,
+
+            2000 /*iso 2000~3200*/,
+            4.0, 3.5, 3.0, 2.5, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0 /*noiseReductionStrength*/,
+            1.8, 1.5, 1.2, 1.2, 1.2, 1.2, 1.2, 1.2, 1.2, 1.2 /*colorFilterStrength*/,
+            0.8, 1.2, 1.5, 1.5, 1.5, 1.5, 1.5, 1.5, 1.5, 1.5 /*sharpen*/,
+            0/*contrast*/, -1/*iso*/, -1.0/*gain*/, 0/*dynamic*/, 0/*lowIntensity*/, 0/*colorBoost*/, 62/*deghost*/, 8/*effectiveFrames*/, 30/*inputSharpnessThreshold*/, 0.4/*alphalBlendingWeight*/, 0.05/*alphalBlendingStep*/, 0/*preSharpenStrength*/, 4/*movingObject*/,
+
+            1000 /*iso 1000~2000*/,
+            2.9, 2.4, 2.0, 1.8, 1.5, 1.5, 1.5, 1.5, 1.5, 1.5 /*noiseReductionStrength*/,
+            1.3, 1.0, 0.8, 0.8, 0.8, 0.8, 0.8, 0.8, 0.8, 0.8 /*colorFilterStrength*/,
+            0.4, 0.8, 1.2, 1.2, 1.2, 1.2, 1.2, 1.2, 1.2, 1.2 /*sharpen*/,
+            0/*contrast*/, -1/*iso*/, -1.0/*gain*/, 0/*dynamic*/, 0/*lowIntensity*/, 0/*colorBoost*/, 63/*deghost*/, 8/*effectiveFrames*/, 25/*inputSharpnessThreshold*/, 0.3/*alphalBlendingWeight*/, 0.05/*alphalBlendingStep*/, 0/*preSharpenStrength*/, 4/*movingObject*/,
+
+            800 /*iso 800~1000*/,
+            2.5, 2.0, 1.8, 1.5, 1.2, 1.2, 1.2, 1.2, 1.2, 1.2 /*noiseReductionStrength*/,
+            1.3, 1.0, 0.8, 0.6, 0.6, 0.6, 0.6, 0.6, 0.6, 0.6 /*colorFilterStrength*/,
+            0.0, 0.0, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1 /*sharpen*/,
+            0/*contrast*/, -1/*iso*/, -1.0/*gain*/, 0/*dynamic*/, 0/*lowIntensity*/, 0/*colorBoost*/, 63/*deghost*/, 8/*effectiveFrames*/, 25/*inputSharpnessThreshold*/, 0.3/*alphalBlendingWeight*/, 0.05/*alphalBlendingStep*/, 1/*preSharpenStrength*/, 4/*movingObject*/,
+
+            400 /*iso 400~800*/,
+            3.0, 2.5, 2.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0 /*noiseReductionStrength*/,
+            1.3, 1.0, 0.8, 0.6, 0.6, 0.6, 0.6, 0.6, 0.6, 0.6 /*colorFilterStrength*/,
+            0.0, 0.0, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1 /*sharpen*/,
+            0/*contrast*/, -1/*iso*/, -1.0/*gain*/, 0/*dynamic*/, 0/*lowIntensity*/, 0/*colorBoost*/, 64/*deghost*/, 8/*effectiveFrames*/, 20/*inputSharpnessThreshold*/, 0.3/*alphalBlendingWeight*/, 0.05/*alphalBlendingStep*/, 1/*preSharpenStrength*/, 4/*movingObject*/,
+
+            200 /*iso 200~400*/,
+            2.3, 1.6, 1.3, 0.6, 0.6, 0.6, 0.6, 0.6, 0.6, 0.6 /*noiseReductionStrength*/,
+            1.3, 1.0, 0.8, 0.6, 0.6, 0.6, 0.6, 0.6, 0.6, 0.6 /*colorFilterStrength*/,
+            0.0, 0.1, 0.1, 0.2, 0.2, 0.2, 0.2, 0.2, 0.2, 0.2 /*sharpen*/,
+            0/*contrast*/, -1/*iso*/, -1.0/*gain*/, 0/*dynamic*/, 0/*lowIntensity*/, 0/*colorBoost*/, 65/*deghost*/, 8/*effectiveFrames*/, 20/*inputSharpnessThreshold*/, 0.3/*alphalBlendingWeight*/, 0.05/*alphalBlendingStep*/, 1/*preSharpenStrength*/, 3/*movingObject*/,
+
+            0 /*iso 0~200*/,
+            2.0, 1.5, 1.0, 0.5, 0.2, 0.2, 0.2, 0.2, 0.2, 0.2 /*noiseReductionStrength*/,
+            1.3, 1.0, 0.8, 0.6, 0.6, 0.6, 0.6, 0.6, 0.6, 0.6 /*colorFilterStrength*/,
+            0.0, 0.1, 0.1, 0.2, 0.2, 0.2, 0.2, 0.2, 0.2, 0.2 /*sharpen*/,
+            0/*contrast*/, -1/*iso*/, -1.0/*gain*/, 0/*dynamic*/, 0/*lowIntensity*/, 0/*colorBoost*/, 67/*deghost*/, 8/*effectiveFrames*/, 15/*inputSharpnessThreshold*/, 0.2/*alphalBlendingWeight*/, 0.05/*alphalBlendingStep*/, 1/*preSharpenStrength*/, 2/*movingObject*/,
+
+            0 /*iso not defined*/,
+            4.0, 3.0, 2.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0 /*noiseReductionStrength*/,
+            2.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0 /*colorFilterStrength*/,
+            0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0 /*sharpen*/,
+            0/*contrast*/, -1/*iso*/, -1.0/*gain*/, 0/*dynamic*/, 0/*lowIntensity*/, 0/*colorBoost*/, 75/*deghost*/, 8/*effectiveFrames*/, 30/*inputSharpnessThreshold*/, 0.3/*alphalBlendingWeight*/, 0.05/*alphalBlendingStep*/, 0/*preSharpenStrength*/, 2/*movingObject*/
+
+            /*index4*/,
+            0.0 /*zoom not defined*/,
+
+            9000 /*iso >9000*/,
+            7.0, 6.5, 4.5, 3.5, 3.2, 3.2, 3.2, 3.2, 3.2, 3.2 /*noiseReductionStrength*/,
+            5.0, 4.0, 3.0, 3.0, 3.0, 3.0, 3.0, 3.0, 3.0, 3.0 /*colorFilterStrength*/,
+            1.5, 2.0, 2.5, 2.5, 2.8, 2.8, 2.8, 2.8, 2.8, 2.8 /*sharpen*/,
+            0/*contrast*/, -1/*iso*/, -1.0/*gain*/, 0/*dynamic*/, 0/*lowIntensity*/, 0/*colorBoost*/, 60/*deghost*/, 8/*effectiveFrames*/, 40/*inputSharpnessThreshold*/, 0.7/*alphalBlendingWeight*/, 0.05/*alphalBlendingStep*/, 0/*preSharpenStrength*/, 3/*movingObject*/,
+
+            8000 /*iso 8000~9000*/,
+            7.0, 6.5, 4.5, 3.5, 3.2, 3.2, 3.2, 3.2, 3.2, 3.2 /*noiseReductionStrength*/,
+            5.0, 4.0, 3.0, 3.0, 3.0, 3.0, 3.0, 3.0, 3.0, 3.0 /*colorFilterStrength*/,
+            1.5, 2.0, 2.5, 2.5, 2.8, 2.8, 2.8, 2.8, 2.8, 2.8 /*sharpen*/,
+            0/*contrast*/, -1/*iso*/, -1.0/*gain*/, 0/*dynamic*/, 0/*lowIntensity*/, 0/*colorBoost*/, 60/*deghost*/, 8/*effectiveFrames*/, 40/*inputSharpnessThreshold*/, 0.7/*alphalBlendingWeight*/, 0.05/*alphalBlendingStep*/, 0/*preSharpenStrength*/, 3/*movingObject*/,
+
+            7000 /*iso 7000~8000*/,
+            7.0, 6.5, 4.5, 3.5, 3.2, 3.2, 3.2, 3.2, 3.2, 3.2 /*noiseReductionStrength*/,
+            5.0, 4.0, 3.0, 3.0, 3.0, 3.0, 3.0, 3.0, 3.0, 3.0 /*colorFilterStrength*/,
+            1.5, 2.0, 2.5, 2.5, 2.8, 2.8, 2.8, 2.8, 2.8, 2.8 /*sharpen*/,
+            0/*contrast*/, -1/*iso*/, -1.0/*gain*/, 0/*dynamic*/, 0/*lowIntensity*/, 0/*colorBoost*/, 60/*deghost*/, 8/*effectiveFrames*/, 40/*inputSharpnessThreshold*/, 0.7/*alphalBlendingWeight*/, 0.05/*alphalBlendingStep*/, 0/*preSharpenStrength*/, 3/*movingObject*/,
+
+            5000 /*iso 5000~7000*/,
+            7.0, 6.5, 4.5, 3.5, 3.2, 3.2, 3.2, 3.2, 3.2, 3.2 /*noiseReductionStrength*/,
+            5.0, 4.0, 3.0, 3.0, 3.0, 3.0, 3.0, 3.0, 3.0, 3.0 /*colorFilterStrength*/,
+            1.5, 2.0, 2.5, 2.5, 2.8, 2.8, 2.8, 2.8, 2.8, 2.8 /*sharpen*/,
+            0/*contrast*/, -1/*iso*/, -1.0/*gain*/, 0/*dynamic*/, 0/*lowIntensity*/, 0/*colorBoost*/, 60/*deghost*/, 8/*effectiveFrames*/, 40/*inputSharpnessThreshold*/, 0.7/*alphalBlendingWeight*/, 0.05/*alphalBlendingStep*/, 0/*preSharpenStrength*/, 3/*movingObject*/,
+
+            3200 /*iso 3200~5000*/,
+            7.0, 6.5, 4.5, 3.5, 3.2, 3.2, 3.2, 3.2, 3.2, 3.2 /*noiseReductionStrength*/,
+            5.0, 4.0, 3.0, 3.0, 3.0, 3.0, 3.0, 3.0, 3.0, 3.0 /*colorFilterStrength*/,
+            1.5, 2.0, 2.5, 2.5, 2.8, 2.8, 2.8, 2.8, 2.8, 2.8 /*sharpen*/,
+            0/*contrast*/, -1/*iso*/, -1.0/*gain*/, 0/*dynamic*/, 0/*lowIntensity*/, 0/*colorBoost*/, 60/*deghost*/, 8/*effectiveFrames*/, 40/*inputSharpnessThreshold*/, 0.7/*alphalBlendingWeight*/, 0.05/*alphalBlendingStep*/, 0/*preSharpenStrength*/, 3/*movingObject*/,
+
+            2000 /*iso 2000~3200*/,
+            5.0, 4.5, 3.0, 2.5, 2.5, 2.0, 2.0, 2.0, 2.0, 2.0 /*noiseReductionStrength*/,
+            6.5, 5.5, 4.5, 2.5, 2.5, 2.5, 2.5, 2.5, 2.5, 2.5 /*colorFilterStrength*/,
+            0.8, 1.2, 1.5, 1.5, 1.5, 1.5, 1.5, 1.5, 1.5, 1.5 /*sharpen*/,
+            0/*contrast*/, -1/*iso*/, -1.0/*gain*/, 0/*dynamic*/, 0/*lowIntensity*/, 0/*colorBoost*/, 60/*deghost*/, 8/*effectiveFrames*/, 30/*inputSharpnessThreshold*/, 0.4/*alphalBlendingWeight*/, 0.05/*alphalBlendingStep*/, 0/*preSharpenStrength*/, 2/*movingObject*/,
+
+            1200 /*iso 1200~2000*/,
+            2.9, 2.4, 2.0, 1.8, 1.5, 1.5, 1.5, 1.5, 1.5, 1.5 /*noiseReductionStrength*/,
+            1.2, 1.2, 1.2, 1.2, 1.2, 1.2, 1.2, 1.2, 1.2, 1.2 /*colorFilterStrength*/,
+            0.0, 0.4, 0.8, 0.8, 0.8, 0.8, 0.8, 0.8, 0.8, 0.8 /*sharpen*/,
+            0/*contrast*/, -1/*iso*/, -1.0/*gain*/, 0/*dynamic*/, 0/*lowIntensity*/, 0/*colorBoost*/, 70/*deghost*/, 8/*effectiveFrames*/, 30/*inputSharpnessThreshold*/, 0.3/*alphalBlendingWeight*/, 0.05/*alphalBlendingStep*/, 0/*preSharpenStrength*/, 2/*movingObject*/,
+
+            800 /*iso 800~1200*/,
+            2.5, 2.0, 1.8, 1.5, 1.2, 1.2, 1.2, 1.2, 1.2, 1.2 /*noiseReductionStrength*/,
+            1.2, 1.2, 1.2, 1.2, 1.2, 1.2, 1.2, 1.2, 1.2, 1.2 /*colorFilterStrength*/,
+            0.0, 0.1, 0.2, 0.2, 0.2, 0.2, 0.2, 0.2, 0.2, 0.2 /*sharpen*/,
+            0/*contrast*/, -1/*iso*/, -1.0/*gain*/, 0/*dynamic*/, 0/*lowIntensity*/, 0/*colorBoost*/, 70/*deghost*/, 8/*effectiveFrames*/, 30/*inputSharpnessThreshold*/, 0.3/*alphalBlendingWeight*/, 0.05/*alphalBlendingStep*/, 3/*preSharpenStrength*/, 2/*movingObject*/,
+
+            400 /*iso 400~800*/,
+            3.0, 2.5, 2.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0 /*noiseReductionStrength*/,
+            1.2, 1.2, 1.2, 1.2, 1.2, 1.2, 1.2, 1.2, 1.2, 1.2 /*colorFilterStrength*/,
+            0.0, 0.1, 0.3, 0.3, 0.3, 0.3, 0.3, 0.3, 0.3, 0.3 /*sharpen*/,
+            0/*contrast*/, -1/*iso*/, -1.0/*gain*/, 0/*dynamic*/, 0/*lowIntensity*/, 0/*colorBoost*/, 70/*deghost*/, 8/*effectiveFrames*/, 30/*inputSharpnessThreshold*/, 0.3/*alphalBlendingWeight*/, 0.05/*alphalBlendingStep*/, 3/*preSharpenStrength*/, 2/*movingObject*/,
+
+            200 /*iso 200~400*/,
+            2.3, 1.6, 1.3, 0.8, 0.8, 0.8, 0.8, 0.8, 0.8, 0.8 /*noiseReductionStrength*/,
+            1.2, 1.2, 1.2, 1.2, 1.2, 1.2, 1.2, 1.2, 1.2, 1.2 /*colorFilterStrength*/,
+            0.0, 0.2, 0.4, 0.4, 0.4, 0.4, 0.4, 0.4, 0.4, 0.4 /*sharpen*/,
+            0/*contrast*/, -1/*iso*/, -1.0/*gain*/, 0/*dynamic*/, 0/*lowIntensity*/, 0/*colorBoost*/, 70/*deghost*/, 8/*effectiveFrames*/, 25/*inputSharpnessThreshold*/, 0.3/*alphalBlendingWeight*/, 0.05/*alphalBlendingStep*/, 3/*preSharpenStrength*/, 2/*movingObject*/,
+
+            0 /*iso 0~200*/,
+            2.0, 1.5, 1.0, 0.7, 0.5, 0.2, 0.2, 0.2, 0.2, 0.2 /*noiseReductionStrength*/,
+            1.2, 1.2, 1.2, 1.2, 1.2, 1.2, 1.2, 1.2, 1.2, 1.2 /*colorFilterStrength*/,
+            0.0, 0.3, 0.6, 0.6, 0.6, 0.6, 0.6, 0.6, 0.6, 0.6 /*sharpen*/,
+            0/*contrast*/, -1/*iso*/, -1.0/*gain*/, 0/*dynamic*/, 0/*lowIntensity*/, 0/*colorBoost*/, 75/*deghost*/, 8/*effectiveFrames*/, 25/*inputSharpnessThreshold*/, 0.2/*alphalBlendingWeight*/, 0.05/*alphalBlendingStep*/, 3/*preSharpenStrength*/, 2/*movingObject*/,
+
+            0 /*iso not defined*/,
+            4.0, 3.0, 2.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0 /*noiseReductionStrength*/,
+            2.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0 /*colorFilterStrength*/,
+            0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0 /*sharpen*/,
+            0/*contrast*/, -1/*iso*/, -1.0/*gain*/, 0/*dynamic*/, 0/*lowIntensity*/, 0/*colorBoost*/, 75/*deghost*/, 8/*effectiveFrames*/, 30/*inputSharpnessThreshold*/, 0.3/*alphalBlendingWeight*/, 0.05/*alphalBlendingStep*/, 0/*preSharpenStrength*/, 2/*movingObject*/
+            ",
+  "Comment": "
+            isoZoneNumber,
+            maxZoom,
+            iso,
+            process_param_t"
+},
+
+{
+  "VendorTag": "com.oplus.aps.params.superphoto.haveface.v3",
+  "Type": "Float",
+  "Count": "2646",
+  "Value": "
+            11 /*isoZoneNumber*/
+
+            /*index0*/,
+            2.0 /*zoom 0~5.0*/,
+
+            9000 /*iso >9000*/,
+            7.0, 6.5, 4.5, 3.5, 3.2, 3.2, 3.2, 3.2, 3.2, 3.2 /*noiseReductionStrength*/,
+            3.0, 2.5, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0 /*colorFilterStrength*/,
+            1.5, 2.0, 2.5, 2.5, 2.8, 2.8, 2.8, 2.8, 2.8, 2.8 /*sharpen*/,
+            0/*contrast*/, -1/*iso*/, -1.0/*gain*/, 0/*dynamic*/, 0/*lowIntensity*/, 0/*colorBoost*/, 62/*deghost*/, 8/*effectiveFrames*/, 40/*inputSharpnessThreshold*/, 0.7/*alphalBlendingWeight*/, 0.05/*alphalBlendingStep*/, 0/*preSharpenStrength*/, 4/*movingObject*/,
+
+            8000 /*iso 8000~9000*/,
+            7.0, 6.5, 4.5, 3.5, 3.2, 3.2, 3.2, 3.2, 3.2, 3.2 /*noiseReductionStrength*/,
+            3.0, 2.5, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0 /*colorFilterStrength*/,
+            1.5, 2.0, 2.5, 2.5, 2.8, 2.8, 2.8, 2.8, 2.8, 2.8 /*sharpen*/,
+            0/*contrast*/, -1/*iso*/, -1.0/*gain*/, 0/*dynamic*/, 0/*lowIntensity*/, 0/*colorBoost*/, 62/*deghost*/, 8/*effectiveFrames*/, 40/*inputSharpnessThreshold*/, 0.7/*alphalBlendingWeight*/, 0.05/*alphalBlendingStep*/, 0/*preSharpenStrength*/, 4/*movingObject*/,
+
+            7000 /*iso 7000~8000*/,
+            7.0, 6.5, 4.5, 3.5, 3.2, 3.2, 3.2, 3.2, 3.2, 3.2 /*noiseReductionStrength*/,
+            3.0, 2.5, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0 /*colorFilterStrength*/,
+            1.5, 2.0, 2.5, 2.5, 2.8, 2.8, 2.8, 2.8, 2.8, 2.8 /*sharpen*/,
+            0/*contrast*/, -1/*iso*/, -1.0/*gain*/, 0/*dynamic*/, 0/*lowIntensity*/, 0/*colorBoost*/, 62/*deghost*/, 8/*effectiveFrames*/, 40/*inputSharpnessThreshold*/, 0.7/*alphalBlendingWeight*/, 0.05/*alphalBlendingStep*/, 0/*preSharpenStrength*/, 4/*movingObject*/,
+
+            5000 /*iso 5000~7000*/,
+            7.0, 6.5, 4.5, 3.5, 2.8, 2.8, 2.8, 2.8, 2.8, 2.8 /*noiseReductionStrength*/,
+            3.0, 2.5, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0 /*colorFilterStrength*/,
+            1.5, 2.0, 2.5, 2.5, 2.8, 2.8, 2.8, 2.8, 2.8, 2.8 /*sharpen*/,
+            0/*contrast*/, -1/*iso*/, -1.0/*gain*/, 0/*dynamic*/, 0/*lowIntensity*/, 0/*colorBoost*/, 62/*deghost*/, 8/*effectiveFrames*/, 40/*inputSharpnessThreshold*/, 0.7/*alphalBlendingWeight*/, 0.05/*alphalBlendingStep*/, 0/*preSharpenStrength*/, 4/*movingObject*/,
+
+            3200 /*iso 3200~5000*/,
+            7.0, 6.5, 4.5, 3.5, 2.4, 2.4, 2.4, 2.4, 2.4, 2.4 /*noiseReductionStrength*/,
+            3.0, 2.5, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0 /*colorFilterStrength*/,
+            1.5, 2.0, 2.5, 2.5, 2.8, 2.8, 2.8, 2.8, 2.8, 2.8 /*sharpen*/,
+            0/*contrast*/, -1/*iso*/, -1.0/*gain*/, 0/*dynamic*/, 0/*lowIntensity*/, 0/*colorBoost*/, 62/*deghost*/, 8/*effectiveFrames*/, 40/*inputSharpnessThreshold*/, 0.7/*alphalBlendingWeight*/, 0.05/*alphalBlendingStep*/, 0/*preSharpenStrength*/, 4/*movingObject*/,
+
+            2000 /*iso 2000~3200*/,
+            4.0, 3.5, 3.0, 2.5, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0 /*noiseReductionStrength*/,
+            1.8, 1.5, 1.2, 1.2, 1.2, 1.2, 1.2, 1.2, 1.2, 1.2 /*colorFilterStrength*/,
+            0.8, 1.2, 1.5, 1.5, 1.5, 1.5, 1.5, 1.5, 1.5, 1.5 /*sharpen*/,
+            0/*contrast*/, -1/*iso*/, -1.0/*gain*/, 0/*dynamic*/, 0/*lowIntensity*/, 0/*colorBoost*/, 62/*deghost*/, 8/*effectiveFrames*/, 30/*inputSharpnessThreshold*/, 0.4/*alphalBlendingWeight*/, 0.05/*alphalBlendingStep*/, 0/*preSharpenStrength*/, 4/*movingObject*/,
+
+            1000 /*iso 1000~2000*/,
+            2.9, 2.4, 2.0, 1.8, 1.5, 1.5, 1.5, 1.5, 1.5, 1.5 /*noiseReductionStrength*/,
+            1.3, 1.0, 1.2, 1.2, 1.2, 1.2, 1.2, 1.2, 1.2, 1.2 /*colorFilterStrength*/,
+            0.4, 0.8, 1.2, 1.2, 1.2, 1.2, 1.2, 1.2, 1.2, 1.2 /*sharpen*/,
+            0/*contrast*/, -1/*iso*/, -1.0/*gain*/, 0/*dynamic*/, 0/*lowIntensity*/, 0/*colorBoost*/, 63/*deghost*/, 8/*effectiveFrames*/, 25/*inputSharpnessThreshold*/, 0.3/*alphalBlendingWeight*/, 0.05/*alphalBlendingStep*/, 0/*preSharpenStrength*/, 4/*movingObject*/,
+
+            800 /*iso 800~1000*/,
+            2.5, 2.0, 1.8, 1.5, 1.2, 1.2, 1.2, 1.2, 1.2, 1.2 /*noiseReductionStrength*/,
+            1.3, 1.0, 1.2, 1.2, 1.2, 1.2, 1.2, 1.2, 1.2, 1.2 /*colorFilterStrength*/,
+            0.0, 0.0, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1 /*sharpen*/,
+            0/*contrast*/, -1/*iso*/, -1.0/*gain*/, 0/*dynamic*/, 0/*lowIntensity*/, 0/*colorBoost*/, 63/*deghost*/, 8/*effectiveFrames*/, 25/*inputSharpnessThreshold*/, 0.3/*alphalBlendingWeight*/, 0.05/*alphalBlendingStep*/, 1/*preSharpenStrength*/, 4/*movingObject*/,
+
+            400 /*iso 400~800*/,
+            3.0, 2.5, 2.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0 /*noiseReductionStrength*/,
+            1.3, 1.0, 1.2, 1.2, 1.2, 1.2, 1.2, 1.2, 1.2, 1.2 /*colorFilterStrength*/,
+            0.0, 0.0, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1 /*sharpen*/,
+            0/*contrast*/, -1/*iso*/, -1.0/*gain*/, 0/*dynamic*/, 0/*lowIntensity*/, 0/*colorBoost*/, 64/*deghost*/, 8/*effectiveFrames*/, 20/*inputSharpnessThreshold*/, 0.3/*alphalBlendingWeight*/, 0.05/*alphalBlendingStep*/, 1/*preSharpenStrength*/, 4/*movingObject*/,
+
+            200 /*iso 200~400*/,
+            2.3, 1.6, 1.3, 0.6, 0.6, 0.6, 0.6, 0.6, 0.6, 0.6 /*noiseReductionStrength*/,
+            1.3, 1.0, 1.2, 1.2, 1.2, 1.2, 1.2, 1.2, 1.2, 1.2 /*colorFilterStrength*/,
+            0.0, 0.1, 0.1, 0.2, 0.2, 0.2, 0.2, 0.2, 0.2, 0.2 /*sharpen*/,
+            0/*contrast*/, -1/*iso*/, -1.0/*gain*/, 0/*dynamic*/, 0/*lowIntensity*/, 0/*colorBoost*/, 65/*deghost*/, 8/*effectiveFrames*/, 20/*inputSharpnessThreshold*/, 0.3/*alphalBlendingWeight*/, 0.05/*alphalBlendingStep*/, 1/*preSharpenStrength*/, 3/*movingObject*/,
+
+            0 /*iso 0~200*/,
+            2.0, 1.5, 1.0, 0.5, 0.2, 0.2, 0.2, 0.2, 0.2, 0.2 /*noiseReductionStrength*/,
+            1.3, 1.0, 1.2, 1.2, 1.2, 1.2, 1.2, 1.2, 1.2, 1.2 /*colorFilterStrength*/,
+            0.0, 0.1, 0.1, 0.2, 0.2, 0.2, 0.2, 0.2, 0.2, 0.2 /*sharpen*/,
+            0/*contrast*/, -1/*iso*/, -1.0/*gain*/, 0/*dynamic*/, 0/*lowIntensity*/, 0/*colorBoost*/, 67/*deghost*/, 8/*effectiveFrames*/, 15/*inputSharpnessThreshold*/, 0.2/*alphalBlendingWeight*/, 0.05/*alphalBlendingStep*/, 1/*preSharpenStrength*/, 2/*movingObject*/,
+
+            0 /*iso not defined*/,
+            4.0, 3.0, 2.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0 /*noiseReductionStrength*/,
+            2.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0 /*colorFilterStrength*/,
+            0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0 /*sharpen*/,
+            0/*contrast*/, -1/*iso*/, -1.0/*gain*/, 0/*dynamic*/, 0/*lowIntensity*/, 0/*colorBoost*/, 75/*deghost*/, 8/*effectiveFrames*/, 30/*inputSharpnessThreshold*/, 0.3/*alphalBlendingWeight*/, 0.05/*alphalBlendingStep*/, 0/*preSharpenStrength*/, 2/*movingObject*/
+
+            /*index1*/,
+            4.9 /*zoom 5.0~10.0*/,
+
+            9000 /*iso >9000*/,
+            7.0, 6.5, 4.5, 3.5, 3.2, 3.2, 3.2, 3.2, 3.2, 3.2 /*noiseReductionStrength*/,
+            3.0, 2.5, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0 /*colorFilterStrength*/,
+            1.5, 2.0, 2.5, 2.5, 2.8, 2.8, 2.8, 2.8, 2.8, 2.8 /*sharpen*/,
+            0/*contrast*/, -1/*iso*/, -1.0/*gain*/, 0/*dynamic*/, 0/*lowIntensity*/, 0/*colorBoost*/, 62/*deghost*/, 8/*effectiveFrames*/, 40/*inputSharpnessThreshold*/, 0.7/*alphalBlendingWeight*/, 0.05/*alphalBlendingStep*/, 0/*preSharpenStrength*/, 4/*movingObject*/,
+
+            8000 /*iso 8000~9000*/,
+            7.0, 6.5, 4.5, 3.5, 3.2, 3.2, 3.2, 3.2, 3.2, 3.2 /*noiseReductionStrength*/,
+            3.0, 2.5, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0 /*colorFilterStrength*/,
+            1.5, 2.0, 2.5, 2.5, 2.8, 2.8, 2.8, 2.8, 2.8, 2.8 /*sharpen*/,
+            0/*contrast*/, -1/*iso*/, -1.0/*gain*/, 0/*dynamic*/, 0/*lowIntensity*/, 0/*colorBoost*/, 62/*deghost*/, 8/*effectiveFrames*/, 40/*inputSharpnessThreshold*/, 0.7/*alphalBlendingWeight*/, 0.05/*alphalBlendingStep*/, 0/*preSharpenStrength*/, 4/*movingObject*/,
+
+            7000 /*iso 7000~8000*/,
+            7.0, 6.5, 4.5, 3.5, 3.2, 3.2, 3.2, 3.2, 3.2, 3.2 /*noiseReductionStrength*/,
+            3.0, 2.5, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0 /*colorFilterStrength*/,
+            1.5, 2.0, 2.5, 2.5, 2.8, 2.8, 2.8, 2.8, 2.8, 2.8 /*sharpen*/,
+            0/*contrast*/, -1/*iso*/, -1.0/*gain*/, 0/*dynamic*/, 0/*lowIntensity*/, 0/*colorBoost*/, 62/*deghost*/, 8/*effectiveFrames*/, 40/*inputSharpnessThreshold*/, 0.7/*alphalBlendingWeight*/, 0.05/*alphalBlendingStep*/, 0/*preSharpenStrength*/, 4/*movingObject*/,
+
+            5000 /*iso 5000~7000*/,
+            7.0, 6.5, 4.5, 3.5, 2.8, 2.8, 2.8, 2.8, 2.8, 2.8 /*noiseReductionStrength*/,
+            3.0, 2.5, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0 /*colorFilterStrength*/,
+            1.5, 2.0, 2.5, 2.5, 2.8, 2.8, 2.8, 2.8, 2.8, 2.8 /*sharpen*/,
+            0/*contrast*/, -1/*iso*/, -1.0/*gain*/, 0/*dynamic*/, 0/*lowIntensity*/, 0/*colorBoost*/, 62/*deghost*/, 8/*effectiveFrames*/, 40/*inputSharpnessThreshold*/, 0.7/*alphalBlendingWeight*/, 0.05/*alphalBlendingStep*/, 0/*preSharpenStrength*/, 4/*movingObject*/,
+
+            3200 /*iso 3200~5000*/,
+            7.0, 6.5, 4.5, 3.5, 2.4, 2.4, 2.4, 2.4, 2.4, 2.4 /*noiseReductionStrength*/,
+            3.0, 2.5, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0 /*colorFilterStrength*/,
+            1.5, 2.0, 2.5, 2.5, 2.8, 2.8, 2.8, 2.8, 2.8, 2.8 /*sharpen*/,
+            0/*contrast*/, -1/*iso*/, -1.0/*gain*/, 0/*dynamic*/, 0/*lowIntensity*/, 0/*colorBoost*/, 62/*deghost*/, 8/*effectiveFrames*/, 40/*inputSharpnessThreshold*/, 0.7/*alphalBlendingWeight*/, 0.05/*alphalBlendingStep*/, 0/*preSharpenStrength*/, 4/*movingObject*/,
+
+            2000 /*iso 2000~3200*/,
+            4.0, 3.5, 3.0, 2.5, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0 /*noiseReductionStrength*/,
+            1.8, 1.5, 1.2, 1.2, 1.2, 1.2, 1.2, 1.2, 1.2, 1.2 /*colorFilterStrength*/,
+            0.8, 1.2, 1.5, 1.5, 1.5, 1.5, 1.5, 1.5, 1.5, 1.5 /*sharpen*/,
+            0/*contrast*/, -1/*iso*/, -1.0/*gain*/, 0/*dynamic*/, 0/*lowIntensity*/, 0/*colorBoost*/, 62/*deghost*/, 8/*effectiveFrames*/, 30/*inputSharpnessThreshold*/, 0.4/*alphalBlendingWeight*/, 0.05/*alphalBlendingStep*/, 0/*preSharpenStrength*/, 4/*movingObject*/,
+
+            1000 /*iso 1000~2000*/,
+            2.9, 2.4, 2.0, 1.8, 1.5, 1.5, 1.5, 1.5, 1.5, 1.5 /*noiseReductionStrength*/,
+            1.3, 1.0, 1.2, 1.2, 1.2, 1.2, 1.2, 1.2, 1.2, 1.2 /*colorFilterStrength*/,
+            0.4, 0.8, 1.2, 1.2, 1.2, 1.2, 1.2, 1.2, 1.2, 1.2 /*sharpen*/,
+            0/*contrast*/, -1/*iso*/, -1.0/*gain*/, 0/*dynamic*/, 0/*lowIntensity*/, 0/*colorBoost*/, 63/*deghost*/, 8/*effectiveFrames*/, 25/*inputSharpnessThreshold*/, 0.3/*alphalBlendingWeight*/, 0.05/*alphalBlendingStep*/, 0/*preSharpenStrength*/, 4/*movingObject*/,
+
+            800 /*iso 800~1000*/,
+            2.5, 2.0, 1.8, 1.5, 1.2, 1.2, 1.2, 1.2, 1.2, 1.2 /*noiseReductionStrength*/,
+            1.3, 1.0, 1.2, 1.2, 1.2, 1.2, 1.2, 1.2, 1.2, 1.2 /*colorFilterStrength*/,
+            0.0, 0.0, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1 /*sharpen*/,
+            0/*contrast*/, -1/*iso*/, -1.0/*gain*/, 0/*dynamic*/, 0/*lowIntensity*/, 0/*colorBoost*/, 63/*deghost*/, 8/*effectiveFrames*/, 25/*inputSharpnessThreshold*/, 0.3/*alphalBlendingWeight*/, 0.05/*alphalBlendingStep*/, 1/*preSharpenStrength*/, 4/*movingObject*/,
+
+            400 /*iso 400~800*/,
+            3.0, 2.5, 2.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0 /*noiseReductionStrength*/,
+            1.3, 1.0, 1.2, 1.2, 1.2, 1.2, 1.2, 1.2, 1.2, 1.2 /*colorFilterStrength*/,
+            0.0, 0.0, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1 /*sharpen*/,
+            0/*contrast*/, -1/*iso*/, -1.0/*gain*/, 0/*dynamic*/, 0/*lowIntensity*/, 0/*colorBoost*/, 64/*deghost*/, 8/*effectiveFrames*/, 20/*inputSharpnessThreshold*/, 0.3/*alphalBlendingWeight*/, 0.05/*alphalBlendingStep*/, 1/*preSharpenStrength*/, 4/*movingObject*/,
+
+            200 /*iso 200~400*/,
+            2.3, 1.6, 1.3, 0.6, 0.6, 0.6, 0.6, 0.6, 0.6, 0.6 /*noiseReductionStrength*/,
+            1.3, 1.0, 1.2, 1.2, 1.2, 1.2, 1.2, 1.2, 1.2, 1.2 /*colorFilterStrength*/,
+            0.0, 0.1, 0.1, 0.2, 0.2, 0.2, 0.2, 0.2, 0.2, 0.2 /*sharpen*/,
+            0/*contrast*/, -1/*iso*/, -1.0/*gain*/, 0/*dynamic*/, 0/*lowIntensity*/, 0/*colorBoost*/, 65/*deghost*/, 8/*effectiveFrames*/, 20/*inputSharpnessThreshold*/, 0.3/*alphalBlendingWeight*/, 0.05/*alphalBlendingStep*/, 1/*preSharpenStrength*/, 3/*movingObject*/,
+
+            0 /*iso 0~200*/,
+            2.0, 1.5, 1.0, 0.5, 0.2, 0.2, 0.2, 0.2, 0.2, 0.2 /*noiseReductionStrength*/,
+            1.3, 1.0, 1.2, 1.2, 1.2, 1.2, 1.2, 1.2, 1.2, 1.2 /*colorFilterStrength*/,
+            0.0, 0.1, 0.1, 0.2, 0.2, 0.2, 0.2, 0.2, 0.2, 0.2 /*sharpen*/,
+            0/*contrast*/, -1/*iso*/, -1.0/*gain*/, 0/*dynamic*/, 0/*lowIntensity*/, 0/*colorBoost*/, 67/*deghost*/, 8/*effectiveFrames*/, 15/*inputSharpnessThreshold*/, 0.2/*alphalBlendingWeight*/, 0.05/*alphalBlendingStep*/, 1/*preSharpenStrength*/, 2/*movingObject*/,
+
+            0 /*iso not defined*/,
+            4.0, 3.0, 2.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0 /*noiseReductionStrength*/,
+            2.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0 /*colorFilterStrength*/,
+            0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0 /*sharpen*/,
+            0/*contrast*/, -1/*iso*/, -1.0/*gain*/, 0/*dynamic*/, 0/*lowIntensity*/, 0/*colorBoost*/, 75/*deghost*/, 8/*effectiveFrames*/, 30/*inputSharpnessThreshold*/, 0.3/*alphalBlendingWeight*/, 0.05/*alphalBlendingStep*/, 0/*preSharpenStrength*/, 2/*movingObject*/
+
+            /*index2*/,
+            9.9 /*zoom 10.0~20.0*/,
+
+            9000 /*iso >9000*/,
+            7.0, 6.5, 4.5, 3.5, 3.2, 3.2, 3.2, 3.2, 3.2, 3.2 /*noiseReductionStrength*/,
+            3.0, 2.5, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0 /*colorFilterStrength*/,
+            1.5, 2.0, 2.5, 2.5, 2.8, 2.8, 2.8, 2.8, 2.8, 2.8 /*sharpen*/,
+            0/*contrast*/, -1/*iso*/, -1.0/*gain*/, 0/*dynamic*/, 0/*lowIntensity*/, 0/*colorBoost*/, 62/*deghost*/, 8/*effectiveFrames*/, 40/*inputSharpnessThreshold*/, 0.7/*alphalBlendingWeight*/, 0.05/*alphalBlendingStep*/, 0/*preSharpenStrength*/, 4/*movingObject*/,
+
+            8000 /*iso 8000~9000*/,
+            7.0, 6.5, 4.5, 3.5, 3.2, 3.2, 3.2, 3.2, 3.2, 3.2 /*noiseReductionStrength*/,
+            3.0, 2.5, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0 /*colorFilterStrength*/,
+            1.5, 2.0, 2.5, 2.5, 2.8, 2.8, 2.8, 2.8, 2.8, 2.8 /*sharpen*/,
+            0/*contrast*/, -1/*iso*/, -1.0/*gain*/, 0/*dynamic*/, 0/*lowIntensity*/, 0/*colorBoost*/, 62/*deghost*/, 8/*effectiveFrames*/, 40/*inputSharpnessThreshold*/, 0.7/*alphalBlendingWeight*/, 0.05/*alphalBlendingStep*/, 0/*preSharpenStrength*/, 4/*movingObject*/,
+
+            7000 /*iso 7000~8000*/,
+            7.0, 6.5, 4.5, 3.5, 3.2, 3.2, 3.2, 3.2, 3.2, 3.2 /*noiseReductionStrength*/,
+            3.0, 2.5, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0 /*colorFilterStrength*/,
+            1.5, 2.0, 2.5, 2.5, 2.8, 2.8, 2.8, 2.8, 2.8, 2.8 /*sharpen*/,
+            0/*contrast*/, -1/*iso*/, -1.0/*gain*/, 0/*dynamic*/, 0/*lowIntensity*/, 0/*colorBoost*/, 62/*deghost*/, 8/*effectiveFrames*/, 40/*inputSharpnessThreshold*/, 0.7/*alphalBlendingWeight*/, 0.05/*alphalBlendingStep*/, 0/*preSharpenStrength*/, 4/*movingObject*/,
+
+            5000 /*iso 5000~7000*/,
+            7.0, 6.5, 4.5, 3.5, 2.8, 2.8, 2.8, 2.8, 2.8, 2.8 /*noiseReductionStrength*/,
+            3.0, 2.5, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0 /*colorFilterStrength*/,
+            1.5, 2.0, 2.5, 2.5, 2.8, 2.8, 2.8, 2.8, 2.8, 2.8 /*sharpen*/,
+            0/*contrast*/, -1/*iso*/, -1.0/*gain*/, 0/*dynamic*/, 0/*lowIntensity*/, 0/*colorBoost*/, 62/*deghost*/, 8/*effectiveFrames*/, 40/*inputSharpnessThreshold*/, 0.7/*alphalBlendingWeight*/, 0.05/*alphalBlendingStep*/, 0/*preSharpenStrength*/, 4/*movingObject*/,
+
+            3200 /*iso 3200~5000*/,
+            7.0, 6.5, 4.5, 3.5, 2.4, 2.4, 2.4, 2.4, 2.4, 2.4 /*noiseReductionStrength*/,
+            3.0, 2.5, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0 /*colorFilterStrength*/,
+            1.5, 2.0, 2.5, 2.5, 2.8, 2.8, 2.8, 2.8, 2.8, 2.8 /*sharpen*/,
+            0/*contrast*/, -1/*iso*/, -1.0/*gain*/, 0/*dynamic*/, 0/*lowIntensity*/, 0/*colorBoost*/, 62/*deghost*/, 8/*effectiveFrames*/, 40/*inputSharpnessThreshold*/, 0.7/*alphalBlendingWeight*/, 0.05/*alphalBlendingStep*/, 0/*preSharpenStrength*/, 4/*movingObject*/,
+
+            2000 /*iso 2000~3200*/,
+            4.0, 3.5, 3.0, 2.5, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0 /*noiseReductionStrength*/,
+            1.8, 1.5, 1.2, 1.2, 1.2, 1.2, 1.2, 1.2, 1.2, 1.2 /*colorFilterStrength*/,
+            0.8, 1.2, 1.5, 1.5, 1.5, 1.5, 1.5, 1.5, 1.5, 1.5 /*sharpen*/,
+            0/*contrast*/, -1/*iso*/, -1.0/*gain*/, 0/*dynamic*/, 0/*lowIntensity*/, 0/*colorBoost*/, 62/*deghost*/, 8/*effectiveFrames*/, 30/*inputSharpnessThreshold*/, 0.4/*alphalBlendingWeight*/, 0.05/*alphalBlendingStep*/, 0/*preSharpenStrength*/, 4/*movingObject*/,
+
+            1000 /*iso 1000~2000*/,
+            2.9, 2.4, 2.0, 1.8, 1.5, 1.5, 1.5, 1.5, 1.5, 1.5 /*noiseReductionStrength*/,
+            1.3, 1.0, 1.2, 1.2, 1.2, 1.2, 1.2, 1.2, 1.2, 1.2 /*colorFilterStrength*/,
+            0.4, 0.8, 1.2, 1.2, 1.2, 1.2, 1.2, 1.2, 1.2, 1.2 /*sharpen*/,
+            0/*contrast*/, -1/*iso*/, -1.0/*gain*/, 0/*dynamic*/, 0/*lowIntensity*/, 0/*colorBoost*/, 62/*deghost*/, 8/*effectiveFrames*/, 25/*inputSharpnessThreshold*/, 0.3/*alphalBlendingWeight*/, 0.05/*alphalBlendingStep*/, 0/*preSharpenStrength*/, 4/*movingObject*/,
+
+            800 /*iso 800~1000*/,
+            2.5, 2.0, 1.8, 1.5, 1.2, 1.2, 1.2, 1.2, 1.2, 1.2 /*noiseReductionStrength*/,
+            1.3, 1.0, 1.2, 1.2, 1.2, 1.2, 1.2, 1.2, 1.2, 1.2 /*colorFilterStrength*/,
+            0.0, 0.0, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1 /*sharpen*/,
+            0/*contrast*/, -1/*iso*/, -1.0/*gain*/, 0/*dynamic*/, 0/*lowIntensity*/, 0/*colorBoost*/, 63/*deghost*/, 8/*effectiveFrames*/, 25/*inputSharpnessThreshold*/, 0.3/*alphalBlendingWeight*/, 0.05/*alphalBlendingStep*/, 1/*preSharpenStrength*/, 4/*movingObject*/,
+
+            400 /*iso 400~800*/,
+            3.0, 2.5, 2.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0 /*noiseReductionStrength*/,
+            1.3, 1.0, 1.2, 1.2, 1.2, 1.2, 1.2, 1.2, 1.2, 1.2 /*colorFilterStrength*/,
+            0.0, 0.0, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1 /*sharpen*/,
+            0/*contrast*/, -1/*iso*/, -1.0/*gain*/, 0/*dynamic*/, 0/*lowIntensity*/, 0/*colorBoost*/, 64/*deghost*/, 8/*effectiveFrames*/, 20/*inputSharpnessThreshold*/, 0.3/*alphalBlendingWeight*/, 0.05/*alphalBlendingStep*/, 1/*preSharpenStrength*/, 4/*movingObject*/,
+
+            200 /*iso 200~400*/,
+            2.3, 1.6, 1.3, 0.6, 0.6, 0.6, 0.6, 0.6, 0.6, 0.6 /*noiseReductionStrength*/,
+            1.3, 1.0, 1.2, 1.2, 1.2, 1.2, 1.2, 1.2, 1.2, 1.2 /*colorFilterStrength*/,
+            0.0, 0.1, 0.1, 0.2, 0.2, 0.2, 0.2, 0.2, 0.2, 0.2 /*sharpen*/,
+            0/*contrast*/, -1/*iso*/, -1.0/*gain*/, 0/*dynamic*/, 0/*lowIntensity*/, 0/*colorBoost*/, 65/*deghost*/, 8/*effectiveFrames*/, 20/*inputSharpnessThreshold*/, 0.3/*alphalBlendingWeight*/, 0.05/*alphalBlendingStep*/, 1/*preSharpenStrength*/, 3/*movingObject*/,
+
+            0 /*iso 0~200*/,
+            2.0, 1.5, 1.0, 0.5, 0.2, 0.2, 0.2, 0.2, 0.2, 0.2 /*noiseReductionStrength*/,
+            1.3, 1.0, 1.2, 1.2, 1.2, 1.2, 1.2, 1.2, 1.2, 1.2 /*colorFilterStrength*/,
+            0.0, 0.1, 0.1, 0.2, 0.2, 0.2, 0.2, 0.2, 0.2, 0.2 /*sharpen*/,
+            0/*contrast*/, -1/*iso*/, -1.0/*gain*/, 0/*dynamic*/, 0/*lowIntensity*/, 0/*colorBoost*/, 67/*deghost*/, 8/*effectiveFrames*/, 15/*inputSharpnessThreshold*/, 0.2/*alphalBlendingWeight*/, 0.05/*alphalBlendingStep*/, 1/*preSharpenStrength*/, 2/*movingObject*/,
+
+            0 /*iso not defined*/,
+            4.0, 3.0, 2.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0 /*noiseReductionStrength*/,
+            2.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0 /*colorFilterStrength*/,
+            0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0 /*sharpen*/,
+            0/*contrast*/, -1/*iso*/, -1.0/*gain*/, 0/*dynamic*/, 0/*lowIntensity*/, 0/*colorBoost*/, 75/*deghost*/, 8/*effectiveFrames*/, 30/*inputSharpnessThreshold*/, 0.3/*alphalBlendingWeight*/, 0.05/*alphalBlendingStep*/, 0/*preSharpenStrength*/, 2/*movingObject*/
+
+            /*index3*/,
+            100.0 /*zoom >20.0*/,
+
+            9000 /*iso >9000*/,
+            7.0, 6.5, 4.5, 3.5, 3.2, 3.2, 3.2, 3.2, 3.2, 3.2 /*noiseReductionStrength*/,
+            3.0, 2.5, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0 /*colorFilterStrength*/,
+            1.5, 2.0, 2.5, 2.5, 2.8, 2.8, 2.8, 2.8, 2.8, 2.8 /*sharpen*/,
+            0/*contrast*/, -1/*iso*/, -1.0/*gain*/, 0/*dynamic*/, 0/*lowIntensity*/, 0/*colorBoost*/, 62/*deghost*/, 8/*effectiveFrames*/, 40/*inputSharpnessThreshold*/, 0.7/*alphalBlendingWeight*/, 0.05/*alphalBlendingStep*/, 0/*preSharpenStrength*/, 4/*movingObject*/,
+
+            8000 /*iso 8000~9000*/,
+            7.0, 6.5, 4.5, 3.5, 3.2, 3.2, 3.2, 3.2, 3.2, 3.2 /*noiseReductionStrength*/,
+            3.0, 2.5, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0 /*colorFilterStrength*/,
+            1.5, 2.0, 2.5, 2.5, 2.8, 2.8, 2.8, 2.8, 2.8, 2.8 /*sharpen*/,
+            0/*contrast*/, -1/*iso*/, -1.0/*gain*/, 0/*dynamic*/, 0/*lowIntensity*/, 0/*colorBoost*/, 62/*deghost*/, 8/*effectiveFrames*/, 40/*inputSharpnessThreshold*/, 0.7/*alphalBlendingWeight*/, 0.05/*alphalBlendingStep*/, 0/*preSharpenStrength*/, 4/*movingObject*/,
+
+            7000 /*iso 7000~8000*/,
+            7.0, 6.5, 4.5, 3.5, 3.2, 3.2, 3.2, 3.2, 3.2, 3.2 /*noiseReductionStrength*/,
+            3.0, 2.5, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0 /*colorFilterStrength*/,
+            1.5, 2.0, 2.5, 2.5, 2.8, 2.8, 2.8, 2.8, 2.8, 2.8 /*sharpen*/,
+            0/*contrast*/, -1/*iso*/, -1.0/*gain*/, 0/*dynamic*/, 0/*lowIntensity*/, 0/*colorBoost*/, 62/*deghost*/, 8/*effectiveFrames*/, 40/*inputSharpnessThreshold*/, 0.7/*alphalBlendingWeight*/, 0.05/*alphalBlendingStep*/, 0/*preSharpenStrength*/, 4/*movingObject*/,
+
+            5000 /*iso 5000~7000*/,
+            7.0, 6.5, 4.5, 3.5, 2.8, 2.8, 2.8, 2.8, 2.8, 2.8 /*noiseReductionStrength*/,
+            3.0, 2.5, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0 /*colorFilterStrength*/,
+            1.5, 2.0, 2.5, 2.5, 2.8, 2.8, 2.8, 2.8, 2.8, 2.8 /*sharpen*/,
+            0/*contrast*/, -1/*iso*/, -1.0/*gain*/, 0/*dynamic*/, 0/*lowIntensity*/, 0/*colorBoost*/, 62/*deghost*/, 8/*effectiveFrames*/, 40/*inputSharpnessThreshold*/, 0.7/*alphalBlendingWeight*/, 0.05/*alphalBlendingStep*/, 0/*preSharpenStrength*/, 4/*movingObject*/,
+
+            3200 /*iso 3200~5000*/,
+            7.0, 6.5, 4.5, 3.5, 2.4, 2.4, 2.4, 2.4, 2.4, 2.4 /*noiseReductionStrength*/,
+            3.0, 2.5, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0 /*colorFilterStrength*/,
+            1.5, 2.0, 2.5, 2.5, 2.8, 2.8, 2.8, 2.8, 2.8, 2.8 /*sharpen*/,
+            0/*contrast*/, -1/*iso*/, -1.0/*gain*/, 0/*dynamic*/, 0/*lowIntensity*/, 0/*colorBoost*/, 62/*deghost*/, 8/*effectiveFrames*/, 40/*inputSharpnessThreshold*/, 0.7/*alphalBlendingWeight*/, 0.05/*alphalBlendingStep*/, 0/*preSharpenStrength*/, 4/*movingObject*/,
+
+            2000 /*iso 2000~3200*/,
+            4.0, 3.5, 3.0, 2.5, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0 /*noiseReductionStrength*/,
+            1.8, 1.5, 1.2, 1.2, 1.2, 1.2, 1.2, 1.2, 1.2, 1.2 /*colorFilterStrength*/,
+            0.8, 1.2, 1.5, 1.5, 1.5, 1.5, 1.5, 1.5, 1.5, 1.5 /*sharpen*/,
+            0/*contrast*/, -1/*iso*/, -1.0/*gain*/, 0/*dynamic*/, 0/*lowIntensity*/, 0/*colorBoost*/, 62/*deghost*/, 8/*effectiveFrames*/, 30/*inputSharpnessThreshold*/, 0.4/*alphalBlendingWeight*/, 0.05/*alphalBlendingStep*/, 0/*preSharpenStrength*/, 4/*movingObject*/,
+
+            1000 /*iso 1000~2000*/,
+            2.9, 2.4, 2.0, 1.8, 1.5, 1.5, 1.5, 1.5, 1.5, 1.5 /*noiseReductionStrength*/,
+            1.3, 1.0, 0.8, 0.8, 0.8, 0.8, 0.8, 0.8, 0.8, 0.8 /*colorFilterStrength*/,
+            0.4, 0.8, 1.2, 1.2, 1.2, 1.2, 1.2, 1.2, 1.2, 1.2 /*sharpen*/,
+            0/*contrast*/, -1/*iso*/, -1.0/*gain*/, 0/*dynamic*/, 0/*lowIntensity*/, 0/*colorBoost*/, 62/*deghost*/, 8/*effectiveFrames*/, 25/*inputSharpnessThreshold*/, 0.3/*alphalBlendingWeight*/, 0.05/*alphalBlendingStep*/, 0/*preSharpenStrength*/, 4/*movingObject*/,
+
+            800 /*iso 800~1000*/,
+            2.5, 2.0, 1.8, 1.5, 1.2, 1.2, 1.2, 1.2, 1.2, 1.2 /*noiseReductionStrength*/,
+            1.3, 1.0, 0.8, 0.6, 0.6, 0.6, 0.6, 0.6, 0.6, 0.6 /*colorFilterStrength*/,
+            0.0, 0.0, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1 /*sharpen*/,
+            0/*contrast*/, -1/*iso*/, -1.0/*gain*/, 0/*dynamic*/, 0/*lowIntensity*/, 0/*colorBoost*/, 63/*deghost*/, 8/*effectiveFrames*/, 25/*inputSharpnessThreshold*/, 0.3/*alphalBlendingWeight*/, 0.05/*alphalBlendingStep*/, 1/*preSharpenStrength*/, 4/*movingObject*/,
+
+            400 /*iso 400~800*/,
+            3.0, 2.5, 2.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0 /*noiseReductionStrength*/,
+            1.3, 1.0, 0.8, 0.6, 0.6, 0.6, 0.6, 0.6, 0.6, 0.6 /*colorFilterStrength*/,
+            0.0, 0.0, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1 /*sharpen*/,
+            0/*contrast*/, -1/*iso*/, -1.0/*gain*/, 0/*dynamic*/, 0/*lowIntensity*/, 0/*colorBoost*/, 64/*deghost*/, 8/*effectiveFrames*/, 20/*inputSharpnessThreshold*/, 0.3/*alphalBlendingWeight*/, 0.05/*alphalBlendingStep*/, 1/*preSharpenStrength*/, 4/*movingObject*/,
+
+            200 /*iso 200~400*/,
+            2.3, 1.6, 1.3, 0.6, 0.6, 0.6, 0.6, 0.6, 0.6, 0.6 /*noiseReductionStrength*/,
+            1.3, 1.0, 0.8, 0.6, 0.6, 0.6, 0.6, 0.6, 0.6, 0.6 /*colorFilterStrength*/,
+            0.0, 0.1, 0.1, 0.2, 0.2, 0.2, 0.2, 0.2, 0.2, 0.2 /*sharpen*/,
+            0/*contrast*/, -1/*iso*/, -1.0/*gain*/, 0/*dynamic*/, 0/*lowIntensity*/, 0/*colorBoost*/, 65/*deghost*/, 8/*effectiveFrames*/, 20/*inputSharpnessThreshold*/, 0.3/*alphalBlendingWeight*/, 0.05/*alphalBlendingStep*/, 1/*preSharpenStrength*/, 3/*movingObject*/,
+
+            0 /*iso 0~200*/,
+            2.0, 1.5, 1.0, 0.5, 0.2, 0.2, 0.2, 0.2, 0.2, 0.2 /*noiseReductionStrength*/,
+            1.3, 1.0, 0.8, 0.6, 0.6, 0.6, 0.6, 0.6, 0.6, 0.6 /*colorFilterStrength*/,
+            0.0, 0.1, 0.1, 0.2, 0.2, 0.2, 0.2, 0.2, 0.2, 0.2 /*sharpen*/,
+            0/*contrast*/, -1/*iso*/, -1.0/*gain*/, 0/*dynamic*/, 0/*lowIntensity*/, 0/*colorBoost*/, 67/*deghost*/, 8/*effectiveFrames*/, 15/*inputSharpnessThreshold*/, 0.2/*alphalBlendingWeight*/, 0.05/*alphalBlendingStep*/, 1/*preSharpenStrength*/, 2/*movingObject*/,
+
+            0 /*iso not defined*/,
+            4.0, 3.0, 2.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0 /*noiseReductionStrength*/,
+            2.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0 /*colorFilterStrength*/,
+            0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0 /*sharpen*/,
+            0/*contrast*/, -1/*iso*/, -1.0/*gain*/, 0/*dynamic*/, 0/*lowIntensity*/, 0/*colorBoost*/, 75/*deghost*/, 8/*effectiveFrames*/, 30/*inputSharpnessThreshold*/, 0.3/*alphalBlendingWeight*/, 0.05/*alphalBlendingStep*/, 0/*preSharpenStrength*/, 2/*movingObject*/
+
+            /*index4*/,
+            0.0 /*zoom not defined*/,
+
+            9000 /*iso >9000*/,
+            7.0, 6.5, 4.5, 3.5, 3.2, 3.2, 3.2, 3.2, 3.2, 3.2 /*noiseReductionStrength*/,
+            5.0, 4.0, 3.0, 3.0, 3.0, 3.0, 3.0, 3.0, 3.0, 3.0 /*colorFilterStrength*/,
+            1.5, 2.0, 2.5, 2.5, 2.8, 2.8, 2.8, 2.8, 2.8, 2.8 /*sharpen*/,
+            0/*contrast*/, -1/*iso*/, -1.0/*gain*/, 0/*dynamic*/, 0/*lowIntensity*/, 0/*colorBoost*/, 60/*deghost*/, 8/*effectiveFrames*/, 40/*inputSharpnessThreshold*/, 0.7/*alphalBlendingWeight*/, 0.05/*alphalBlendingStep*/, 0/*preSharpenStrength*/, 3/*movingObject*/,
+
+            8000 /*iso 8000~9000*/,
+            7.0, 6.5, 4.5, 3.5, 3.2, 3.2, 3.2, 3.2, 3.2, 3.2 /*noiseReductionStrength*/,
+            5.0, 4.0, 3.0, 3.0, 3.0, 3.0, 3.0, 3.0, 3.0, 3.0 /*colorFilterStrength*/,
+            1.5, 2.0, 2.5, 2.5, 2.8, 2.8, 2.8, 2.8, 2.8, 2.8 /*sharpen*/,
+            0/*contrast*/, -1/*iso*/, -1.0/*gain*/, 0/*dynamic*/, 0/*lowIntensity*/, 0/*colorBoost*/, 60/*deghost*/, 8/*effectiveFrames*/, 40/*inputSharpnessThreshold*/, 0.7/*alphalBlendingWeight*/, 0.05/*alphalBlendingStep*/, 0/*preSharpenStrength*/, 3/*movingObject*/,
+
+            7000 /*iso 7000~8000*/,
+            7.0, 6.5, 4.5, 3.5, 3.2, 3.2, 3.2, 3.2, 3.2, 3.2 /*noiseReductionStrength*/,
+            5.0, 4.0, 3.0, 3.0, 3.0, 3.0, 3.0, 3.0, 3.0, 3.0 /*colorFilterStrength*/,
+            1.5, 2.0, 2.5, 2.5, 2.8, 2.8, 2.8, 2.8, 2.8, 2.8 /*sharpen*/,
+            0/*contrast*/, -1/*iso*/, -1.0/*gain*/, 0/*dynamic*/, 0/*lowIntensity*/, 0/*colorBoost*/, 60/*deghost*/, 8/*effectiveFrames*/, 40/*inputSharpnessThreshold*/, 0.7/*alphalBlendingWeight*/, 0.05/*alphalBlendingStep*/, 0/*preSharpenStrength*/, 3/*movingObject*/,
+
+            5000 /*iso 5000~7000*/,
+            4.0, 3.5, 3.0, 2.9, 2.8, 2.8, 2.8, 2.8, 2.8, 2.8 /*noiseReductionStrength*/,
+            5.0, 4.0, 3.0, 3.0, 3.0, 3.0, 3.0, 3.0, 3.0, 3.0 /*colorFilterStrength*/,
+            1.5, 2.0, 2.5, 2.5, 2.8, 2.8, 2.8, 2.8, 2.8, 2.8 /*sharpen*/,
+            0/*contrast*/, -1/*iso*/, -1.0/*gain*/, 0/*dynamic*/, 0/*lowIntensity*/, 0/*colorBoost*/, 60/*deghost*/, 8/*effectiveFrames*/, 40/*inputSharpnessThreshold*/, 0.7/*alphalBlendingWeight*/, 0.05/*alphalBlendingStep*/, 0/*preSharpenStrength*/, 3/*movingObject*/,
+
+            3200 /*iso 3200~5000*/,
+            4.0, 3.5, 3.0, 2.9, 2.4, 2.4, 2.4, 2.4, 2.4, 2.4 /*noiseReductionStrength*/,
+            5.0, 4.0, 3.0, 3.0, 3.0, 3.0, 3.0, 3.0, 3.0, 3.0 /*colorFilterStrength*/,
+            1.5, 2.0, 2.5, 2.5, 2.8, 2.8, 2.8, 2.8, 2.8, 2.8 /*sharpen*/,
+            0/*contrast*/, -1/*iso*/, -1.0/*gain*/, 0/*dynamic*/, 0/*lowIntensity*/, 0/*colorBoost*/, 60/*deghost*/, 8/*effectiveFrames*/, 40/*inputSharpnessThreshold*/, 0.7/*alphalBlendingWeight*/, 0.05/*alphalBlendingStep*/, 0/*preSharpenStrength*/, 3/*movingObject*/,
+
+            2000 /*iso 2000~3200*/,
+            5.0, 4.5, 3.0, 2.5, 2.5, 2.0, 2.0, 2.0, 2.0, 2.0 /*noiseReductionStrength*/,
+            6.5, 5.5, 4.5, 2.5, 2.5, 2.5, 2.5, 2.5, 2.5, 2.5 /*colorFilterStrength*/,
+            0.8, 1.2, 1.5, 1.5, 1.5, 1.5, 1.5, 1.5, 1.5, 1.5 /*sharpen*/,
+            0/*contrast*/, -1/*iso*/, -1.0/*gain*/, 0/*dynamic*/, 0/*lowIntensity*/, 0/*colorBoost*/, 60/*deghost*/, 8/*effectiveFrames*/, 30/*inputSharpnessThreshold*/, 0.4/*alphalBlendingWeight*/, 0.05/*alphalBlendingStep*/, 0/*preSharpenStrength*/, 2/*movingObject*/,
+
+            1200 /*iso 1200~2000*/,
+            2.9, 2.4, 2.0, 1.8, 1.5, 1.5, 1.5, 1.5, 1.5, 1.5 /*noiseReductionStrength*/,
+            1.2, 1.2, 1.2, 1.2, 1.2, 1.2, 1.2, 1.2, 1.2, 1.2 /*colorFilterStrength*/,
+            0.0, 0.4, 0.8, 0.8, 0.8, 0.8, 0.8, 0.8, 0.8, 0.8 /*sharpen*/,
+            0/*contrast*/, -1/*iso*/, -1.0/*gain*/, 0/*dynamic*/, 0/*lowIntensity*/, 0/*colorBoost*/, 70/*deghost*/, 8/*effectiveFrames*/, 30/*inputSharpnessThreshold*/, 0.3/*alphalBlendingWeight*/, 0.05/*alphalBlendingStep*/, 0/*preSharpenStrength*/, 2/*movingObject*/,
+
+            800 /*iso 800~1200*/,
+            2.5, 2.0, 1.8, 1.5, 1.2, 1.2, 1.2, 1.2, 1.2, 1.2 /*noiseReductionStrength*/,
+            1.2, 1.2, 1.2, 1.2, 1.2, 1.2, 1.2, 1.2, 1.2, 1.2 /*colorFilterStrength*/,
+            0.0, 0.1, 0.2, 0.2, 0.2, 0.2, 0.2, 0.2, 0.2, 0.2 /*sharpen*/,
+            0/*contrast*/, -1/*iso*/, -1.0/*gain*/, 0/*dynamic*/, 0/*lowIntensity*/, 0/*colorBoost*/, 70/*deghost*/, 8/*effectiveFrames*/, 30/*inputSharpnessThreshold*/, 0.3/*alphalBlendingWeight*/, 0.05/*alphalBlendingStep*/, 3/*preSharpenStrength*/, 2/*movingObject*/,
+
+            400 /*iso 400~800*/,
+            3.0, 2.5, 2.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0 /*noiseReductionStrength*/,
+            1.2, 1.2, 1.2, 1.2, 1.2, 1.2, 1.2, 1.2, 1.2, 1.2 /*colorFilterStrength*/,
+            0.0, 0.1, 0.3, 0.3, 0.3, 0.3, 0.3, 0.3, 0.3, 0.3 /*sharpen*/,
+            0/*contrast*/, -1/*iso*/, -1.0/*gain*/, 0/*dynamic*/, 0/*lowIntensity*/, 0/*colorBoost*/, 70/*deghost*/, 8/*effectiveFrames*/, 30/*inputSharpnessThreshold*/, 0.3/*alphalBlendingWeight*/, 0.05/*alphalBlendingStep*/, 3/*preSharpenStrength*/, 2/*movingObject*/,
+
+            200 /*iso 200~400*/,
+            2.3, 1.6, 1.3, 0.8, 0.8, 0.8, 0.8, 0.8, 0.8, 0.8 /*noiseReductionStrength*/,
+            1.2, 1.2, 1.2, 1.2, 1.2, 1.2, 1.2, 1.2, 1.2, 1.2 /*colorFilterStrength*/,
+            0.0, 0.2, 0.4, 0.4, 0.4, 0.4, 0.4, 0.4, 0.4, 0.4 /*sharpen*/,
+            0/*contrast*/, -1/*iso*/, -1.0/*gain*/, 0/*dynamic*/, 0/*lowIntensity*/, 0/*colorBoost*/, 70/*deghost*/, 8/*effectiveFrames*/, 25/*inputSharpnessThreshold*/, 0.3/*alphalBlendingWeight*/, 0.05/*alphalBlendingStep*/, 3/*preSharpenStrength*/, 2/*movingObject*/,
+
+            0 /*iso 0~200*/,
+            2.0, 1.5, 1.0, 0.7, 0.5, 0.2, 0.2, 0.2, 0.2, 0.2 /*noiseReductionStrength*/,
+            1.2, 1.2, 1.2, 1.2, 1.2, 1.2, 1.2, 1.2, 1.2, 1.2 /*colorFilterStrength*/,
+            0.0, 0.3, 0.6, 0.6, 0.6, 0.6, 0.6, 0.6, 0.6, 0.6 /*sharpen*/,
+            0/*contrast*/, -1/*iso*/, -1.0/*gain*/, 0/*dynamic*/, 0/*lowIntensity*/, 0/*colorBoost*/, 75/*deghost*/, 8/*effectiveFrames*/, 25/*inputSharpnessThreshold*/, 0.2/*alphalBlendingWeight*/, 0.05/*alphalBlendingStep*/, 3/*preSharpenStrength*/, 2/*movingObject*/,
+
+            0 /*iso not defined*/,
+            4.0, 3.0, 2.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0 /*noiseReductionStrength*/,
+            2.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0 /*colorFilterStrength*/,
+            0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0 /*sharpen*/,
+            0/*contrast*/, -1/*iso*/, -1.0/*gain*/, 0/*dynamic*/, 0/*lowIntensity*/, 0/*colorBoost*/, 75/*deghost*/, 8/*effectiveFrames*/, 30/*inputSharpnessThreshold*/, 0.3/*alphalBlendingWeight*/, 0.05/*alphalBlendingStep*/, 0/*preSharpenStrength*/, 2/*movingObject*/
+            ",
+  "Comment": "
+            isoZoneNumber,
+            maxZoom,
+            iso,
+            process_param_t"
+},
+
+{
+  "VendorTag": "com.oplus.aps.params.ultraHighDefinition.noface.v3",
+  "Type": "Float",
+  "Count": "2646",
+  "Value": "
+            11 /*isoZoneNumber*/
+
+            /*index0*/,
+            4.9 /*zoom 0~5.0*/,
+
+            12000 /*iso >9000*/,
+            4.0, 3.0, 2.5, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0 /*noiseReductionStrength*/,
+            8.0, 7.0, 6.0, 6.0, 6.0, 6.0, 6.0, 6.0, 6.0, 6.0 /*colorFilterStrength*/,
+            1.1, 1.1, 1.2, 1.2, 1.2, 1.2, 1.2, 1.2, 1.2, 1.2 /*sharpen*/,
+            0/*contrast*/, -1/*iso*/, -1.0/*gain*/, 0/*dynamic*/, 0/*lowIntensity*/, 0/*colorBoost*/, 60/*deghost*/, 8/*effectiveFrames*/, 20/*inputSharpnessThreshold*/, 0.3/*alphalBlendingWeight*/, 0.07/*alphalBlendingStep*/, 3/*preSharpenStrength*/, 2/*movingObject*/,
+
+            8000 /*iso 8000~9000*/,
+            4.0, 3.0, 2.5, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0 /*noiseReductionStrength*/,
+            8.0, 7.0, 6.0, 5.0, 5.0, 5.0, 5.0, 5.0, 5.0, 5.0 /*colorFilterStrength*/,
+            1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0 /*sharpen*/,
+            1/*contrast*/, -1/*iso*/, -1.0/*gain*/, 0/*dynamic*/, 0/*lowIntensity*/, 0/*colorBoost*/, 60/*deghost*/, 8/*effectiveFrames*/, 20/*inputSharpnessThreshold*/, 0.3/*alphalBlendingWeight*/, 0.07/*alphalBlendingStep*/, 3/*preSharpenStrength*/, 2/*movingObject*/,
+
+            5700 /*iso 7000~8000*/,
+            4.0, 3.0, 2.5, 1.8, 1.8, 1.8, 1.8, 1.8, 1.8, 1.8 /*noiseReductionStrength*/,
+            8.0, 7.0, 6.0, 5.0, 5.0, 5.0, 5.0, 5.0, 5.0, 5.0 /*colorFilterStrength*/,
+            1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0 /*sharpen*/,
+            1/*contrast*/, -1/*iso*/, -1.0/*gain*/, 0/*dynamic*/, 0/*lowIntensity*/, 0/*colorBoost*/, 60/*deghost*/, 8/*effectiveFrames*/, 20/*inputSharpnessThreshold*/, 0.3/*alphalBlendingWeight*/, 0.07/*alphalBlendingStep*/, 3/*preSharpenStrength*/, 2/*movingObject*/,
+
+            4000 /*iso 5000~7000*/,
+            4.0, 3.0, 2.5, 1.4, 1.4, 1.4, 1.4, 1.4, 1.4, 1.4 /*noiseReductionStrength*/,
+            8.0, 7.0, 6.0, 5.0, 5.0, 5.0, 5.0, 5.0, 5.0, 5.0 /*colorFilterStrength*/,
+            1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0 /*sharpen*/,
+            1/*contrast*/, -1/*iso*/, -1.0/*gain*/, 0/*dynamic*/, 0/*lowIntensity*/, 0/*colorBoost*/, 60/*deghost*/, 8/*effectiveFrames*/, 20/*inputSharpnessThreshold*/, 0.3/*alphalBlendingWeight*/, 0.07/*alphalBlendingStep*/, 3/*preSharpenStrength*/, 2/*movingObject*/,
+
+            3200 /*iso 3200~5000*/,
+            4.0, 3.0, 2.5, 0.8, 0.8, 0.8, 0.8, 0.8, 0.8, 0.8 /*noiseReductionStrength*/,
+            5.5, 4.5, 4.5, 4.5, 4.5, 4.5, 4.5, 4.5, 4.5, 4.5 /*colorFilterStrength*/,
+            1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0 /*sharpen*/,
+            1/*contrast*/, -1/*iso*/, -1.0/*gain*/, 0/*dynamic*/, 0/*lowIntensity*/, 0/*colorBoost*/, 60/*deghost*/, 8/*effectiveFrames*/, 20/*inputSharpnessThreshold*/, 0.3/*alphalBlendingWeight*/, 0.07/*alphalBlendingStep*/, 3/*preSharpenStrength*/, 2/*movingObject*/,
+
+            2400 /*iso 2000~3200*/,
+            1.0, 0.8, 0.6, 0.6, 0.6, 0.6, 0.6, 0.6, 0.6, 0.6 /*noiseReductionStrength*/,
+            5.5, 4.5, 4.5, 4.5, 4.5, 4.5, 4.5, 4.5, 4.5, 4.5 /*colorFilterStrength*/,
+            0.7, 0.7, 0.7, 0.7, 0.7, 0.7, 0.7, 0.7, 0.7, 0.7 /*sharpen*/,
+            1/*contrast*/, -1/*iso*/, -1.0/*gain*/, 0/*dynamic*/, 0/*lowIntensity*/, 0/*colorBoost*/, 60/*deghost*/, 8/*effectiveFrames*/, 20/*inputSharpnessThreshold*/, 0.3/*alphalBlendingWeight*/, 0.07/*alphalBlendingStep*/, 3/*preSharpenStrength*/, 2/*movingObject*/,
+
+            1600 /*iso 1200~2000*/,
+            1.0, 0.8, 0.6, 0.4, 0.4, 0.4, 0.4, 0.4, 0.4, 0.4 /*noiseReductionStrength*/,
+            5.5, 4.5, 3.5, 2.5, 2.5, 2.5, 2.5, 2.5, 2.5, 2.5 /*colorFilterStrength*/,
+            0.7, 0.7, 0.7, 0.7, 0.7, 0.7, 0.7, 0.7, 0.7, 0.7 /*sharpen*/,
+            0/*contrast*/, -1/*iso*/, -1.0/*gain*/, 0/*dynamic*/, 0/*lowIntensity*/, 0/*colorBoost*/, 60/*deghost*/, 8/*effectiveFrames*/, 20/*inputSharpnessThreshold*/, 0.3/*alphalBlendingWeight*/, 0.07/*alphalBlendingStep*/, 3/*preSharpenStrength*/, 2/*movingObject*/,
+
+            800 /*iso 800~1200*/,
+            1.0, 0.8, 0.6, 0.4, 0.4, 0.4, 0.4, 0.4, 0.4, 0.4 /*noiseReductionStrength*/,
+            5.0, 4.0, 3.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0 /*colorFilterStrength*/,
+            0.5, 0.5, 0.5, 0.5, 0.5, 0.5, 0.5, 0.5, 0.5, 0.5 /*sharpen*/,
+            0/*contrast*/, -1/*iso*/, -1.0/*gain*/, 0/*dynamic*/, 0/*lowIntensity*/, 0/*colorBoost*/, 70/*deghost*/, 8/*effectiveFrames*/, 20/*inputSharpnessThreshold*/, 0.3/*alphalBlendingWeight*/, 0.07/*alphalBlendingStep*/, 3/*preSharpenStrength*/, 2/*movingObject*/,
+
+            400 /*iso 400~800*/,
+            1.0, 0.8, 0.6, 0.4, 0.4, 0.4, 0.4, 0.4, 0.4, 0.4 /*noiseReductionStrength*/,
+            4.0, 3.0, 2.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0 /*colorFilterStrength*/,
+            0.5, 0.5, 0.5, 0.5, 0.5, 0.5, 0.5, 0.5, 0.5, 0.5 /*sharpen*/,
+            0/*contrast*/, -1/*iso*/, -1.0/*gain*/, 0/*dynamic*/, 0/*lowIntensity*/, 0/*colorBoost*/, 70/*deghost*/, 8/*effectiveFrames*/, 20/*inputSharpnessThreshold*/, 0.3/*alphalBlendingWeight*/, 0.07/*alphalBlendingStep*/, 3/*preSharpenStrength*/, 2/*movingObject*/,
+
+            200 /*iso 200~400*/,
+            0.5, 0.3, 0.2, 0.3, 0.3, 0.3, 0.3, 0.3, 0.3, 0.3 /*noiseReductionStrength*/,
+            4.0, 3.0, 2.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0 /*colorFilterStrength*/,
+            0.5, 0.5, 0.5, 0.5, 0.5, 0.5, 0.5, 0.5, 0.5, 0.5 /*sharpen*/,
+            0/*contrast*/, -1/*iso*/, -1.0/*gain*/, 0/*dynamic*/, 0/*lowIntensity*/, 0/*colorBoost*/, 70/*deghost*/, 8/*effectiveFrames*/, 20/*inputSharpnessThreshold*/, 0.3/*alphalBlendingWeight*/, 0.07/*alphalBlendingStep*/, 3/*preSharpenStrength*/, 2/*movingObject*/,
+
+            0 /*iso 0~200*/,
+            0.5, 0.3, 0.2, 0.3, 0.3, 0.3, 0.3, 0.3, 0.3, 0.3 /*noiseReductionStrength*/,
+            0.5, 0.5, 0.5, 0.5, 0.5, 0.5, 0.5, 0.5, 0.5, 0.5 /*colorFilterStrength*/,
+            0.5, 0.5, 0.5, 0.5, 0.5, 0.5, 0.5, 0.5, 0.5, 0.5 /*sharpen*/,
+            0/*contrast*/, -1/*iso*/, -1.0/*gain*/, 0/*dynamic*/, 0/*lowIntensity*/, 0/*colorBoost*/, 80/*deghost*/, 8/*effectiveFrames*/, 20/*inputSharpnessThreshold*/, 0.3/*alphalBlendingWeight*/, 0.07/*alphalBlendingStep*/, 3/*preSharpenStrength*/, 2/*movingObject*/,
+
+            0 /*iso not defined*/,
+            5.0, 4.5, 3.5, 3.5, 3.5, 3.5, 3.5, 3.5, 3.5, 3.5 /*noiseReductionStrength*/,
+            2.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0 /*colorFilterStrength*/,
+            3.5, 4.0, 4.0, 4.0, 4.0, 4.0, 4.0, 4.0, 4.0, 4.0 /*sharpen*/,
+            0/*contrast*/, -1/*iso*/, -1.0/*gain*/, 0/*dynamic*/, 0/*lowIntensity*/, 0/*colorBoost*/, 50/*deghost*/, 8/*effectiveFrames*/, 20/*inputSharpnessThreshold*/, 0.3/*alphalBlendingWeight*/, 0.07/*alphalBlendingStep*/, 3/*preSharpenStrength*/, 2/*movingObject*/
+
+            /*index1*/,
+            9.9 /*zoom 5.0~10.0*/,
+
+            12000 /*iso >9000*/,
+            4.0, 3.0, 2.5, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0 /*noiseReductionStrength*/,
+            8.0, 7.0, 6.0, 6.0, 6.0, 6.0, 6.0, 6.0, 6.0, 6.0 /*colorFilterStrength*/,
+            1.1, 1.1, 1.2, 1.2, 1.2, 1.2, 1.2, 1.2, 1.2, 1.2 /*sharpen*/,
+            0/*contrast*/, -1/*iso*/, -1.0/*gain*/, 0/*dynamic*/, 0/*lowIntensity*/, 0/*colorBoost*/, 60/*deghost*/, 8/*effectiveFrames*/, 20/*inputSharpnessThreshold*/, 0.3/*alphalBlendingWeight*/, 0.07/*alphalBlendingStep*/, 3/*preSharpenStrength*/, 2/*movingObject*/,
+
+            8000 /*iso 8000~9000*/,
+            4.0, 3.0, 2.5, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0 /*noiseReductionStrength*/,
+            8.0, 7.0, 6.0, 5.0, 5.0, 5.0, 5.0, 5.0, 5.0, 5.0 /*colorFilterStrength*/,
+            1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0 /*sharpen*/,
+            1/*contrast*/, -1/*iso*/, -1.0/*gain*/, 0/*dynamic*/, 0/*lowIntensity*/, 0/*colorBoost*/, 60/*deghost*/, 8/*effectiveFrames*/, 20/*inputSharpnessThreshold*/, 0.3/*alphalBlendingWeight*/, 0.07/*alphalBlendingStep*/, 3/*preSharpenStrength*/, 2/*movingObject*/,
+
+            5700 /*iso 7000~8000*/,
+            4.0, 3.0, 2.5, 1.8, 1.8, 1.8, 1.8, 1.8, 1.8, 1.8 /*noiseReductionStrength*/,
+            8.0, 7.0, 6.0, 5.0, 5.0, 5.0, 5.0, 5.0, 5.0, 5.0 /*colorFilterStrength*/,
+            1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0 /*sharpen*/,
+            1/*contrast*/, -1/*iso*/, -1.0/*gain*/, 0/*dynamic*/, 0/*lowIntensity*/, 0/*colorBoost*/, 60/*deghost*/, 8/*effectiveFrames*/, 20/*inputSharpnessThreshold*/, 0.3/*alphalBlendingWeight*/, 0.07/*alphalBlendingStep*/, 3/*preSharpenStrength*/, 2/*movingObject*/,
+
+            4000 /*iso 5000~7000*/,
+            4.0, 3.0, 2.5, 1.4, 1.4, 1.4, 1.4, 1.4, 1.4, 1.4 /*noiseReductionStrength*/,
+            8.0, 7.0, 6.0, 5.0, 5.0, 5.0, 5.0, 5.0, 5.0, 5.0 /*colorFilterStrength*/,
+            1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0 /*sharpen*/,
+            1/*contrast*/, -1/*iso*/, -1.0/*gain*/, 0/*dynamic*/, 0/*lowIntensity*/, 0/*colorBoost*/, 60/*deghost*/, 8/*effectiveFrames*/, 20/*inputSharpnessThreshold*/, 0.3/*alphalBlendingWeight*/, 0.07/*alphalBlendingStep*/, 3/*preSharpenStrength*/, 2/*movingObject*/,
+
+            3200 /*iso 3200~5000*/,
+            4.0, 3.0, 2.5, 1.4, 1.4, 1.4, 1.4, 1.4, 1.4, 1.4 /*noiseReductionStrength*/,
+            5.5, 4.5, 4.5, 4.5, 4.5, 4.5, 4.5, 4.5, 4.5, 4.5 /*colorFilterStrength*/,
+            1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0 /*sharpen*/,
+            1/*contrast*/, -1/*iso*/, -1.0/*gain*/, 0/*dynamic*/, 0/*lowIntensity*/, 0/*colorBoost*/, 60/*deghost*/, 8/*effectiveFrames*/, 20/*inputSharpnessThreshold*/, 0.3/*alphalBlendingWeight*/, 0.07/*alphalBlendingStep*/, 3/*preSharpenStrength*/, 2/*movingObject*/,
+
+            2400 /*iso 2000~3200*/,
+            1.0, 0.8, 0.6, 0.6, 0.6, 0.6, 0.6, 0.6, 0.6, 0.6 /*noiseReductionStrength*/,
+            5.5, 4.5, 4.5, 4.5, 4.5, 4.5, 4.5, 4.5, 4.5, 4.5 /*colorFilterStrength*/,
+            0.7, 0.7, 0.7, 0.7, 0.7, 0.7, 0.7, 0.7, 0.7, 0.7 /*sharpen*/,
+            1/*contrast*/, -1/*iso*/, -1.0/*gain*/, 0/*dynamic*/, 0/*lowIntensity*/, 0/*colorBoost*/, 60/*deghost*/, 8/*effectiveFrames*/, 20/*inputSharpnessThreshold*/, 0.3/*alphalBlendingWeight*/, 0.07/*alphalBlendingStep*/, 3/*preSharpenStrength*/, 2/*movingObject*/,
+
+            1600 /*iso 1200~2000*/,
+            1.0, 0.8, 0.6, 0.4, 0.4, 0.4, 0.4, 0.4, 0.4, 0.4 /*noiseReductionStrength*/,
+            5.5, 4.5, 3.5, 2.5, 2.5, 2.5, 2.5, 2.5, 2.5, 2.5 /*colorFilterStrength*/,
+            0.7, 0.7, 0.7, 0.7, 0.7, 0.7, 0.7, 0.7, 0.7, 0.7 /*sharpen*/,
+            0/*contrast*/, -1/*iso*/, -1.0/*gain*/, 0/*dynamic*/, 0/*lowIntensity*/, 0/*colorBoost*/, 60/*deghost*/, 8/*effectiveFrames*/, 20/*inputSharpnessThreshold*/, 0.3/*alphalBlendingWeight*/, 0.07/*alphalBlendingStep*/, 3/*preSharpenStrength*/, 2/*movingObject*/,
+
+            800 /*iso 800~1200*/,
+            1.0, 0.8, 0.6, 0.4, 0.4, 0.4, 0.4, 0.4, 0.4, 0.4 /*noiseReductionStrength*/,
+            5.0, 4.0, 3.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0 /*colorFilterStrength*/,
+            0.5, 0.5, 0.5, 0.5, 0.5, 0.5, 0.5, 0.5, 0.5, 0.5 /*sharpen*/,
+            0/*contrast*/, -1/*iso*/, -1.0/*gain*/, 0/*dynamic*/, 0/*lowIntensity*/, 0/*colorBoost*/, 70/*deghost*/, 8/*effectiveFrames*/, 20/*inputSharpnessThreshold*/, 0.3/*alphalBlendingWeight*/, 0.07/*alphalBlendingStep*/, 3/*preSharpenStrength*/, 2/*movingObject*/,
+
+            400 /*iso 400~800*/,
+            1.0, 0.8, 0.6, 0.4, 0.4, 0.4, 0.4, 0.4, 0.4, 0.4 /*noiseReductionStrength*/,
+            4.0, 3.0, 2.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0 /*colorFilterStrength*/,
+            0.5, 0.5, 0.5, 0.5, 0.5, 0.5, 0.5, 0.5, 0.5, 0.5 /*sharpen*/,
+            0/*contrast*/, -1/*iso*/, -1.0/*gain*/, 0/*dynamic*/, 0/*lowIntensity*/, 0/*colorBoost*/, 70/*deghost*/, 8/*effectiveFrames*/, 20/*inputSharpnessThreshold*/, 0.3/*alphalBlendingWeight*/, 0.07/*alphalBlendingStep*/, 3/*preSharpenStrength*/, 2/*movingObject*/,
+
+            200 /*iso 200~400*/,
+            0.5, 0.3, 0.2, 0.3, 0.3, 0.3, 0.3, 0.3, 0.3, 0.3 /*noiseReductionStrength*/,
+            4.0, 3.0, 2.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0 /*colorFilterStrength*/,
+            0.4, 0.4, 0.4, 0.3, 0.3, 0.3, 0.3, 0.3, 0.3, 0.3 /*sharpen*/,
+            0/*contrast*/, -1/*iso*/, -1.0/*gain*/, 0/*dynamic*/, 0/*lowIntensity*/, 0/*colorBoost*/, 70/*deghost*/, 8/*effectiveFrames*/, 20/*inputSharpnessThreshold*/, 0.3/*alphalBlendingWeight*/, 0.07/*alphalBlendingStep*/, 3/*preSharpenStrength*/, 2/*movingObject*/,
+
+            0 /*iso 0~200*/,
+            0.5, 0.3, 0.2, 0.3, 0.3, 0.3, 0.3, 0.3, 0.3, 0.3 /*noiseReductionStrength*/,
+            0.5, 0.5, 0.5, 0.5, 0.5, 0.5, 0.5, 0.5, 0.5, 0.5 /*colorFilterStrength*/,
+            0.5, 0.3, 0.2, 0.2, 0.2, 0.2, 0.2, 0.2, 0.2, 0.2/*sharpen*/,
+            0/*contrast*/, -1/*iso*/, -1.0/*gain*/, 0/*dynamic*/, 0/*lowIntensity*/, 0/*colorBoost*/, 80/*deghost*/, 8/*effectiveFrames*/, 20/*inputSharpnessThreshold*/, 0.3/*alphalBlendingWeight*/, 0.07/*alphalBlendingStep*/, 3/*preSharpenStrength*/, 2/*movingObject*/,
+
+            0 /*iso not defined*/,
+            5.0, 4.5, 3.5, 3.5, 3.5, 3.5, 3.5, 3.5, 3.5, 3.5 /*noiseReductionStrength*/,
+            2.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0 /*colorFilterStrength*/,
+            3.5, 4.0, 4.0, 4.0, 4.0, 4.0, 4.0, 4.0, 4.0, 4.0 /*sharpen*/,
+            0/*contrast*/, -1/*iso*/, -1.0/*gain*/, 0/*dynamic*/, 0/*lowIntensity*/, 0/*colorBoost*/, 50/*deghost*/, 8/*effectiveFrames*/, 20/*inputSharpnessThreshold*/, 0.3/*alphalBlendingWeight*/, 0.07/*alphalBlendingStep*/, 3/*preSharpenStrength*/, 2/*movingObject*/
+
+            /*index2*/,
+            19.9 /*zoom 10.0~20.0*/,
+
+            12000 /*iso >9000*/,
+            4.0, 3.0, 2.5, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0 /*noiseReductionStrength*/,
+            8.0, 7.0, 6.0, 6.0, 6.0, 6.0, 6.0, 6.0, 6.0, 6.0 /*colorFilterStrength*/,
+            1.1, 1.1, 1.2, 1.2, 1.2, 1.2, 1.2, 1.2, 1.2, 1.2 /*sharpen*/,
+            0/*contrast*/, -1/*iso*/, -1.0/*gain*/, 0/*dynamic*/, 0/*lowIntensity*/, 0/*colorBoost*/, 60/*deghost*/, 8/*effectiveFrames*/, 20/*inputSharpnessThreshold*/, 0.3/*alphalBlendingWeight*/, 0.07/*alphalBlendingStep*/, 3/*preSharpenStrength*/, 2/*movingObject*/,
+
+            8000 /*iso 8000~9000*/,
+            4.0, 3.0, 2.5, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0 /*noiseReductionStrength*/,
+            8.0, 7.0, 6.0, 5.0, 5.0, 5.0, 5.0, 5.0, 5.0, 5.0 /*colorFilterStrength*/,
+            1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0 /*sharpen*/,
+            1/*contrast*/, -1/*iso*/, -1.0/*gain*/, 0/*dynamic*/, 0/*lowIntensity*/, 0/*colorBoost*/, 60/*deghost*/, 8/*effectiveFrames*/, 20/*inputSharpnessThreshold*/, 0.3/*alphalBlendingWeight*/, 0.07/*alphalBlendingStep*/, 3/*preSharpenStrength*/, 2/*movingObject*/,
+
+            5700 /*iso 7000~8000*/,
+            4.0, 3.0, 2.5, 1.8, 1.8, 1.8, 1.8, 1.8, 1.8, 1.8 /*noiseReductionStrength*/,
+            8.0, 7.0, 6.0, 5.0, 5.0, 5.0, 5.0, 5.0, 5.0, 5.0 /*colorFilterStrength*/,
+            1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0 /*sharpen*/,
+            1/*contrast*/, -1/*iso*/, -1.0/*gain*/, 0/*dynamic*/, 0/*lowIntensity*/, 0/*colorBoost*/, 60/*deghost*/, 8/*effectiveFrames*/, 20/*inputSharpnessThreshold*/, 0.3/*alphalBlendingWeight*/, 0.07/*alphalBlendingStep*/, 3/*preSharpenStrength*/, 2/*movingObject*/,
+
+            4000 /*iso 5000~7000*/,
+            4.0, 3.0, 2.5, 1.4, 1.4, 1.4, 1.4, 1.4, 1.4, 1.4 /*noiseReductionStrength*/,
+            8.0, 7.0, 6.0, 5.0, 5.0, 5.0, 5.0, 5.0, 5.0, 5.0 /*colorFilterStrength*/,
+            1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0 /*sharpen*/,
+            1/*contrast*/, -1/*iso*/, -1.0/*gain*/, 0/*dynamic*/, 0/*lowIntensity*/, 0/*colorBoost*/, 60/*deghost*/, 8/*effectiveFrames*/, 20/*inputSharpnessThreshold*/, 0.3/*alphalBlendingWeight*/, 0.07/*alphalBlendingStep*/, 3/*preSharpenStrength*/, 2/*movingObject*/,
+
+            3200 /*iso 3200~5000*/,
+            4.0, 3.0, 2.5, 1.4, 1.4, 1.4, 1.4, 1.4, 1.4, 1.4 /*noiseReductionStrength*/,
+            5.5, 4.5, 4.5, 4.5, 4.5, 4.5, 4.5, 4.5, 4.5, 4.5 /*colorFilterStrength*/,
+            1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0 /*sharpen*/,
+            1/*contrast*/, -1/*iso*/, -1.0/*gain*/, 0/*dynamic*/, 0/*lowIntensity*/, 0/*colorBoost*/, 60/*deghost*/, 8/*effectiveFrames*/, 20/*inputSharpnessThreshold*/, 0.3/*alphalBlendingWeight*/, 0.07/*alphalBlendingStep*/, 3/*preSharpenStrength*/, 2/*movingObject*/,
+
+            2400 /*iso 2000~3200*/,
+            1.0, 0.8, 0.6, 0.6, 0.6, 0.6, 0.6, 0.6, 0.6, 0.6 /*noiseReductionStrength*/,
+            5.5, 4.5, 4.5, 4.5, 4.5, 4.5, 4.5, 4.5, 4.5, 4.5 /*colorFilterStrength*/,
+            0.7, 0.7, 0.7, 0.7, 0.7, 0.7, 0.7, 0.7, 0.7, 0.7 /*sharpen*/,
+            1/*contrast*/, -1/*iso*/, -1.0/*gain*/, 0/*dynamic*/, 0/*lowIntensity*/, 0/*colorBoost*/, 60/*deghost*/, 8/*effectiveFrames*/, 20/*inputSharpnessThreshold*/, 0.3/*alphalBlendingWeight*/, 0.07/*alphalBlendingStep*/, 3/*preSharpenStrength*/, 2/*movingObject*/,
+
+            1600 /*iso 1200~2000*/,
+            1.0, 0.8, 0.6, 0.4, 0.4, 0.4, 0.4, 0.4, 0.4, 0.4 /*noiseReductionStrength*/,
+            5.5, 4.5, 3.5, 2.5, 2.5, 2.5, 2.5, 2.5, 2.5, 2.5 /*colorFilterStrength*/,
+            0.7, 0.7, 0.7, 0.7, 0.7, 0.7, 0.7, 0.7, 0.7, 0.7 /*sharpen*/,
+            0/*contrast*/, -1/*iso*/, -1.0/*gain*/, 0/*dynamic*/, 0/*lowIntensity*/, 0/*colorBoost*/, 60/*deghost*/, 8/*effectiveFrames*/, 20/*inputSharpnessThreshold*/, 0.3/*alphalBlendingWeight*/, 0.07/*alphalBlendingStep*/, 3/*preSharpenStrength*/, 2/*movingObject*/,
+
+            800 /*iso 800~1200*/,
+            1.0, 0.8, 0.6, 0.4, 0.4, 0.4, 0.4, 0.4, 0.4, 0.4 /*noiseReductionStrength*/,
+            5.0, 4.0, 3.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0 /*colorFilterStrength*/,
+            0.5, 0.5, 0.5, 0.5, 0.5, 0.5, 0.5, 0.5, 0.5, 0.5 /*sharpen*/,
+            0/*contrast*/, -1/*iso*/, -1.0/*gain*/, 0/*dynamic*/, 0/*lowIntensity*/, 0/*colorBoost*/, 60/*deghost*/, 8/*effectiveFrames*/, 20/*inputSharpnessThreshold*/, 0.3/*alphalBlendingWeight*/, 0.07/*alphalBlendingStep*/, 3/*preSharpenStrength*/, 2/*movingObject*/,
+
+            400 /*iso 400~800*/,
+            1.0, 0.8, 0.6, 0.4, 0.4, 0.4, 0.4, 0.4, 0.4, 0.4 /*noiseReductionStrength*/,
+            4.0, 3.0, 2.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0 /*colorFilterStrength*/,
+            0.5, 0.5, 0.5, 0.5, 0.5, 0.5, 0.5, 0.5, 0.5, 0.5 /*sharpen*/,
+            0/*contrast*/, -1/*iso*/, -1.0/*gain*/, 0/*dynamic*/, 0/*lowIntensity*/, 0/*colorBoost*/, 60/*deghost*/, 8/*effectiveFrames*/, 20/*inputSharpnessThreshold*/, 0.3/*alphalBlendingWeight*/, 0.07/*alphalBlendingStep*/, 3/*preSharpenStrength*/, 2/*movingObject*/,
+
+            200 /*iso 200~400*/,
+            0.5, 0.3, 0.2, 0.3, 0.3, 0.3, 0.3, 0.3, 0.3, 0.3 /*noiseReductionStrength*/,
+            4.0, 3.0, 2.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0 /*colorFilterStrength*/,
+            0.4, 0.4, 0.4, 0.3, 0.3, 0.3, 0.3, 0.3, 0.3, 0.3 /*sharpen*/,
+            0/*contrast*/, -1/*iso*/, -1.0/*gain*/, 0/*dynamic*/, 0/*lowIntensity*/, 0/*colorBoost*/, 60/*deghost*/, 8/*effectiveFrames*/, 20/*inputSharpnessThreshold*/, 0.3/*alphalBlendingWeight*/, 0.07/*alphalBlendingStep*/, 3/*preSharpenStrength*/, 2/*movingObject*/,
+
+            0 /*iso 0~200*/,
+            0.5, 0.3, 0.2, 0.3, 0.3, 0.3, 0.3, 0.3, 0.3, 0.3 /*noiseReductionStrength*/,
+            0.5, 0.5, 0.5, 0.5, 0.5, 0.5, 0.5, 0.5, 0.5, 0.5 /*colorFilterStrength*/,
+            0.5, 0.3, 0.2, 0.2, 0.2, 0.2, 0.2, 0.2, 0.2, 0.2/*sharpen*/,
+            0/*contrast*/, -1/*iso*/, -1.0/*gain*/, 0/*dynamic*/, 0/*lowIntensity*/, 0/*colorBoost*/, 60/*deghost*/, 8/*effectiveFrames*/, 20/*inputSharpnessThreshold*/, 0.3/*alphalBlendingWeight*/, 0.07/*alphalBlendingStep*/, 3/*preSharpenStrength*/, 2/*movingObject*/,
+
+            0 /*iso not defined*/,
+            5.0, 4.5, 3.5, 3.5, 3.5, 3.5, 3.5, 3.5, 3.5, 3.5 /*noiseReductionStrength*/,
+            2.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0 /*colorFilterStrength*/,
+            3.5, 4.0, 4.0, 4.0, 4.0, 4.0, 4.0, 4.0, 4.0, 4.0 /*sharpen*/,
+            0/*contrast*/, -1/*iso*/, -1.0/*gain*/, 0/*dynamic*/, 0/*lowIntensity*/, 0/*colorBoost*/, 50/*deghost*/, 8/*effectiveFrames*/, 20/*inputSharpnessThreshold*/, 0.3/*alphalBlendingWeight*/, 0.07/*alphalBlendingStep*/, 3/*preSharpenStrength*/, 2/*movingObject*/
+
+            /*index3*/,
+            100.0 /*zoom >20.0*/,
+
+            12000 /*iso >9000*/,
+            4.0, 3.0, 2.5, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0 /*noiseReductionStrength*/,
+            8.0, 7.0, 6.0, 6.0, 6.0, 6.0, 6.0, 6.0, 6.0, 6.0 /*colorFilterStrength*/,
+            1.1, 1.1, 1.2, 1.2, 1.2, 1.2, 1.2, 1.2, 1.2, 1.2 /*sharpen*/,
+            0/*contrast*/, -1/*iso*/, -1.0/*gain*/, 0/*dynamic*/, 0/*lowIntensity*/, 0/*colorBoost*/, 60/*deghost*/, 8/*effectiveFrames*/, 20/*inputSharpnessThreshold*/, 0.3/*alphalBlendingWeight*/, 0.07/*alphalBlendingStep*/, 3/*preSharpenStrength*/, 2/*movingObject*/,
+
+            8000 /*iso 8000~9000*/,
+            4.0, 3.0, 2.5, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0 /*noiseReductionStrength*/,
+            8.0, 7.0, 6.0, 5.0, 5.0, 5.0, 5.0, 5.0, 5.0, 5.0 /*colorFilterStrength*/,
+            1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0 /*sharpen*/,
+            1/*contrast*/, -1/*iso*/, -1.0/*gain*/, 0/*dynamic*/, 0/*lowIntensity*/, 0/*colorBoost*/, 60/*deghost*/, 8/*effectiveFrames*/, 20/*inputSharpnessThreshold*/, 0.3/*alphalBlendingWeight*/, 0.07/*alphalBlendingStep*/, 3/*preSharpenStrength*/, 2/*movingObject*/,
+
+            5700 /*iso 7000~8000*/,
+            4.0, 3.0, 2.5, 1.8, 1.8, 1.8, 1.8, 1.8, 1.8, 1.8 /*noiseReductionStrength*/,
+            8.0, 7.0, 6.0, 5.0, 5.0, 5.0, 5.0, 5.0, 5.0, 5.0 /*colorFilterStrength*/,
+            1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0 /*sharpen*/,
+            1/*contrast*/, -1/*iso*/, -1.0/*gain*/, 0/*dynamic*/, 0/*lowIntensity*/, 0/*colorBoost*/, 60/*deghost*/, 8/*effectiveFrames*/, 20/*inputSharpnessThreshold*/, 0.3/*alphalBlendingWeight*/, 0.07/*alphalBlendingStep*/, 3/*preSharpenStrength*/, 2/*movingObject*/,
+
+            4000 /*iso 5000~7000*/,
+            4.0, 3.0, 2.5, 1.4, 1.4, 1.4, 1.4, 1.4, 1.4, 1.4 /*noiseReductionStrength*/,
+            8.0, 7.0, 6.0, 5.0, 5.0, 5.0, 5.0, 5.0, 5.0, 5.0 /*colorFilterStrength*/,
+            1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0 /*sharpen*/,
+            1/*contrast*/, -1/*iso*/, -1.0/*gain*/, 0/*dynamic*/, 0/*lowIntensity*/, 0/*colorBoost*/, 60/*deghost*/, 8/*effectiveFrames*/, 20/*inputSharpnessThreshold*/, 0.3/*alphalBlendingWeight*/, 0.07/*alphalBlendingStep*/, 3/*preSharpenStrength*/, 2/*movingObject*/,
+
+            3200 /*iso 3200~5000*/,
+            4.0, 3.0, 2.5, 1.4, 1.4, 1.4, 1.4, 1.4, 1.4, 1.4 /*noiseReductionStrength*/,
+            5.5, 4.5, 4.5, 4.5, 4.5, 4.5, 4.5, 4.5, 4.5, 4.5 /*colorFilterStrength*/,
+            1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0 /*sharpen*/,
+            1/*contrast*/, -1/*iso*/, -1.0/*gain*/, 0/*dynamic*/, 0/*lowIntensity*/, 0/*colorBoost*/, 60/*deghost*/, 8/*effectiveFrames*/, 20/*inputSharpnessThreshold*/, 0.3/*alphalBlendingWeight*/, 0.07/*alphalBlendingStep*/, 3/*preSharpenStrength*/, 2/*movingObject*/,
+
+            2400 /*iso 2000~3200*/,
+            1.0, 0.8, 0.6, 0.6, 0.6, 0.6, 0.6, 0.6, 0.6, 0.6 /*noiseReductionStrength*/,
+            5.5, 4.5, 4.5, 4.5, 4.5, 4.5, 4.5, 4.5, 4.5, 4.5 /*colorFilterStrength*/,
+            0.7, 0.7, 0.7, 0.7, 0.7, 0.7, 0.7, 0.7, 0.7, 0.7 /*sharpen*/,
+            1/*contrast*/, -1/*iso*/, -1.0/*gain*/, 0/*dynamic*/, 0/*lowIntensity*/, 0/*colorBoost*/, 60/*deghost*/, 8/*effectiveFrames*/, 20/*inputSharpnessThreshold*/, 0.3/*alphalBlendingWeight*/, 0.07/*alphalBlendingStep*/, 3/*preSharpenStrength*/, 2/*movingObject*/,
+
+            1600 /*iso 1200~2000*/,
+            1.0, 0.8, 0.6, 0.4, 0.4, 0.4, 0.4, 0.4, 0.4, 0.4 /*noiseReductionStrength*/,
+            5.5, 4.5, 3.5, 2.5, 2.5, 2.5, 2.5, 2.5, 2.5, 2.5 /*colorFilterStrength*/,
+            0.7, 0.7, 0.7, 0.7, 0.7, 0.7, 0.7, 0.7, 0.7, 0.7 /*sharpen*/,
+            0/*contrast*/, -1/*iso*/, -1.0/*gain*/, 0/*dynamic*/, 0/*lowIntensity*/, 0/*colorBoost*/, 60/*deghost*/, 8/*effectiveFrames*/, 20/*inputSharpnessThreshold*/, 0.3/*alphalBlendingWeight*/, 0.07/*alphalBlendingStep*/, 3/*preSharpenStrength*/, 2/*movingObject*/,
+
+            800 /*iso 800~1200*/,
+            1.0, 0.8, 0.6, 0.4, 0.4, 0.4, 0.4, 0.4, 0.4, 0.4 /*noiseReductionStrength*/,
+            5.0, 4.0, 3.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0 /*colorFilterStrength*/,
+            0.5, 0.5, 0.5, 0.5, 0.5, 0.5, 0.5, 0.5, 0.5, 0.5 /*sharpen*/,
+            0/*contrast*/, -1/*iso*/, -1.0/*gain*/, 0/*dynamic*/, 0/*lowIntensity*/, 0/*colorBoost*/, 60/*deghost*/, 8/*effectiveFrames*/, 20/*inputSharpnessThreshold*/, 0.3/*alphalBlendingWeight*/, 0.07/*alphalBlendingStep*/, 3/*preSharpenStrength*/, 2/*movingObject*/,
+
+            400 /*iso 400~800*/,
+            1.0, 0.8, 0.6, 0.4, 0.4, 0.4, 0.4, 0.4, 0.4, 0.4 /*noiseReductionStrength*/,
+            4.0, 3.0, 2.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0 /*colorFilterStrength*/,
+            0.5, 0.5, 0.5, 0.5, 0.5, 0.5, 0.5, 0.5, 0.5, 0.5 /*sharpen*/,
+            0/*contrast*/, -1/*iso*/, -1.0/*gain*/, 0/*dynamic*/, 0/*lowIntensity*/, 0/*colorBoost*/, 60/*deghost*/, 8/*effectiveFrames*/, 20/*inputSharpnessThreshold*/, 0.3/*alphalBlendingWeight*/, 0.07/*alphalBlendingStep*/, 3/*preSharpenStrength*/, 2/*movingObject*/,
+
+            200 /*iso 200~400*/,
+            0.5, 0.3, 0.2, 0.3, 0.3, 0.3, 0.3, 0.3, 0.3, 0.3 /*noiseReductionStrength*/,
+            4.0, 3.0, 2.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0 /*colorFilterStrength*/,
+            0.4, 0.4, 0.4, 0.3, 0.3, 0.3, 0.3, 0.3, 0.3, 0.3 /*sharpen*/,
+            0/*contrast*/, -1/*iso*/, -1.0/*gain*/, 0/*dynamic*/, 0/*lowIntensity*/, 0/*colorBoost*/, 60/*deghost*/, 8/*effectiveFrames*/, 20/*inputSharpnessThreshold*/, 0.3/*alphalBlendingWeight*/, 0.07/*alphalBlendingStep*/, 3/*preSharpenStrength*/, 2/*movingObject*/,
+
+            0 /*iso 0~200*/,
+            0.5, 0.3, 0.2, 0.3, 0.3, 0.3, 0.3, 0.3, 0.3, 0.3 /*noiseReductionStrength*/,
+            0.5, 0.5, 0.5, 0.5, 0.5, 0.5, 0.5, 0.5, 0.5, 0.5 /*colorFilterStrength*/,
+            0.5, 0.3, 0.2, 0.2, 0.2, 0.2, 0.2, 0.2, 0.2, 0.2/*sharpen*/,
+            0/*contrast*/, -1/*iso*/, -1.0/*gain*/, 0/*dynamic*/, 0/*lowIntensity*/, 0/*colorBoost*/, 60/*deghost*/, 8/*effectiveFrames*/, 20/*inputSharpnessThreshold*/, 0.3/*alphalBlendingWeight*/, 0.07/*alphalBlendingStep*/, 3/*preSharpenStrength*/, 2/*movingObject*/,
+
+            0 /*iso not defined*/,
+            5.0, 4.5, 3.5, 3.5, 3.5, 3.5, 3.5, 3.5, 3.5, 3.5 /*noiseReductionStrength*/,
+            2.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0 /*colorFilterStrength*/,
+            3.5, 4.0, 4.0, 4.0, 4.0, 4.0, 4.0, 4.0, 4.0, 4.0 /*sharpen*/,
+            0/*contrast*/, -1/*iso*/, -1.0/*gain*/, 0/*dynamic*/, 0/*lowIntensity*/, 0/*colorBoost*/, 50/*deghost*/, 8/*effectiveFrames*/, 20/*inputSharpnessThreshold*/, 0.3/*alphalBlendingWeight*/, 0.07/*alphalBlendingStep*/, 3/*preSharpenStrength*/, 2/*movingObject*/
+
+            /*index4*/,
+            0.0 /*zoom not defined*/,
+
+            9000 /*iso >9000*/,
+            7.5, 7.5, 7.5, 7.5, 7.5, 7.0, 7.0, 7.0, 7.0, 7.0 /*noiseReductionStrength*/,
+            6.0, 5.0, 5.0, 5.0, 5.0, 5.0, 5.0, 5.0, 5.0, 5.0 /*colorFilterStrength*/,
+            2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0 /*sharpen*/,
+            0/*contrast*/, -1/*iso*/, -1.0/*gain*/, 0/*dynamic*/, 0/*lowIntensity*/, 0/*colorBoost*/, 60/*deghost*/, 8/*effectiveFrames*/, 40/*inputSharpnessThreshold*/, 0.5/*alphalBlendingWeight*/, 0.05/*alphalBlendingStep*/, 3/*preSharpenStrength*/, 2/*movingObject*/,
+
+            8000 /*iso 8000~9000*/,
+            7.5, 7.5, 7.5, 7.5, 7.5, 7.0, 7.0, 7.0, 7.0, 7.0 /*noiseReductionStrength*/,
+            6.0, 5.0, 5.0, 5.0, 5.0, 5.0, 5.0, 5.0, 5.0, 5.0 /*colorFilterStrength*/,
+            2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0 /*sharpen*/,
+            0/*contrast*/, -1/*iso*/, -1.0/*gain*/, 0/*dynamic*/, 0/*lowIntensity*/, 0/*colorBoost*/, 60/*deghost*/, 8/*effectiveFrames*/, 40/*inputSharpnessThreshold*/, 0.5/*alphalBlendingWeight*/, 0.05/*alphalBlendingStep*/, 3/*preSharpenStrength*/, 2/*movingObject*/,
+
+            7000 /*iso 7000~8000*/,
+            7.5, 7.5, 7.5, 7.5, 7.5, 7.0, 7.0, 7.0, 7.0, 7.0 /*noiseReductionStrength*/,
+            6.0, 5.0, 5.0, 5.0, 5.0, 5.0, 5.0, 5.0, 5.0, 5.0 /*colorFilterStrength*/,
+            2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0 /*sharpen*/,
+            0/*contrast*/, -1/*iso*/, -1.0/*gain*/, 0/*dynamic*/, 0/*lowIntensity*/, 0/*colorBoost*/, 60/*deghost*/, 8/*effectiveFrames*/, 40/*inputSharpnessThreshold*/, 0.5/*alphalBlendingWeight*/, 0.05/*alphalBlendingStep*/, 3/*preSharpenStrength*/, 2/*movingObject*/,
+
+            5000 /*iso 5000~7000*/,
+            7.5, 7.0, 6.5, 6.5, 6.5, 6.0, 6.0, 6.0, 6.0, 6.0 /*noiseReductionStrength*/,
+            5.0, 4.0, 4.0, 4.0, 4.0, 4.0, 4.0, 4.0, 4.0, 4.0 /*colorFilterStrength*/,
+            2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0 /*sharpen*/,
+            0/*contrast*/, -1/*iso*/, -1.0/*gain*/, 0/*dynamic*/, 0/*lowIntensity*/, 0/*colorBoost*/, 60/*deghost*/, 8/*effectiveFrames*/, 40/*inputSharpnessThreshold*/, 0.5/*alphalBlendingWeight*/, 0.05/*alphalBlendingStep*/, 3/*preSharpenStrength*/, 2/*movingObject*/,
+
+            3200 /*iso 3200~5000*/,
+            8.0, 8.0, 7.0, 6.0, 6.0, 6.0, 6.0, 6.0, 6.0, 6.0 /*noiseReductionStrength*/,
+            7.0, 6.0, 5.0, 4.0, 4.0, 4.0, 4.0, 4.0, 4.0, 4.0 /*colorFilterStrength*/,
+            1.0, 1.0, 2.0, 3.0, 3.0, 3.0, 3.0, 3.0, 3.0, 3.0 /*sharpen*/,
+            0/*contrast*/, -1/*iso*/, -1.0/*gain*/, 0/*dynamic*/, 0/*lowIntensity*/, 0/*colorBoost*/, 60/*deghost*/, 8/*effectiveFrames*/, 40/*inputSharpnessThreshold*/, 0.5/*alphalBlendingWeight*/, 0.05/*alphalBlendingStep*/, 3/*preSharpenStrength*/, 2/*movingObject*/,
+
+            2000 /*iso 2000~3200*/,
+            8.0, 7.0, 6.0, 5.0, 5.0, 5.0, 5.0, 5.0, 5.0, 5.0 /*noiseReductionStrength*/,
+            6.0, 5.0, 4.0, 3.0, 3.0, 3.0, 3.0, 3.0, 3.0, 3.0 /*colorFilterStrength*/,
+            2.0, 3.0, 4.0, 5.0, 5.0, 5.0, 5.0, 5.0, 5.0, 5.0 /*sharpen*/,
+            0/*contrast*/, -1/*iso*/, -1.0/*gain*/, 0/*dynamic*/, 0/*lowIntensity*/, 0/*colorBoost*/, 60/*deghost*/, 8/*effectiveFrames*/, 40/*inputSharpnessThreshold*/, 0.5/*alphalBlendingWeight*/, 0.05/*alphalBlendingStep*/, 3/*preSharpenStrength*/, 2/*movingObject*/,
+
+            1200 /*iso 1200~2000*/,
+            7.5, 6.5, 5.5, 4.5, 4.5, 4.5, 4.5, 4.5, 4.5, 4.5 /*noiseReductionStrength*/,
+            5.5, 4.5, 3.5, 2.5, 2.5, 2.5, 2.5, 2.5, 2.5, 2.5 /*colorFilterStrength*/,
+            2.0, 3.0, 4.0, 5.0, 5.0, 5.0, 5.0, 5.0, 5.0, 5.0 /*sharpen*/,
+            0/*contrast*/, -1/*iso*/, -1.0/*gain*/, 0/*dynamic*/, 0/*lowIntensity*/, 0/*colorBoost*/, 60/*deghost*/, 8/*effectiveFrames*/, 30/*inputSharpnessThreshold*/, 0.5/*alphalBlendingWeight*/, 0.05/*alphalBlendingStep*/, 3/*preSharpenStrength*/, 2/*movingObject*/,
+
+            800 /*iso 800~1200*/,
+            7.0, 6.0, 5.0, 4.0, 4.0, 4.0, 4.0, 4.0, 4.0, 4.0 /*noiseReductionStrength*/,
+            5.0, 4.0, 3.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0 /*colorFilterStrength*/,
+            2.0, 3.0, 4.0, 5.0, 5.0, 5.0, 5.0, 5.0, 5.0, 5.0 /*sharpen*/,
+            0/*contrast*/, -1/*iso*/, -1.0/*gain*/, 0/*dynamic*/, 0/*lowIntensity*/, 0/*colorBoost*/, 70/*deghost*/, 8/*effectiveFrames*/, 40/*inputSharpnessThreshold*/, 0.5/*alphalBlendingWeight*/, 0.05/*alphalBlendingStep*/, 3/*preSharpenStrength*/, 2/*movingObject*/,
+
+            400 /*iso 400~800*/,
+            6.5, 5.5, 4.5, 3.5, 3.5, 3.5, 3.5, 3.5, 3.5, 3.5 /*noiseReductionStrength*/,
+            4.5, 3.5, 2.5, 1.5, 1.5, 1.5, 1.5, 1.5, 1.5, 1.5 /*colorFilterStrength*/,
+            2.0, 3.0, 4.0, 5.0, 5.0, 5.0, 5.0, 5.0, 5.0, 5.0 /*sharpen*/,
+            0/*contrast*/, -1/*iso*/, -1.0/*gain*/, 0/*dynamic*/, 0/*lowIntensity*/, 0/*colorBoost*/, 70/*deghost*/, 8/*effectiveFrames*/, 30/*inputSharpnessThreshold*/, 0.5/*alphalBlendingWeight*/, 0.05/*alphalBlendingStep*/, 2/*preSharpenStrength*/, 2/*movingObject*/,
+
+            200 /*iso 200~400*/,
+            6.5, 5.5, 4.5, 3.5, 3.5, 3.5, 3.5, 3.5, 3.5, 3.5 /*noiseReductionStrength*/,
+            4.0, 3.0, 2.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0 /*colorFilterStrength*/,
+            2.0, 3.0, 4.0, 5.0, 5.0, 5.0, 5.0, 5.0, 5.0, 5.0 /*sharpen*/,
+            0/*contrast*/, -1/*iso*/, -1.0/*gain*/, 0/*dynamic*/, 0/*lowIntensity*/, 0/*colorBoost*/, 70/*deghost*/, 8/*effectiveFrames*/, 30/*inputSharpnessThreshold*/, 0.3/*alphalBlendingWeight*/, 0.05/*alphalBlendingStep*/, 2/*preSharpenStrength*/, 2/*movingObject*/,
+
+            0 /*iso 0~200*/,
+            6.5, 5.5, 4.5, 3.5, 3.5, 3.5, 3.5, 3.5, 3.5, 3.5 /*noiseReductionStrength*/,
+            4.0, 3.0, 2.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0 /*colorFilterStrength*/,
+            2.0, 3.0, 4.0, 5.0, 5.0, 5.0, 5.0, 5.0, 5.0, 5.0 /*sharpen*/,
+            0/*contrast*/, -1/*iso*/, -1.0/*gain*/, 0/*dynamic*/, 0/*lowIntensity*/, 0/*colorBoost*/, 70/*deghost*/, 8/*effectiveFrames*/, 30/*inputSharpnessThreshold*/, 0.2/*alphalBlendingWeight*/, 0.05/*alphalBlendingStep*/, 2/*preSharpenStrength*/, 2/*movingObject*/,
+
+            0 /*iso not defined*/,
+            5.0, 4.5, 3.5, 3.5, 3.5, 3.5, 3.5, 3.5, 3.5, 3.5 /*noiseReductionStrength*/,
+            2.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0 /*colorFilterStrength*/,
+            3.5, 4.0, 4.0, 4.0, 4.0, 4.0, 4.0, 4.0, 4.0, 4.0 /*sharpen*/,
+            0/*contrast*/, -1/*iso*/, -1.0/*gain*/, 0/*dynamic*/, 0/*lowIntensity*/, 0/*colorBoost*/, 50/*deghost*/, 8/*effectiveFrames*/, 30/*inputSharpnessThreshold*/, 0.3/*alphalBlendingWeight*/, 0.05/*alphalBlendingStep*/, 2/*preSharpenStrength*/, 2/*movingObject*/
+            ",
+  "Comment": "
+            isoZoneNumber,
+            maxZoom,
+            iso,
+            process_param_t"
+},
+
+{
+  "VendorTag": "com.oplus.aps.params.ultraHighDefinition.haveface.v3",
+  "Type": "Float",
+  "Count": "2646",
+  "Value": "
+            11 /*isoZoneNumber*/
+
+            /*index0*/,
+            4.9 /*zoom 0~5.0*/,
+
+            12000 /*iso >9000*/,
+            4.0, 3.0, 2.5, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0 /*noiseReductionStrength*/,
+            8.0, 7.0, 6.0, 6.0, 6.0, 6.0, 6.0, 6.0, 6.0, 6.0 /*colorFilterStrength*/,
+            1.1, 1.1, 1.2, 1.2, 1.2, 1.2, 1.2, 1.2, 1.2, 1.2 /*sharpen*/,
+            0/*contrast*/, -1/*iso*/, -1.0/*gain*/, 0/*dynamic*/, 0/*lowIntensity*/, 0/*colorBoost*/, 60/*deghost*/, 8/*effectiveFrames*/, 20/*inputSharpnessThreshold*/, 0.3/*alphalBlendingWeight*/, 0.07/*alphalBlendingStep*/, 3/*preSharpenStrength*/, 2/*movingObject*/,
+
+            8000 /*iso 8000~9000*/,
+            4.0, 3.0, 2.5, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0 /*noiseReductionStrength*/,
+            8.0, 7.0, 6.0, 5.0, 5.0, 5.0, 5.0, 5.0, 5.0, 5.0 /*colorFilterStrength*/,
+            1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0 /*sharpen*/,
+            1/*contrast*/, -1/*iso*/, -1.0/*gain*/, 0/*dynamic*/, 0/*lowIntensity*/, 0/*colorBoost*/, 60/*deghost*/, 8/*effectiveFrames*/, 20/*inputSharpnessThreshold*/, 0.3/*alphalBlendingWeight*/, 0.07/*alphalBlendingStep*/, 3/*preSharpenStrength*/, 2/*movingObject*/,
+
+            5700 /*iso 7000~8000*/,
+            4.0, 3.0, 2.5, 1.8, 1.8, 1.8, 1.8, 1.8, 1.8, 1.8 /*noiseReductionStrength*/,
+            8.0, 7.0, 6.0, 5.0, 5.0, 5.0, 5.0, 5.0, 5.0, 5.0 /*colorFilterStrength*/,
+            1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0 /*sharpen*/,
+            1/*contrast*/, -1/*iso*/, -1.0/*gain*/, 0/*dynamic*/, 0/*lowIntensity*/, 0/*colorBoost*/, 60/*deghost*/, 8/*effectiveFrames*/, 20/*inputSharpnessThreshold*/, 0.3/*alphalBlendingWeight*/, 0.07/*alphalBlendingStep*/, 3/*preSharpenStrength*/, 2/*movingObject*/,
+
+            4000 /*iso 5000~7000*/,
+            4.0, 3.0, 2.5, 1.4, 1.4, 1.4, 1.4, 1.4, 1.4, 1.4 /*noiseReductionStrength*/,
+            8.0, 7.0, 6.0, 5.0, 5.0, 5.0, 5.0, 5.0, 5.0, 5.0 /*colorFilterStrength*/,
+            1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0 /*sharpen*/,
+            1/*contrast*/, -1/*iso*/, -1.0/*gain*/, 0/*dynamic*/, 0/*lowIntensity*/, 0/*colorBoost*/, 60/*deghost*/, 8/*effectiveFrames*/, 20/*inputSharpnessThreshold*/, 0.3/*alphalBlendingWeight*/, 0.07/*alphalBlendingStep*/, 3/*preSharpenStrength*/, 2/*movingObject*/,
+
+            3200 /*iso 3200~5000*/,
+            4.0, 3.0, 2.5, 1.4, 1.4, 1.4, 1.4, 1.4, 1.4, 1.4 /*noiseReductionStrength*/,
+            5.5, 4.5, 4.5, 4.5, 4.5, 4.5, 4.5, 4.5, 4.5, 4.5 /*colorFilterStrength*/,
+            1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0 /*sharpen*/,
+            1/*contrast*/, -1/*iso*/, -1.0/*gain*/, 0/*dynamic*/, 0/*lowIntensity*/, 0/*colorBoost*/, 60/*deghost*/, 8/*effectiveFrames*/, 20/*inputSharpnessThreshold*/, 0.3/*alphalBlendingWeight*/, 0.07/*alphalBlendingStep*/, 3/*preSharpenStrength*/, 2/*movingObject*/,
+
+            2400 /*iso 2000~3200*/,
+            1.0, 0.8, 0.6, 0.6, 0.6, 0.6, 0.6, 0.6, 0.6, 0.6 /*noiseReductionStrength*/,
+            5.5, 4.5, 4.5, 4.5, 4.5, 4.5, 4.5, 4.5, 4.5, 4.5 /*colorFilterStrength*/,
+            0.7, 0.7, 0.7, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0 /*sharpen*/,
+            1/*contrast*/, -1/*iso*/, -1.0/*gain*/, 0/*dynamic*/, 0/*lowIntensity*/, 0/*colorBoost*/, 60/*deghost*/, 8/*effectiveFrames*/, 20/*inputSharpnessThreshold*/, 0.3/*alphalBlendingWeight*/, 0.07/*alphalBlendingStep*/, 3/*preSharpenStrength*/, 2/*movingObject*/,
+
+            1600 /*iso 1200~2000*/,
+            1.0, 0.8, 0.6, 0.4, 0.4, 0.4, 0.4, 0.4, 0.4, 0.4 /*noiseReductionStrength*/,
+            5.5, 4.5, 3.5, 2.5, 2.5, 2.5, 2.5, 2.5, 2.5, 2.5 /*colorFilterStrength*/,
+            0.7, 0.7, 0.7, 0.7, 0.7, 0.7, 0.7, 0.7, 0.7, 0.7 /*sharpen*/,
+            0/*contrast*/, -1/*iso*/, -1.0/*gain*/, 0/*dynamic*/, 0/*lowIntensity*/, 0/*colorBoost*/, 60/*deghost*/, 8/*effectiveFrames*/, 20/*inputSharpnessThreshold*/, 0.3/*alphalBlendingWeight*/, 0.07/*alphalBlendingStep*/, 3/*preSharpenStrength*/, 2/*movingObject*/,
+
+            800 /*iso 800~1200*/,
+            1.0, 0.8, 0.6, 0.4, 0.4, 0.4, 0.4, 0.4, 0.4, 0.4 /*noiseReductionStrength*/,
+            5.0, 4.0, 3.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0 /*colorFilterStrength*/,
+            0.5, 0.5, 0.5, 0.5, 0.5, 0.5, 0.5, 0.5, 0.5, 0.5 /*sharpen*/,
+            0/*contrast*/, -1/*iso*/, -1.0/*gain*/, 0/*dynamic*/, 0/*lowIntensity*/, 0/*colorBoost*/, 70/*deghost*/, 8/*effectiveFrames*/, 20/*inputSharpnessThreshold*/, 0.3/*alphalBlendingWeight*/, 0.07/*alphalBlendingStep*/, 3/*preSharpenStrength*/, 2/*movingObject*/,
+
+            400 /*iso 400~800*/,
+            1.0, 0.8, 0.6, 0.4, 0.4, 0.4, 0.4, 0.4, 0.4, 0.4 /*noiseReductionStrength*/,
+            4.0, 3.0, 2.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0 /*colorFilterStrength*/,
+            0.5, 0.5, 0.5, 0.5, 0.5, 0.5, 0.5, 0.5, 0.5, 0.5 /*sharpen*/,
+            0/*contrast*/, -1/*iso*/, -1.0/*gain*/, 0/*dynamic*/, 0/*lowIntensity*/, 0/*colorBoost*/, 70/*deghost*/, 8/*effectiveFrames*/, 20/*inputSharpnessThreshold*/, 0.3/*alphalBlendingWeight*/, 0.07/*alphalBlendingStep*/, 3/*preSharpenStrength*/, 2/*movingObject*/,
+
+            200 /*iso 200~400*/,
+            0.5, 0.3, 0.2, 0.3, 0.3, 0.3, 0.3, 0.3, 0.3, 0.3 /*noiseReductionStrength*/,
+            4.0, 3.0, 2.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0 /*colorFilterStrength*/,
+            0.4, 0.4, 0.4, 0.3, 0.3, 0.3, 0.3, 0.3, 0.3, 0.3 /*sharpen*/,
+            0/*contrast*/, -1/*iso*/, -1.0/*gain*/, 0/*dynamic*/, 0/*lowIntensity*/, 0/*colorBoost*/, 70/*deghost*/, 8/*effectiveFrames*/, 20/*inputSharpnessThreshold*/, 0.3/*alphalBlendingWeight*/, 0.07/*alphalBlendingStep*/, 3/*preSharpenStrength*/, 2/*movingObject*/,
+
+            0 /*iso 0~200*/,
+            0.5, 0.3, 0.2, 0.3, 0.3, 0.3, 0.3, 0.3, 0.3, 0.3 /*noiseReductionStrength*/,
+            0.5, 0.5, 0.5, 0.5, 0.5, 0.5, 0.5, 0.5, 0.5, 0.5 /*colorFilterStrength*/,
+            0.5, 0.3, 0.2, 0.2, 0.2, 0.2, 0.2, 0.2, 0.2, 0.2/*sharpen*/,
+            0/*contrast*/, -1/*iso*/, -1.0/*gain*/, 0/*dynamic*/, 0/*lowIntensity*/, 0/*colorBoost*/, 80/*deghost*/, 8/*effectiveFrames*/, 20/*inputSharpnessThreshold*/, 0.3/*alphalBlendingWeight*/, 0.07/*alphalBlendingStep*/, 3/*preSharpenStrength*/, 2/*movingObject*/,
+
+            0 /*iso not defined*/,
+            5.0, 4.5, 3.5, 3.5, 3.5, 3.5, 3.5, 3.5, 3.5, 3.5 /*noiseReductionStrength*/,
+            2.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0 /*colorFilterStrength*/,
+            3.5, 4.0, 4.0, 4.0, 4.0, 4.0, 4.0, 4.0, 4.0, 4.0 /*sharpen*/,
+            0/*contrast*/, -1/*iso*/, -1.0/*gain*/, 0/*dynamic*/, 0/*lowIntensity*/, 0/*colorBoost*/, 50/*deghost*/, 8/*effectiveFrames*/, 20/*inputSharpnessThreshold*/, 0.3/*alphalBlendingWeight*/, 0.07/*alphalBlendingStep*/, 3/*preSharpenStrength*/, 2/*movingObject*/
+
+            /*index1*/,
+            9.9 /*zoom 5.0~10.0*/,
+
+            12000 /*iso >9000*/,
+            4.0, 3.0, 2.5, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0 /*noiseReductionStrength*/,
+            9.0, 9.0, 9.0, 9.0, 9.0, 9.0, 9.0, 9.0, 9.0, 9.0 /*colorFilterStrength*/,
+            1.1, 1.1, 1.2, 1.2, 1.2, 1.2, 1.2, 1.2, 1.2, 1.2 /*sharpen*/,
+            0/*contrast*/, -1/*iso*/, -1.0/*gain*/, 0/*dynamic*/, 0/*lowIntensity*/, 0/*colorBoost*/, 60/*deghost*/, 8/*effectiveFrames*/, 20/*inputSharpnessThreshold*/, 0.3/*alphalBlendingWeight*/, 0.07/*alphalBlendingStep*/, 3/*preSharpenStrength*/, 2/*movingObject*/,
+
+            8000 /*iso 8000~9000*/,
+            4.0, 3.0, 2.5, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0 /*noiseReductionStrength*/,
+            8.0, 8.0, 8.0, 8.0, 8.0, 8.0, 8.0, 8.0, 8.0, 8.0 /*colorFilterStrength*/,
+            1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0 /*sharpen*/,
+            1/*contrast*/, -1/*iso*/, -1.0/*gain*/, 0/*dynamic*/, 0/*lowIntensity*/, 0/*colorBoost*/, 60/*deghost*/, 8/*effectiveFrames*/, 20/*inputSharpnessThreshold*/, 0.3/*alphalBlendingWeight*/, 0.07/*alphalBlendingStep*/, 3/*preSharpenStrength*/, 2/*movingObject*/,
+
+            5700 /*iso 7000~8000*/,
+            4.0, 3.0, 2.5, 1.8, 1.8, 1.8, 1.8, 1.8, 1.8, 1.8 /*noiseReductionStrength*/,
+            8.0, 8.0, 8.0, 8.0, 8.0, 8.0, 8.0, 8.0, 8.0, 8.0 /*colorFilterStrength*/,
+            1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0 /*sharpen*/,
+            1/*contrast*/, -1/*iso*/, -1.0/*gain*/, 0/*dynamic*/, 0/*lowIntensity*/, 0/*colorBoost*/, 60/*deghost*/, 8/*effectiveFrames*/, 20/*inputSharpnessThreshold*/, 0.3/*alphalBlendingWeight*/, 0.07/*alphalBlendingStep*/, 3/*preSharpenStrength*/, 2/*movingObject*/,
+
+            4000 /*iso 5000~7000*/,
+            4.0, 3.0, 2.5, 1.4, 1.4, 1.4, 1.4, 1.4, 1.4, 1.4 /*noiseReductionStrength*/,
+            8.0, 8.0, 8.0, 8.0, 8.0, 8.0, 8.0, 8.0, 8.0, 8.0 /*colorFilterStrength*/,
+            1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0 /*sharpen*/,
+            1/*contrast*/, -1/*iso*/, -1.0/*gain*/, 0/*dynamic*/, 0/*lowIntensity*/, 0/*colorBoost*/, 60/*deghost*/, 8/*effectiveFrames*/, 20/*inputSharpnessThreshold*/, 0.3/*alphalBlendingWeight*/, 0.07/*alphalBlendingStep*/, 3/*preSharpenStrength*/, 2/*movingObject*/,
+
+            3200 /*iso 3200~5000*/,
+            4.0, 3.0, 2.5, 1.2, 1.2, 1.2, 1.2, 1.2, 1.2, 1.2 /*noiseReductionStrength*/,
+            7.0, 7.0, 7.0, 7.0, 7.0, 7.0, 7.0, 7.0, 7.0, 7.0 /*colorFilterStrength*/,
+            1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0 /*sharpen*/,
+            1/*contrast*/, -1/*iso*/, -1.0/*gain*/, 0/*dynamic*/, 0/*lowIntensity*/, 0/*colorBoost*/, 60/*deghost*/, 8/*effectiveFrames*/, 20/*inputSharpnessThreshold*/, 0.3/*alphalBlendingWeight*/, 0.07/*alphalBlendingStep*/, 3/*preSharpenStrength*/, 2/*movingObject*/,
+
+            2400 /*iso 2000~3200*/,
+            1.0, 0.8, 0.6, 0.5, 0.5, 0.5, 0.5, 0.5, 0.5, 0.5 /*noiseReductionStrength*/,
+            5.5, 4.5, 4.5, 4.5, 4.5, 4.5, 4.5, 4.5, 4.5, 4.5 /*colorFilterStrength*/,
+            0.7, 0.7, 0.7, 0.7, 0.7, 0.7, 0.7, 0.7, 0.7, 0.7 /*sharpen*/,
+            1/*contrast*/, -1/*iso*/, -1.0/*gain*/, 0/*dynamic*/, 0/*lowIntensity*/, 0/*colorBoost*/, 60/*deghost*/, 8/*effectiveFrames*/, 20/*inputSharpnessThreshold*/, 0.3/*alphalBlendingWeight*/, 0.07/*alphalBlendingStep*/, 3/*preSharpenStrength*/, 2/*movingObject*/,
+
+            1600 /*iso 1200~2000*/,
+            1.0, 0.8, 0.6, 0.4, 0.4, 0.4, 0.4, 0.4, 0.4, 0.4 /*noiseReductionStrength*/,
+            5.5, 4.5, 3.5, 2.5, 2.5, 2.5, 2.5, 2.5, 2.5, 2.5 /*colorFilterStrength*/,
+            0.7, 0.7, 0.7, 0.7, 0.7, 0.7, 0.7, 0.7, 0.7, 0.7 /*sharpen*/,
+            0/*contrast*/, -1/*iso*/, -1.0/*gain*/, 0/*dynamic*/, 0/*lowIntensity*/, 0/*colorBoost*/, 60/*deghost*/, 8/*effectiveFrames*/, 20/*inputSharpnessThreshold*/, 0.3/*alphalBlendingWeight*/, 0.07/*alphalBlendingStep*/, 3/*preSharpenStrength*/, 2/*movingObject*/,
+
+            800 /*iso 800~1200*/,
+            1.0, 0.8, 0.6, 0.4, 0.4, 0.4, 0.4, 0.4, 0.4, 0.4 /*noiseReductionStrength*/,
+            5.0, 4.0, 3.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0 /*colorFilterStrength*/,
+            0.5, 0.5, 0.5, 0.5, 0.5, 0.5, 0.5, 0.5, 0.5, 0.5 /*sharpen*/,
+            0/*contrast*/, -1/*iso*/, -1.0/*gain*/, 0/*dynamic*/, 0/*lowIntensity*/, 0/*colorBoost*/, 70/*deghost*/, 8/*effectiveFrames*/, 20/*inputSharpnessThreshold*/, 0.3/*alphalBlendingWeight*/, 0.07/*alphalBlendingStep*/, 3/*preSharpenStrength*/, 2/*movingObject*/,
+
+            400 /*iso 400~800*/,
+            1.0, 0.8, 0.6, 0.4, 0.4, 0.4, 0.4, 0.4, 0.4, 0.4 /*noiseReductionStrength*/,
+            4.0, 3.0, 2.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0 /*colorFilterStrength*/,
+            0.5, 0.5, 0.5, 0.5, 0.5, 0.5, 0.5, 0.5, 0.5, 0.5 /*sharpen*/,
+            0/*contrast*/, -1/*iso*/, -1.0/*gain*/, 0/*dynamic*/, 0/*lowIntensity*/, 0/*colorBoost*/, 70/*deghost*/, 8/*effectiveFrames*/, 20/*inputSharpnessThreshold*/, 0.3/*alphalBlendingWeight*/, 0.07/*alphalBlendingStep*/, 3/*preSharpenStrength*/, 2/*movingObject*/,
+
+            200 /*iso 200~400*/,
+            0.5, 0.3, 0.2, 0.3, 0.3, 0.3, 0.3, 0.3, 0.3, 0.3 /*noiseReductionStrength*/,
+            4.0, 3.0, 2.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0 /*colorFilterStrength*/,
+            0.4, 0.4, 0.4, 0.3, 0.3, 0.3, 0.3, 0.3, 0.3, 0.3 /*sharpen*/,
+            0/*contrast*/, -1/*iso*/, -1.0/*gain*/, 0/*dynamic*/, 0/*lowIntensity*/, 0/*colorBoost*/, 70/*deghost*/, 8/*effectiveFrames*/, 20/*inputSharpnessThreshold*/, 0.3/*alphalBlendingWeight*/, 0.07/*alphalBlendingStep*/, 3/*preSharpenStrength*/, 2/*movingObject*/,
+
+            0 /*iso 0~200*/,
+            0.5, 0.3, 0.2, 0.3, 0.3, 0.3, 0.3, 0.3, 0.3, 0.3 /*noiseReductionStrength*/,
+            0.5, 0.5, 0.5, 0.5, 0.5, 0.5, 0.5, 0.5, 0.5, 0.5 /*colorFilterStrength*/,
+            0.5, 0.3, 0.2, 0.2, 0.2, 0.2, 0.2, 0.2, 0.2, 0.2/*sharpen*/,
+            0/*contrast*/, -1/*iso*/, -1.0/*gain*/, 0/*dynamic*/, 0/*lowIntensity*/, 0/*colorBoost*/, 80/*deghost*/, 8/*effectiveFrames*/, 20/*inputSharpnessThreshold*/, 0.3/*alphalBlendingWeight*/, 0.07/*alphalBlendingStep*/, 3/*preSharpenStrength*/, 2/*movingObject*/,
+
+            0 /*iso not defined*/,
+            5.0, 4.5, 3.5, 3.5, 3.5, 3.5, 3.5, 3.5, 3.5, 3.5 /*noiseReductionStrength*/,
+            2.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0 /*colorFilterStrength*/,
+            3.5, 4.0, 4.0, 4.0, 4.0, 4.0, 4.0, 4.0, 4.0, 4.0 /*sharpen*/,
+            0/*contrast*/, -1/*iso*/, -1.0/*gain*/, 0/*dynamic*/, 0/*lowIntensity*/, 0/*colorBoost*/, 50/*deghost*/, 8/*effectiveFrames*/, 20/*inputSharpnessThreshold*/, 0.3/*alphalBlendingWeight*/, 0.07/*alphalBlendingStep*/, 3/*preSharpenStrength*/, 2/*movingObject*/
+
+            /*index2*/,
+            19.9 /*zoom 10.0~20.0*/,
+
+            12000 /*iso >9000*/,
+            4.0, 3.0, 2.5, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0 /*noiseReductionStrength*/,
+            8.0, 7.0, 6.0, 6.0, 6.0, 6.0, 6.0, 6.0, 6.0, 6.0 /*colorFilterStrength*/,
+            1.1, 1.1, 1.2, 1.2, 1.2, 1.2, 1.2, 1.2, 1.2, 1.2 /*sharpen*/,
+            0/*contrast*/, -1/*iso*/, -1.0/*gain*/, 0/*dynamic*/, 0/*lowIntensity*/, 0/*colorBoost*/, 60/*deghost*/, 8/*effectiveFrames*/, 20/*inputSharpnessThreshold*/, 0.3/*alphalBlendingWeight*/, 0.07/*alphalBlendingStep*/, 3/*preSharpenStrength*/, 2/*movingObject*/,
+
+            8000 /*iso 8000~9000*/,
+            4.0, 3.0, 2.5, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0 /*noiseReductionStrength*/,
+            8.0, 7.0, 6.0, 5.0, 5.0, 5.0, 5.0, 5.0, 5.0, 5.0 /*colorFilterStrength*/,
+            1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0 /*sharpen*/,
+            1/*contrast*/, -1/*iso*/, -1.0/*gain*/, 0/*dynamic*/, 0/*lowIntensity*/, 0/*colorBoost*/, 60/*deghost*/, 8/*effectiveFrames*/, 20/*inputSharpnessThreshold*/, 0.3/*alphalBlendingWeight*/, 0.07/*alphalBlendingStep*/, 3/*preSharpenStrength*/, 2/*movingObject*/,
+
+            5700 /*iso 7000~8000*/,
+            4.0, 3.0, 2.5, 1.8, 1.8, 1.8, 1.8, 1.8, 1.8, 1.8 /*noiseReductionStrength*/,
+            8.0, 7.0, 6.0, 5.0, 5.0, 5.0, 5.0, 5.0, 5.0, 5.0 /*colorFilterStrength*/,
+            1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0 /*sharpen*/,
+            1/*contrast*/, -1/*iso*/, -1.0/*gain*/, 0/*dynamic*/, 0/*lowIntensity*/, 0/*colorBoost*/, 60/*deghost*/, 8/*effectiveFrames*/, 20/*inputSharpnessThreshold*/, 0.3/*alphalBlendingWeight*/, 0.07/*alphalBlendingStep*/, 3/*preSharpenStrength*/, 2/*movingObject*/,
+
+            4000 /*iso 5000~7000*/,
+            4.0, 3.0, 2.5, 1.4, 1.4, 1.4, 1.4, 1.4, 1.4, 1.4 /*noiseReductionStrength*/,
+            8.0, 7.0, 6.0, 5.0, 5.0, 5.0, 5.0, 5.0, 5.0, 5.0 /*colorFilterStrength*/,
+            1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0 /*sharpen*/,
+            1/*contrast*/, -1/*iso*/, -1.0/*gain*/, 0/*dynamic*/, 0/*lowIntensity*/, 0/*colorBoost*/, 60/*deghost*/, 8/*effectiveFrames*/, 20/*inputSharpnessThreshold*/, 0.3/*alphalBlendingWeight*/, 0.07/*alphalBlendingStep*/, 3/*preSharpenStrength*/, 2/*movingObject*/,
+
+            3200 /*iso 3200~5000*/,
+            4.0, 3.0, 2.5, 1.4, 1.4, 1.4, 1.4, 1.4, 1.4, 1.4 /*noiseReductionStrength*/,
+            5.5, 4.5, 4.5, 4.5, 4.5, 4.5, 4.5, 4.5, 4.5, 4.5 /*colorFilterStrength*/,
+            1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0 /*sharpen*/,
+            1/*contrast*/, -1/*iso*/, -1.0/*gain*/, 0/*dynamic*/, 0/*lowIntensity*/, 0/*colorBoost*/, 60/*deghost*/, 8/*effectiveFrames*/, 20/*inputSharpnessThreshold*/, 0.3/*alphalBlendingWeight*/, 0.07/*alphalBlendingStep*/, 3/*preSharpenStrength*/, 2/*movingObject*/,
+
+            2400 /*iso 2000~3200*/,
+            1.0, 0.8, 0.6, 0.6, 0.6, 0.6, 0.6, 0.6, 0.6, 0.6 /*noiseReductionStrength*/,
+            5.5, 4.5, 4.5, 4.5, 4.5, 4.5, 4.5, 4.5, 4.5, 4.5 /*colorFilterStrength*/,
+            0.7, 0.7, 0.7, 0.7, 0.7, 0.7, 0.7, 0.7, 0.7, 0.7 /*sharpen*/,
+            1/*contrast*/, -1/*iso*/, -1.0/*gain*/, 0/*dynamic*/, 0/*lowIntensity*/, 0/*colorBoost*/, 60/*deghost*/, 8/*effectiveFrames*/, 20/*inputSharpnessThreshold*/, 0.3/*alphalBlendingWeight*/, 0.07/*alphalBlendingStep*/, 3/*preSharpenStrength*/, 2/*movingObject*/,
+
+            1600 /*iso 1200~2000*/,
+            1.0, 0.8, 0.6, 0.4, 0.4, 0.4, 0.4, 0.4, 0.4, 0.4 /*noiseReductionStrength*/,
+            5.5, 4.5, 3.5, 2.5, 2.5, 2.5, 2.5, 2.5, 2.5, 2.5 /*colorFilterStrength*/,
+            0.7, 0.7, 0.7, 0.7, 0.7, 0.7, 0.7, 0.7, 0.7, 0.7 /*sharpen*/,
+            0/*contrast*/, -1/*iso*/, -1.0/*gain*/, 0/*dynamic*/, 0/*lowIntensity*/, 0/*colorBoost*/, 60/*deghost*/, 8/*effectiveFrames*/, 20/*inputSharpnessThreshold*/, 0.3/*alphalBlendingWeight*/, 0.07/*alphalBlendingStep*/, 3/*preSharpenStrength*/, 2/*movingObject*/,
+
+            800 /*iso 800~1200*/,
+            1.0, 0.8, 0.6, 0.4, 0.4, 0.4, 0.4, 0.4, 0.4, 0.4 /*noiseReductionStrength*/,
+            5.0, 4.0, 3.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0 /*colorFilterStrength*/,
+            0.5, 0.5, 0.5, 0.5, 0.5, 0.5, 0.5, 0.5, 0.5, 0.5 /*sharpen*/,
+            0/*contrast*/, -1/*iso*/, -1.0/*gain*/, 0/*dynamic*/, 0/*lowIntensity*/, 0/*colorBoost*/, 60/*deghost*/, 8/*effectiveFrames*/, 20/*inputSharpnessThreshold*/, 0.3/*alphalBlendingWeight*/, 0.07/*alphalBlendingStep*/, 3/*preSharpenStrength*/, 2/*movingObject*/,
+
+            400 /*iso 400~800*/,
+            1.0, 0.8, 0.6, 0.4, 0.4, 0.4, 0.4, 0.4, 0.4, 0.4 /*noiseReductionStrength*/,
+            4.0, 3.0, 2.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0 /*colorFilterStrength*/,
+            0.5, 0.5, 0.5, 0.5, 0.5, 0.5, 0.5, 0.5, 0.5, 0.5 /*sharpen*/,
+            0/*contrast*/, -1/*iso*/, -1.0/*gain*/, 0/*dynamic*/, 0/*lowIntensity*/, 0/*colorBoost*/, 60/*deghost*/, 8/*effectiveFrames*/, 20/*inputSharpnessThreshold*/, 0.3/*alphalBlendingWeight*/, 0.07/*alphalBlendingStep*/, 3/*preSharpenStrength*/, 2/*movingObject*/,
+
+            200 /*iso 200~400*/,
+            0.5, 0.3, 0.2, 0.3, 0.3, 0.3, 0.3, 0.3, 0.3, 0.3 /*noiseReductionStrength*/,
+            4.0, 3.0, 2.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0 /*colorFilterStrength*/,
+            0.4, 0.4, 0.4, 0.3, 0.3, 0.3, 0.3, 0.3, 0.3, 0.3 /*sharpen*/,
+            0/*contrast*/, -1/*iso*/, -1.0/*gain*/, 0/*dynamic*/, 0/*lowIntensity*/, 0/*colorBoost*/, 60/*deghost*/, 8/*effectiveFrames*/, 20/*inputSharpnessThreshold*/, 0.3/*alphalBlendingWeight*/, 0.07/*alphalBlendingStep*/, 3/*preSharpenStrength*/, 2/*movingObject*/,
+
+            0 /*iso 0~200*/,
+            0.5, 0.3, 0.2, 0.3, 0.3, 0.3, 0.3, 0.3, 0.3, 0.3 /*noiseReductionStrength*/,
+            0.5, 0.5, 0.5, 0.5, 0.5, 0.5, 0.5, 0.5, 0.5, 0.5 /*colorFilterStrength*/,
+            0.5, 0.3, 0.2, 0.2, 0.2, 0.2, 0.2, 0.2, 0.2, 0.2/*sharpen*/,
+            0/*contrast*/, -1/*iso*/, -1.0/*gain*/, 0/*dynamic*/, 0/*lowIntensity*/, 0/*colorBoost*/, 60/*deghost*/, 8/*effectiveFrames*/, 20/*inputSharpnessThreshold*/, 0.3/*alphalBlendingWeight*/, 0.07/*alphalBlendingStep*/, 3/*preSharpenStrength*/, 2/*movingObject*/,
+
+            0 /*iso not defined*/,
+            5.0, 4.5, 3.5, 3.5, 3.5, 3.5, 3.5, 3.5, 3.5, 3.5 /*noiseReductionStrength*/,
+            2.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0 /*colorFilterStrength*/,
+            3.5, 4.0, 4.0, 4.0, 4.0, 4.0, 4.0, 4.0, 4.0, 4.0 /*sharpen*/,
+            0/*contrast*/, -1/*iso*/, -1.0/*gain*/, 0/*dynamic*/, 0/*lowIntensity*/, 0/*colorBoost*/, 50/*deghost*/, 8/*effectiveFrames*/, 20/*inputSharpnessThreshold*/, 0.3/*alphalBlendingWeight*/, 0.07/*alphalBlendingStep*/, 3/*preSharpenStrength*/, 2/*movingObject*/
+
+            /*index3*/,
+            100.0 /*zoom >20.0*/,
+
+            12000 /*iso >9000*/,
+            4.0, 3.0, 2.5, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0 /*noiseReductionStrength*/,
+            8.0, 7.0, 6.0, 6.0, 6.0, 6.0, 6.0, 6.0, 6.0, 6.0 /*colorFilterStrength*/,
+            1.1, 1.1, 1.2, 1.2, 1.2, 1.2, 1.2, 1.2, 1.2, 1.2 /*sharpen*/,
+            0/*contrast*/, -1/*iso*/, -1.0/*gain*/, 0/*dynamic*/, 0/*lowIntensity*/, 0/*colorBoost*/, 60/*deghost*/, 8/*effectiveFrames*/, 20/*inputSharpnessThreshold*/, 0.3/*alphalBlendingWeight*/, 0.07/*alphalBlendingStep*/, 3/*preSharpenStrength*/, 2/*movingObject*/,
+
+            8000 /*iso 8000~9000*/,
+            4.0, 3.0, 2.5, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0 /*noiseReductionStrength*/,
+            8.0, 7.0, 6.0, 5.0, 5.0, 5.0, 5.0, 5.0, 5.0, 5.0 /*colorFilterStrength*/,
+            1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0 /*sharpen*/,
+            1/*contrast*/, -1/*iso*/, -1.0/*gain*/, 0/*dynamic*/, 0/*lowIntensity*/, 0/*colorBoost*/, 60/*deghost*/, 8/*effectiveFrames*/, 20/*inputSharpnessThreshold*/, 0.3/*alphalBlendingWeight*/, 0.07/*alphalBlendingStep*/, 3/*preSharpenStrength*/, 2/*movingObject*/,
+
+            5700 /*iso 7000~8000*/,
+            4.0, 3.0, 2.5, 1.8, 1.8, 1.8, 1.8, 1.8, 1.8, 1.8 /*noiseReductionStrength*/,
+            8.0, 7.0, 6.0, 5.0, 5.0, 5.0, 5.0, 5.0, 5.0, 5.0 /*colorFilterStrength*/,
+            1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0 /*sharpen*/,
+            1/*contrast*/, -1/*iso*/, -1.0/*gain*/, 0/*dynamic*/, 0/*lowIntensity*/, 0/*colorBoost*/, 60/*deghost*/, 8/*effectiveFrames*/, 20/*inputSharpnessThreshold*/, 0.3/*alphalBlendingWeight*/, 0.07/*alphalBlendingStep*/, 3/*preSharpenStrength*/, 2/*movingObject*/,
+
+            4000 /*iso 5000~7000*/,
+            4.0, 3.0, 2.5, 1.4, 1.4, 1.4, 1.4, 1.4, 1.4, 1.4 /*noiseReductionStrength*/,
+            8.0, 7.0, 6.0, 5.0, 5.0, 5.0, 5.0, 5.0, 5.0, 5.0 /*colorFilterStrength*/,
+            1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0 /*sharpen*/,
+            1/*contrast*/, -1/*iso*/, -1.0/*gain*/, 0/*dynamic*/, 0/*lowIntensity*/, 0/*colorBoost*/, 60/*deghost*/, 8/*effectiveFrames*/, 20/*inputSharpnessThreshold*/, 0.3/*alphalBlendingWeight*/, 0.07/*alphalBlendingStep*/, 3/*preSharpenStrength*/, 2/*movingObject*/,
+
+            3200 /*iso 3200~5000*/,
+            4.0, 3.0, 2.5, 1.4, 1.4, 1.4, 1.4, 1.4, 1.4, 1.4 /*noiseReductionStrength*/,
+            5.5, 4.5, 4.5, 4.5, 4.5, 4.5, 4.5, 4.5, 4.5, 4.5 /*colorFilterStrength*/,
+            1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0 /*sharpen*/,
+            1/*contrast*/, -1/*iso*/, -1.0/*gain*/, 0/*dynamic*/, 0/*lowIntensity*/, 0/*colorBoost*/, 60/*deghost*/, 8/*effectiveFrames*/, 20/*inputSharpnessThreshold*/, 0.3/*alphalBlendingWeight*/, 0.07/*alphalBlendingStep*/, 3/*preSharpenStrength*/, 2/*movingObject*/,
+
+            2400 /*iso 2000~3200*/,
+            1.0, 0.8, 0.6, 0.6, 0.6, 0.6, 0.6, 0.6, 0.6, 0.6 /*noiseReductionStrength*/,
+            5.5, 4.5, 4.5, 4.5, 4.5, 4.5, 4.5, 4.5, 4.5, 4.5 /*colorFilterStrength*/,
+            0.7, 0.7, 0.7, 0.7, 0.7, 0.7, 0.7, 0.7, 0.7, 0.7 /*sharpen*/,
+            1/*contrast*/, -1/*iso*/, -1.0/*gain*/, 0/*dynamic*/, 0/*lowIntensity*/, 0/*colorBoost*/, 60/*deghost*/, 8/*effectiveFrames*/, 20/*inputSharpnessThreshold*/, 0.3/*alphalBlendingWeight*/, 0.07/*alphalBlendingStep*/, 3/*preSharpenStrength*/, 2/*movingObject*/,
+
+            1600 /*iso 1200~2000*/,
+            1.0, 0.8, 0.6, 0.4, 0.4, 0.4, 0.4, 0.4, 0.4, 0.4 /*noiseReductionStrength*/,
+            5.5, 4.5, 3.5, 2.5, 2.5, 2.5, 2.5, 2.5, 2.5, 2.5 /*colorFilterStrength*/,
+            0.7, 0.7, 0.7, 0.7, 0.7, 0.7, 0.7, 0.7, 0.7, 0.7 /*sharpen*/,
+            0/*contrast*/, -1/*iso*/, -1.0/*gain*/, 0/*dynamic*/, 0/*lowIntensity*/, 0/*colorBoost*/, 60/*deghost*/, 8/*effectiveFrames*/, 20/*inputSharpnessThreshold*/, 0.3/*alphalBlendingWeight*/, 0.07/*alphalBlendingStep*/, 3/*preSharpenStrength*/, 2/*movingObject*/,
+
+            800 /*iso 800~1200*/,
+            1.0, 0.8, 0.6, 0.4, 0.4, 0.4, 0.4, 0.4, 0.4, 0.4 /*noiseReductionStrength*/,
+            5.0, 4.0, 3.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0 /*colorFilterStrength*/,
+            0.5, 0.5, 0.5, 0.5, 0.5, 0.5, 0.5, 0.5, 0.5, 0.5 /*sharpen*/,
+            0/*contrast*/, -1/*iso*/, -1.0/*gain*/, 0/*dynamic*/, 0/*lowIntensity*/, 0/*colorBoost*/, 60/*deghost*/, 8/*effectiveFrames*/, 20/*inputSharpnessThreshold*/, 0.3/*alphalBlendingWeight*/, 0.07/*alphalBlendingStep*/, 3/*preSharpenStrength*/, 2/*movingObject*/,
+
+            400 /*iso 400~800*/,
+            1.0, 0.8, 0.6, 0.4, 0.4, 0.4, 0.4, 0.4, 0.4, 0.4 /*noiseReductionStrength*/,
+            4.0, 3.0, 2.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0 /*colorFilterStrength*/,
+            0.5, 0.5, 0.5, 0.5, 0.5, 0.5, 0.5, 0.5, 0.5, 0.5 /*sharpen*/,
+            0/*contrast*/, -1/*iso*/, -1.0/*gain*/, 0/*dynamic*/, 0/*lowIntensity*/, 0/*colorBoost*/, 60/*deghost*/, 8/*effectiveFrames*/, 20/*inputSharpnessThreshold*/, 0.3/*alphalBlendingWeight*/, 0.07/*alphalBlendingStep*/, 3/*preSharpenStrength*/, 2/*movingObject*/,
+
+            200 /*iso 200~400*/,
+            0.5, 0.3, 0.2, 0.3, 0.3, 0.3, 0.3, 0.3, 0.3, 0.3 /*noiseReductionStrength*/,
+            4.0, 3.0, 2.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0 /*colorFilterStrength*/,
+            0.4, 0.4, 0.4, 0.3, 0.3, 0.3, 0.3, 0.3, 0.3, 0.3 /*sharpen*/,
+            0/*contrast*/, -1/*iso*/, -1.0/*gain*/, 0/*dynamic*/, 0/*lowIntensity*/, 0/*colorBoost*/, 60/*deghost*/, 8/*effectiveFrames*/, 20/*inputSharpnessThreshold*/, 0.3/*alphalBlendingWeight*/, 0.07/*alphalBlendingStep*/, 3/*preSharpenStrength*/, 2/*movingObject*/,
+
+            0 /*iso 0~200*/,
+            0.5, 0.3, 0.2, 0.3, 0.3, 0.3, 0.3, 0.3, 0.3, 0.3 /*noiseReductionStrength*/,
+            0.5, 0.5, 0.5, 0.5, 0.5, 0.5, 0.5, 0.5, 0.5, 0.5 /*colorFilterStrength*/,
+            0.5, 0.3, 0.2, 0.2, 0.2, 0.2, 0.2, 0.2, 0.2, 0.2/*sharpen*/,
+            0/*contrast*/, -1/*iso*/, -1.0/*gain*/, 0/*dynamic*/, 0/*lowIntensity*/, 0/*colorBoost*/, 60/*deghost*/, 8/*effectiveFrames*/, 20/*inputSharpnessThreshold*/, 0.3/*alphalBlendingWeight*/, 0.07/*alphalBlendingStep*/, 3/*preSharpenStrength*/, 2/*movingObject*/,
+
+            0 /*iso not defined*/,
+            5.0, 4.5, 3.5, 3.5, 3.5, 3.5, 3.5, 3.5, 3.5, 3.5 /*noiseReductionStrength*/,
+            2.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0 /*colorFilterStrength*/,
+            3.5, 4.0, 4.0, 4.0, 4.0, 4.0, 4.0, 4.0, 4.0, 4.0 /*sharpen*/,
+            0/*contrast*/, -1/*iso*/, -1.0/*gain*/, 0/*dynamic*/, 0/*lowIntensity*/, 0/*colorBoost*/, 50/*deghost*/, 8/*effectiveFrames*/, 20/*inputSharpnessThreshold*/, 0.3/*alphalBlendingWeight*/, 0.07/*alphalBlendingStep*/, 3/*preSharpenStrength*/, 2/*movingObject*/
+
+            /*index4*/,
+            0.0 /*zoom not defined*/,
+
+            9000 /*iso >9000*/,
+            7.5, 7.5, 7.5, 7.5, 7.5, 7.0, 7.0, 7.0, 7.0, 7.0 /*noiseReductionStrength*/,
+            6.0, 5.0, 5.0, 5.0, 5.0, 5.0, 5.0, 5.0, 5.0, 5.0 /*colorFilterStrength*/,
+            2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0 /*sharpen*/,
+            0/*contrast*/, -1/*iso*/, -1.0/*gain*/, 0/*dynamic*/, 0/*lowIntensity*/, 0/*colorBoost*/, 60/*deghost*/, 8/*effectiveFrames*/, 40/*inputSharpnessThreshold*/, 0.5/*alphalBlendingWeight*/, 0.05/*alphalBlendingStep*/, 3/*preSharpenStrength*/, 2/*movingObject*/,
+
+            8000 /*iso 8000~9000*/,
+            7.5, 7.5, 7.5, 7.5, 7.5, 7.0, 7.0, 7.0, 7.0, 7.0 /*noiseReductionStrength*/,
+            6.0, 5.0, 5.0, 5.0, 5.0, 5.0, 5.0, 5.0, 5.0, 5.0 /*colorFilterStrength*/,
+            2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0 /*sharpen*/,
+            0/*contrast*/, -1/*iso*/, -1.0/*gain*/, 0/*dynamic*/, 0/*lowIntensity*/, 0/*colorBoost*/, 60/*deghost*/, 8/*effectiveFrames*/, 40/*inputSharpnessThreshold*/, 0.5/*alphalBlendingWeight*/, 0.05/*alphalBlendingStep*/, 3/*preSharpenStrength*/, 2/*movingObject*/,
+
+            7000 /*iso 7000~8000*/,
+            7.5, 7.5, 7.5, 7.5, 7.5, 7.0, 7.0, 7.0, 7.0, 7.0 /*noiseReductionStrength*/,
+            6.0, 5.0, 5.0, 5.0, 5.0, 5.0, 5.0, 5.0, 5.0, 5.0 /*colorFilterStrength*/,
+            2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0 /*sharpen*/,
+            0/*contrast*/, -1/*iso*/, -1.0/*gain*/, 0/*dynamic*/, 0/*lowIntensity*/, 0/*colorBoost*/, 60/*deghost*/, 8/*effectiveFrames*/, 40/*inputSharpnessThreshold*/, 0.5/*alphalBlendingWeight*/, 0.05/*alphalBlendingStep*/, 3/*preSharpenStrength*/, 2/*movingObject*/,
+
+            5000 /*iso 5000~7000*/,
+            7.5, 7.0, 6.5, 6.5, 6.5, 6.0, 6.0, 6.0, 6.0, 6.0 /*noiseReductionStrength*/,
+            5.0, 4.0, 4.0, 4.0, 4.0, 4.0, 4.0, 4.0, 4.0, 4.0 /*colorFilterStrength*/,
+            2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0 /*sharpen*/,
+            0/*contrast*/, -1/*iso*/, -1.0/*gain*/, 0/*dynamic*/, 0/*lowIntensity*/, 0/*colorBoost*/, 60/*deghost*/, 8/*effectiveFrames*/, 40/*inputSharpnessThreshold*/, 0.5/*alphalBlendingWeight*/, 0.05/*alphalBlendingStep*/, 3/*preSharpenStrength*/, 2/*movingObject*/,
+
+            3200 /*iso 3200~5000*/,
+            8.0, 8.0, 7.0, 6.0, 6.0, 6.0, 6.0, 6.0, 6.0, 6.0 /*noiseReductionStrength*/,
+            7.0, 6.0, 5.0, 4.0, 4.0, 4.0, 4.0, 4.0, 4.0, 4.0 /*colorFilterStrength*/,
+            1.0, 1.0, 2.0, 3.0, 3.0, 3.0, 3.0, 3.0, 3.0, 3.0 /*sharpen*/,
+            0/*contrast*/, -1/*iso*/, -1.0/*gain*/, 0/*dynamic*/, 0/*lowIntensity*/, 0/*colorBoost*/, 60/*deghost*/, 8/*effectiveFrames*/, 40/*inputSharpnessThreshold*/, 0.5/*alphalBlendingWeight*/, 0.05/*alphalBlendingStep*/, 3/*preSharpenStrength*/, 2/*movingObject*/,
+
+            2000 /*iso 2000~3200*/,
+            8.0, 7.0, 6.0, 5.0, 5.0, 5.0, 5.0, 5.0, 5.0, 5.0 /*noiseReductionStrength*/,
+            6.0, 5.0, 4.0, 3.0, 3.0, 3.0, 3.0, 3.0, 3.0, 3.0 /*colorFilterStrength*/,
+            2.0, 3.0, 4.0, 5.0, 5.0, 5.0, 5.0, 5.0, 5.0, 5.0 /*sharpen*/,
+            0/*contrast*/, -1/*iso*/, -1.0/*gain*/, 0/*dynamic*/, 0/*lowIntensity*/, 0/*colorBoost*/, 60/*deghost*/, 8/*effectiveFrames*/, 40/*inputSharpnessThreshold*/, 0.5/*alphalBlendingWeight*/, 0.05/*alphalBlendingStep*/, 3/*preSharpenStrength*/, 2/*movingObject*/,
+
+            1200 /*iso 1200~2000*/,
+            7.5, 6.5, 5.5, 4.5, 4.5, 4.5, 4.5, 4.5, 4.5, 4.5 /*noiseReductionStrength*/,
+            5.5, 4.5, 3.5, 2.5, 2.5, 2.5, 2.5, 2.5, 2.5, 2.5 /*colorFilterStrength*/,
+            2.0, 3.0, 4.0, 5.0, 5.0, 5.0, 5.0, 5.0, 5.0, 5.0 /*sharpen*/,
+            0/*contrast*/, -1/*iso*/, -1.0/*gain*/, 0/*dynamic*/, 0/*lowIntensity*/, 0/*colorBoost*/, 60/*deghost*/, 8/*effectiveFrames*/, 30/*inputSharpnessThreshold*/, 0.5/*alphalBlendingWeight*/, 0.05/*alphalBlendingStep*/, 3/*preSharpenStrength*/, 2/*movingObject*/,
+
+            800 /*iso 800~1200*/,
+            7.0, 6.0, 5.0, 4.0, 4.0, 4.0, 4.0, 4.0, 4.0, 4.0 /*noiseReductionStrength*/,
+            5.0, 4.0, 3.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0 /*colorFilterStrength*/,
+            2.0, 3.0, 4.0, 5.0, 5.0, 5.0, 5.0, 5.0, 5.0, 5.0 /*sharpen*/,
+            0/*contrast*/, -1/*iso*/, -1.0/*gain*/, 0/*dynamic*/, 0/*lowIntensity*/, 0/*colorBoost*/, 70/*deghost*/, 8/*effectiveFrames*/, 40/*inputSharpnessThreshold*/, 0.5/*alphalBlendingWeight*/, 0.05/*alphalBlendingStep*/, 3/*preSharpenStrength*/, 2/*movingObject*/,
+
+            400 /*iso 400~800*/,
+            6.5, 5.5, 4.5, 3.5, 3.5, 3.5, 3.5, 3.5, 3.5, 3.5 /*noiseReductionStrength*/,
+            4.5, 3.5, 2.5, 1.5, 1.5, 1.5, 1.5, 1.5, 1.5, 1.5 /*colorFilterStrength*/,
+            2.0, 3.0, 4.0, 5.0, 5.0, 5.0, 5.0, 5.0, 5.0, 5.0 /*sharpen*/,
+            0/*contrast*/, -1/*iso*/, -1.0/*gain*/, 0/*dynamic*/, 0/*lowIntensity*/, 0/*colorBoost*/, 70/*deghost*/, 8/*effectiveFrames*/, 30/*inputSharpnessThreshold*/, 0.5/*alphalBlendingWeight*/, 0.05/*alphalBlendingStep*/, 2/*preSharpenStrength*/, 2/*movingObject*/,
+
+            200 /*iso 200~400*/,
+            6.5, 5.5, 4.5, 3.5, 3.5, 3.5, 3.5, 3.5, 3.5, 3.5 /*noiseReductionStrength*/,
+            4.0, 3.0, 2.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0 /*colorFilterStrength*/,
+            2.0, 3.0, 4.0, 5.0, 5.0, 5.0, 5.0, 5.0, 5.0, 5.0 /*sharpen*/,
+            0/*contrast*/, -1/*iso*/, -1.0/*gain*/, 0/*dynamic*/, 0/*lowIntensity*/, 0/*colorBoost*/, 70/*deghost*/, 8/*effectiveFrames*/, 30/*inputSharpnessThreshold*/, 0.3/*alphalBlendingWeight*/, 0.05/*alphalBlendingStep*/, 2/*preSharpenStrength*/, 2/*movingObject*/,
+
+            0 /*iso 0~200*/,
+            6.5, 5.5, 4.5, 3.5, 3.5, 3.5, 3.5, 3.5, 3.5, 3.5 /*noiseReductionStrength*/,
+            4.0, 3.0, 2.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0 /*colorFilterStrength*/,
+            2.0, 3.0, 4.0, 5.0, 5.0, 5.0, 5.0, 5.0, 5.0, 5.0 /*sharpen*/,
+            0/*contrast*/, -1/*iso*/, -1.0/*gain*/, 0/*dynamic*/, 0/*lowIntensity*/, 0/*colorBoost*/, 70/*deghost*/, 8/*effectiveFrames*/, 30/*inputSharpnessThreshold*/, 0.2/*alphalBlendingWeight*/, 0.05/*alphalBlendingStep*/, 2/*preSharpenStrength*/, 2/*movingObject*/,
+
+            0 /*iso not defined*/,
+            5.0, 4.5, 3.5, 3.5, 3.5, 3.5, 3.5, 3.5, 3.5, 3.5 /*noiseReductionStrength*/,
+            2.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0 /*colorFilterStrength*/,
+            3.5, 4.0, 4.0, 4.0, 4.0, 4.0, 4.0, 4.0, 4.0, 4.0 /*sharpen*/,
+            0/*contrast*/, -1/*iso*/, -1.0/*gain*/, 0/*dynamic*/, 0/*lowIntensity*/, 0/*colorBoost*/, 50/*deghost*/, 8/*effectiveFrames*/, 30/*inputSharpnessThreshold*/, 0.3/*alphalBlendingWeight*/, 0.05/*alphalBlendingStep*/, 2/*preSharpenStrength*/, 2/*movingObject*/
+            ",
+  "Comment": "
+            isoZoneNumber,
+            maxZoom,
+            iso,
+            process_param_t"
+},
+
+{
+  "VendorTag": "aps.params.bokeh.night.scene.threshold",
+  "Type": "Int32",
+  "Count": "1",
+  "Value": "200"
+},
+
+{
+  "VendorTag": "aps.params.bokeh.blurlevel.ratio",
+  "Type": "Float",
+  "Count": "1",
+  "Value": "0.7"
+},
+
+{
+  "VendorTag": "aps.params.bokeh.trigerLightSpotBright",
+  "Type": "Int32",
+  "Count": "2",
+  "Value": "5,2",
+  "Comment": "night, normal"
+},
+
+{
+  "VendorTag": "aps.params.bokeh.LightSpotSaturation",
+  "Type": "Float",
+  "Count": "2",
+  "Value": "3.5,2",
+  "Comment": "normal, night"
+},
+
+{
+  "VendorTag": "aps.params.bokeh.lightspotstrength",
+  "Type": "Float",
+  "Count": "8",
+  "Value": "
+            410/*outdoorLuxIdxThld*/, 410/*indoorLuxIdxThldStart*/, 410/*indoorLuxIdxThldEnd*/, 440/*lowLightLuxIdxThld*/,
+            60/*outdoorStrength*/, 120/*indoorStartStrength*/, 120/*indoorEndStrength*/, 120/*lowlightStrength*/
+            ",
+  "Comment": "jsonparamsbokehlightspotStrength"
+},
+
+{
+  "VendorTag": "aps.params.bokeh.backgroundsaturation",
+  "Type": "Float",
+  "Count": "5",
+  "Value": "410 /*outdoorLuxIdxThld*/,
+            440 /*indoorLuxIdxThld*/,
+            0 /*outdoorSaturation*/,
+            0 /*indoorSaturation*/,
+            0 /*nightSaturation*/"
+},
+
+{
+  "VendorTag": "com.aps.params.bokehLevel",
+  "Type": "Float",
+  "Count": "24",
+  "Value": "
+            68, 0.05,
+            60, 0.06,
+            49, 0.08,
+            37, 0.12,
+            30, 0.17,
+            25, 0.23,
+            20, 0.33,
+            15, 0.54,
+            12, 0.76,
+            11, 0.85,
+            9, 1.00,
+            0, 1.3",
+  "Comment":"appBlurValue,level"
+},
+
+{
+  "VendorTag": "aps.params.bokeh.blus.param.halfportrait",
+  "Type": "Int32",
+  "Count": "56",
+  "Value": "0/*SceneType face*/,
+    1000, 20, 6/*face width object distance blur intensity*/, 620, 50, 6/*1*/, 360, 80, 6/*2*/, 260, 120, 6/*3*/, 200, 160, 4/*4*/, 155, 200, 4/*5*/, 100, 300, 4/*6*/, 50, 400, 4/*7*/, 0, 90000, 4/*8*/,
+    1/*SceneType Noface*/,
+    1000, 20, 6/*face width object distance blur intensity*/, 620, 50, 6/*1*/, 360, 80, 6/*2*/, 260, 120, 6/*3*/, 200, 160, 4/*4*/, 155, 200, 4/*5*/, 100, 300, 4/*6*/, 50, 400, 4/*7*/, 0, 90000, 4/*8*/
+  ",
+  "Comment": "
+            SceneType,
+            face width,
+            object distance,
+            blur intensity"
+},
+
+{
+  "VendorTag": "aps.params.bokeh.blus.param.fullportrait",
+  "Type": "Int32",
+  "Count": "56",
+  "Value": "0/*SceneType face*/,
+    1000, 20, 14/*face width object distance blur intensity*/, 600, 50, 14/*1*/, 360, 80, 10/*2*/, 330, 120, 7/*3*/, 200, 160, 6/*4*/, 155, 200, 6/*5*/, 100, 300, 6/*6*/, 50, 400, 4/*7*/, 0, 90000, 4/*8*/,
+    1/*SceneType Noface*/,
+    1000, 20, 14/*face width object distance blur intensity*/, 600, 50, 14/*1*/, 360, 80, 10/*2*/, 330, 120, 7/*3*/, 200, 160, 6/*4*/, 155, 200, 6/*5*/, 100, 300, 6/*6*/, 50, 400, 4/*7*/, 0, 90000, 4/*8*/
+  ",
+  "Comment": "
+            SceneType,
+            face width,
+            object distance,
+            blur intensity"
+},
+
+{
+  "VendorTag": "aps.params.bokeh.blus.param.id",
+  "Type": "Int32",
+  "Count": "1",
+  "Value": "5"
+},
+
+{
+  "VendorTag": "aps.params.bokeh.blus.param.path",
+  "Type": "String",
+  "Count": "1",
+  "Value": "/odm/lib64/libarcsoft_dualcam_bokeh_api.so"
+},
+
+{
+  "VendorTag": "HDR_TRIGGER_REGION",
+  "Type": "Int32",
+  "Count": "4",
+  "Value": "10 /*hdr scope thd*/,
+            12 /*hdr_face scope thd*/,
+            10 /*llhdr scope thd*/,
+            12 /*hdr_face scope thd*/"
+},
+{
+  "VendorTag": "COUPLEHDR_ENABLE",
+  "Type": "Int32",
+  "Count": "1",
+  "Value": "1"
+},
+{
+  "VendorTag": "REMOSAIC_DRCGAIN",
+  "Type": "Float",
+  "Count": "1",
+  "Value": "1.5"
+},
+{
+  "VendorTag": "COUPLEHDR_TRIGGER_REGION",
+  "Type": "Int32",
+  "Count": "5",
+  "Value": "2 /*chdr scope thd*/,
+            8 /*chdr_face scope thd*/,
+            140 /*drc*100 thd*/,
+            5500 /*dr_b2d thd*/,
+            55 /*bv+50 thd*/"
+},
+{
+  "VendorTag": "QUADCFA_ISO_TRIGGER",
+  "Type": "Int32",
+  "Count": "4",
+  "Value": "150 ,
+            260 ,
+            300 /*drc thd*/,
+            400 /*dr_b2d thd*/"
+},
+
+{
+   "VendorTag": "aps.params.draw.text.info",
+   "Type": "Int32",
+   "Count": "8",
+   "Value": "0   /*cap origin coordinate*/,
+             0   /*cap paint direct 0:y-axis 1:x-axis**/,
+             5   /*cap x-axis ratio*/,
+             95  /*cap y-axis ratio*/,
+             0   /*font ratio*/,
+             0   /*font color 0:black 255:white*/,
+             255 /*backgroup color 0:transparent 255:white*/,
+             1   /*disable align*/"
+}
+
+]

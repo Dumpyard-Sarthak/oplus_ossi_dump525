@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<feature id="0">
+    <function>FIX Asdiv</function>
+     <atcmd index="1">
+        <cmd command = "rat-4">1,0,5,0</cmd>
+        <cmd command = "rat-4">1,0,8,0</cmd>
+        <cmd command = "rat-4">1,0,2,0</cmd>
+        <cmd command = "rat-4">1,0,3,0</cmd>
+        <cmd command = "rat-4">5,0,1,0</cmd>
+        <cmd command = "rat-4">5,0,2,0</cmd>
+        <cmd command = "rat-4">5,0,4,0</cmd>
+        <cmd command = "rat-4">5,0,5,0</cmd>
+        <cmd command = "rat-4">5,0,6,0</cmd>
+        <cmd command = "rat-4">5,0,8,0</cmd>
+        <cmd command = "rat-4">5,0,19,0</cmd>
+        <cmd command = "rat-4">3,0,1,0</cmd>
+        <cmd command = "rat-4">3,0,2,0</cmd>
+        <cmd command = "rat-4">3,0,3,0</cmd>
+        <cmd command = "rat-4">3,0,4,0</cmd>
+        <cmd command = "rat-4">3,0,5,0</cmd>
+        <cmd command = "rat-4">3,0,7,0</cmd>
+        <cmd command = "rat-4">3,0,8,0</cmd>
+        <cmd command = "rat-4">3,0,18,0</cmd>
+        <cmd command = "rat-4">3,0,19,0</cmd>
+        <cmd command = "rat-4">3,0,26,0</cmd>
+        <cmd command = "rat-4">3,0,28,0</cmd>
+        <cmd command = "rat-4">3,0,34,0</cmd>
+        <cmd command = "rat-4">3,0,38,0</cmd>
+        <cmd command = "rat-4">3,0,39,0</cmd>
+        <cmd command = "rat-4">3,0,40,0</cmd>
+        <cmd command = "rat-4">3,0,41,0</cmd>
+    </atcmd>
+    <atcmd index="0">
+        <cmd command = "rat-4">1,1,5,0</cmd>
+        <cmd command = "rat-4">1,1,8,0</cmd>
+        <cmd command = "rat-4">1,1,2,0</cmd>
+        <cmd command = "rat-4">1,1,3,0</cmd>
+        <cmd command = "rat-4">5,1,1,0</cmd>
+        <cmd command = "rat-4">5,1,2,0</cmd>
+        <cmd command = "rat-4">5,1,4,0</cmd>
+        <cmd command = "rat-4">5,1,5,0</cmd>
+        <cmd command = "rat-4">5,1,6,0</cmd>
+        <cmd command = "rat-4">5,1,8,0</cmd>
+        <cmd command = "rat-4">5,1,19,0</cmd>
+        <cmd command = "rat-4">3,1,1,0</cmd>
+        <cmd command = "rat-4">3,1,2,0</cmd>
+        <cmd command = "rat-4">3,1,3,0</cmd>
+        <cmd command = "rat-4">3,1,4,0</cmd>
+        <cmd command = "rat-4">3,1,5,0</cmd>
+        <cmd command = "rat-4">3,1,7,0</cmd>
+        <cmd command = "rat-4">3,1,8,0</cmd>
+        <cmd command = "rat-4">3,1,18,0</cmd>
+        <cmd command = "rat-4">3,1,19,0</cmd>
+        <cmd command = "rat-4">3,1,26,0</cmd>
+        <cmd command = "rat-4">3,1,28,0</cmd>
+        <cmd command = "rat-4">3,1,34,0</cmd>
+        <cmd command = "rat-4">3,1,38,0</cmd>
+        <cmd command = "rat-4">3,1,39,0</cmd>
+        <cmd command = "rat-4">3,1,40,0</cmd>
+        <cmd command = "rat-4">3,1,41,0</cmd>
+    </atcmd>
+    <atcmd index="2">
+        <cmd command = "rat-4">3,2,1,0</cmd>
+        <cmd command = "rat-4">3,2,3,0</cmd>
+        <cmd command = "rat-4">3,2,38,0</cmd>
+        <cmd command = "rat-4">3,2,41,0</cmd>
+    </atcmd>
+    <atcmd index="3">
+        <cmd command = "rat-4">3,3,1,0</cmd>
+        <cmd command = "rat-4">3,3,3,0</cmd>
+        <cmd command = "rat-4">3,3,38,0</cmd>
+        <cmd command = "rat-4">3,3,41,0</cmd>
+    </atcmd>
+    <atcmd index="4">
+        <cmd command = "rat-5">0,0,1</cmd>
+        <cmd command = "rat-5">0,0,3</cmd>
+        <cmd command = "rat-5">0,0,5</cmd>
+        <cmd command = "rat-5">0,0,8</cmd>
+        <cmd command = "rat-5">0,0,28</cmd>
+        <cmd command = "rat-5">1,1,40</cmd>
+        <cmd command = "rat-5">0,0,41</cmd>
+        <cmd command = "rat-5">0,1,77</cmd>
+        <cmd command = "rat-5">0,1,78</cmd>
+    </atcmd>
+    <atcmd index="5">
+        <cmd command = "rat-5">1,1,1</cmd>
+        <cmd command = "rat-5">1,1,3</cmd>
+        <cmd command = "rat-5">1,1,5</cmd>
+        <cmd command = "rat-5">1,1,8</cmd>
+        <cmd command = "rat-5">1,1,28</cmd>
+        <cmd command = "rat-5">0,0,40</cmd>
+        <cmd command = "rat-5">1,1,41</cmd>
+        <cmd command = "rat-5">2,1,77</cmd>
+        <cmd command = "rat-5">2,1,78</cmd>
+    </atcmd>
+    <atcmd index="6">
+        <cmd command = "rat-5">2,2,1</cmd>
+        <cmd command = "rat-5">2,2,3</cmd>
+        <cmd command = "rat-5">2,2,41</cmd>
+        <cmd command = "rat-5">3,1,77</cmd>
+        <cmd command = "rat-5">3,1,78</cmd>
+    </atcmd>
+    <atcmd index="7">
+        <cmd command = "rat-5">3,3,1</cmd>
+        <cmd command = "rat-5">3,3,3</cmd>
+        <cmd command = "rat-5">3,3,41</cmd>
+        <cmd command = "rat-5">4,1,77</cmd>
+        <cmd command = "rat-5">4,1,78</cmd>
+    </atcmd>
+</feature>

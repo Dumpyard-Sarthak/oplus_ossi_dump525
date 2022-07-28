@@ -1,0 +1,20 @@
+<!--Tips: The product configuration will not overlay the common configration. Do not configure the same configuration -->
+
+<oplus-config>
+    <!-- GuiXiang@NETWORK.REG.8515, 2019/01/03, Add for 5G support feature -->
+    <oplus-feature name="oplus.software.radio.support_5g"/>
+    <!-- HeZhihui@NETWORK.REG.8515, 2020/06/12, modify for Feature Toggle -->
+    <oplus-feature name="oplus.software.radio.nr_icon_optimized_enabled"/>
+    <oplus-feature name="oplus.software.radio.ntp_preferred"/>
+    <!-- Chenshenghua@NETWORK.Tech, 2021/03/11, add for use vendor ap/modem log pb for logkit-->
+    <oplus-feature name="oplus.software.radio.apmdm_log_pb"/>
+    <!-- WangHui@NETWORK.REG.2415820, 2021/11/02, add for use sts interface for engnetwork -->
+    <oplus-feature name="oplus.software.radio.engnw_sts_interface_support" />
+    <!--Cynric.Zhao@NETWORK.DATA add for online meeting-->
+    <oplus-feature name="oplus.software.radio.scene_mode" />
+    <oplus-feature name="oplus.software.radio.online_meeting" />
+    <!-- WangHui@NETWORK.CALL.1981831, 2021/08/13, add for sts support auto answer logic -->
+    <oplus-feature name="oplus.software.radio.sts_auto_answer_support" />
+    <!--ZhengXueqian@NETWORK.SIM, 2022/03/29, add for using legacy simlock engineer-->
+    <oplus-feature name="oplus.software.radio.using_legacy_simlock"/>
+</oplus-config>

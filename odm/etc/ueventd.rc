@@ -1,0 +1,5 @@
+/dev/block/sdc4                     0660   system     system
+/dev/block/sdc3                     0660   root     system
+/dev/block/sdb3                     0660   root     system
+/dev/block/by-name/oplusreserve1    0660   root     system
+

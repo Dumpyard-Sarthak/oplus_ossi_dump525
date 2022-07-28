@@ -1,0 +1,17 @@
+<oplus-config>
+<!-- WangJian@CONNECTIVITY.WIFI.ARCHITECHURE, 2020/06/16   -->
+    <oplus-feature name="oplus.software.wlan.assistant" />
+
+    <oplus-feature name="oplus.software.wlan.auto_reconnect" />
+<!-- Xiazijian@CONNECTIVITY.WIFI.BASIC.SWITCH, 2022/02/16, Add for hidden camera detection-->
+    <oplus-feature name="oplus.software.wlan.sniffer_capture_with_udp" />
+<!--  BT begin -->
+<!-- GaoShangxiu@CONNECTIVITY.BT.ARCHITECHURE, 2020/07/14   -->
+    <oplus-feature name="oplus.software.bt.absvolume_support" />
+    <oplus-feature name="oplus.software.bt.ble_scan_strategymode" />
+<!--  BT end -->
+<!--  NFC begin -->
+<!-- huangruhong@CONNECTIVITY.NFC.ARCHITECHURE, 2020/08/18,add for felica(NFC Card Emulation) toggle feature  -->
+    <oplus-feature name="oplus.software.nfc.felica_support" />
+<!--  NFC end -->
+</oplus-config>

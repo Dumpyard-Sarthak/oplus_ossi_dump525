@@ -1,0 +1,44 @@
+
+# InitEnv
+
+# Build.java
+ro.build.id=SP1A.210812.016
+ro.product.manufacturer=realme
+ro.product.brand=realme
+ro.product.model=RMX3561
+ro.product.name=RMX3561
+ro.product.device=RED8BEL1
+ro.product.first_api_level=31
+ro.build.version.incremental=S.202206022022
+ro.build.version.base_os=realme/RMX3561/RED8BEL1:12/SP1A.210812.016/S.202205242317:user/release-keys
+ro.build.version.release=12
+ro.build.fingerprint=realme/RMX3561/RED8BEL1:12/SP1A.210812.016/S.202206022022:user/release-keys
+ro.odm.build.fingerprint=realme/RMX3561/RED8BEL1:12/SP1A.210812.016/S.202206022022:user/release-keys
+ro.odm.build.version.incremental=S.202206022022
+ro.product.odm.brand=realme
+ro.product.odm.manufacturer=realme
+ro.product.odm.model=RMX3561
+ro.product.odm.device=RED8BEL1
+ro.product.odm.name=RMX3561
+ro.odm.build.date=Thu Jun  2 20:32:35 CST 2022
+ro.odm.build.date.utc=1654173155
+ro.bootimage.build.fingerprint=realme/RMX3561/RED8BEL1:12/SP1A.210812.016/S.202206022022:user/release-keys
+ro.bootimage.build.version.incremental=S.202206022022
+ro.product.bootimage.brand=realme
+ro.product.bootimage.manufacturer=realme
+ro.product.bootimage.model=RMX3561
+ro.product.bootimage.device=RED8BEL1
+ro.product.bootimage.name=RMX3561
+ro.bootimage.build.date=Thu Jun  2 20:32:35 CST 2022
+ro.bootimage.build.date.utc=1654173155
+ro.vendor.build.fingerprint=realme/RMX3561/RED8BEL1:12/SP1A.210812.016/S.202206022022:user/release-keys
+ro.vendor.build.version.incremental=S.202206022022
+ro.product.vendor.brand=realme
+ro.product.vendor.manufacturer=realme
+ro.product.vendor.model=RMX3561
+ro.product.vendor.device=RED8BEL1
+ro.product.vendor.name=RMX3561
+ro.vendor.build.date=Thu Jun  2 20:32:35 CST 2022
+ro.vendor.build.date.utc=1654173155
+
+# OPPO

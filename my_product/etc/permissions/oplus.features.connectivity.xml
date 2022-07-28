@@ -1,0 +1,22 @@
+<oplus-config>
+    <!-- zhengxuefei@CONNECTIVITY.BT.SWITCHLOG, 2021/09/02, add for for bluetooth switch log report  -->
+    <oplus-feature name="oplus.software.bt.switchlog" />
+
+    <oplus-feature name="oplus.software.bt.sar_support" />
+
+    <oplus-feature name="oplus.software.wlan.dbs" />
+
+    <oplus-feature name="oplus.software.wlan.wifi6" />
+
+    <!--oplus-feature name="oplus.software.wlan.smart_gear" /-->
+    <oplus-feature name="oplus.software.wlan.smart_gear" />
+    <!-- LiXiong@CONNECTIVITY.WIFI.NETWORK.ROUTERBOOST, 2020/09/27   -->
+    <oplus-feature name="oplus.software.wlan.routerboost" />
+
+    <!-- XiaSong@CONNECTIVITY.WIFI.HARDWARE.PKAT.1460037, 2021/12/3 -->
+    <oplus-feature name="oplus.software.wlan.pkat" />
+
+    <!-- NormanLiu@CONNECTIVITY.WIFI.NETWORK, 2021/10/14 -->
+    <oplus-feature name="oplus.software.wlan.fdd_mode" />
+    <oplus-feature name="oplus.software.wlan.routerboost" />
+</oplus-config>

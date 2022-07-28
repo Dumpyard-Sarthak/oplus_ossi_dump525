@@ -1,0 +1,7 @@
+{
+    "version": 20220218,
+    "apps": [
+        {"fps": 50, "name": "com.kiloo.subwaysurf"},
+        {"fps": 50, "name": "com.happyelements.AndroidAnimal"}
+    ]
+}

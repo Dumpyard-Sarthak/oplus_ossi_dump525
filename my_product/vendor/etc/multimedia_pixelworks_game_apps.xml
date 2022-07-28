@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+  <filter-conf>
+  <version>20210625</version>
+  <filter-name>multimedia_pixelworks_game_apps</filter-name>
+    <!--Config package sdr2hdr-->
+    <mConfigPackage  type="267-3-3">com.tencent.tmgp.speedmobile</mConfigPackage> <!--QQ飞车-->
+    <mConfigPackage  type="267-3-3">com.tencent.tmgp.sgame</mConfigPackage> <!--王者荣耀-->
+    <mConfigPackage  type="267-3-3">com.tencent.tmgp.pubgmhd</mConfigPackage> <!--和平精英-->
+    <mConfigPackage  type="267-3-3">com.tencent.lolm</mConfigPackage> <!--英雄联盟-->
+
+    <!--Config activity switch-->
+    <mConfigActivity type="258-10-99-2-99-9-45">com.tencent.tmgp.speedmobile/com.tencent.tmgp.speedmobile.speedmobile</mConfigActivity>
+    <mConfigActivity type="258-10-99-2-99-9-45">com.tencent.tmgp.sgame/com.tencent.tmgp.sgame.SGameActivity</mConfigActivity>
+    <mConfigActivity type="258-10-99-2-99-0-45">com.tencent.tmgp.pubgmhd/com.epicgames.ue4.GameActivity</mConfigActivity>
+    <mConfigActivity type="258-10-99-2-99-0-45">com.tencent.igce/com.epicgames.ue4.GameActivity</mConfigActivity>
+    <mConfigActivity type="258-10-99-2-99-0-45">com.rekoo.pubgm/com.epicgames.ue4.GameActivity</mConfigActivity>
+    <mConfigActivity type="258-10-99-2-99-0-45">com.vng.pubgmobile/com.epicgames.ue4.GameActivity</mConfigActivity>
+    <mConfigActivity type="258-10-99-2-99-0-45">com.pubg.krmobile/com.epicgames.ue4.GameActivity</mConfigActivity>
+    <mConfigActivity type="258-10-99-2-99-9-45">com.tencent.lolm/com.tencent.lolm.lgame</mConfigActivity>
+    <mConfigActivity type="258-10-99-2-99-3-45">com.miHoYo.Yuanshen/com.miHoYo.GetMobileInfo.MainActivity</mConfigActivity>
+    <mConfigActivity type="258-10-99-2-99-3-45">com.miHoYo.ys.bilibili/com.miHoYo.GetMobileInfo.MainActivity</mConfigActivity>
+    <mConfigActivity type="258-10-99-2-99-3-45">com.miHoYo.ys.mi/com.miHoYo.GetMobileInfo.MainActivity</mConfigActivity>
+    <mConfigActivity type="258-10-99-2-99-3-45">com.miHoYo.GenshinImpact/com.miHoYo.GetMobileInfo.MainActivity</mConfigActivity>
+    <mConfigActivity type="258-10-99-2-99-4-45">com.miHoYo.bh3.nearme.gamecenter/com.miHoYo.overridenativeactivity.OverrideNativeActivity</mConfigActivity>
+    <mConfigActivity type="258-10-99-2-99-4-45">com.miHoYo.bh3.bilibili/com.miHoYo.overridenativeactivity.OverrideNativeActivity</mConfigActivity>
+    <mConfigActivity type="258-10-99-2-99-4-45">com.miHoYo.bh3.mi/com.miHoYo.overridenativeactivity.OverrideNativeActivity</mConfigActivity>
+    <mConfigActivity type="258-10-99-2-99-4-45">com.miHoYo.enterprise.NGHSoD/com.miHoYo.overridenativeactivity.OverrideNativeActivity</mConfigActivity>
+    <mConfigActivity type="258-10-99-2-99-5-45">com.tencent.tmgp.cod/com.tencent.tmgp.cod.CODMainActivity</mConfigActivity>
+    <mConfigActivity type="258-10-99-2-99-8-45">com.netease.dwrg.nearme.gamecenter/com.netease.dwrg.Client</mConfigActivity>
+    <mConfigActivity type="258-10-99-2-99-8-45">com.netease.dwrg/com.netease.dwrg.Client</mConfigActivity>
+    <mConfigActivity type="258-10-99-2-99-8-45">com.netease.dwrg.bili/com.netease.dwrg.Client</mConfigActivity>
+    <mConfigActivity type="258-10-99-2-99-8-45">com.netease.dwrg.mi/com.netease.dwrg.Client</mConfigActivity>
+    <mConfigActivity type="258-10-99-2-99-8-45">com.netease.idv.googleplay/com.netease.dwrg.Client</mConfigActivity>
+    <mConfigActivity type="258-10-99-2-99-9-45">com.tencent.fifamobile/com.tencent.fifamobile.FifaMainActivity</mConfigActivity>
+    <mConfigActivity type="258-10-99-2-99-9-45">com.protopop.brightridge/com.unity3d.player.UnityPlayerActivity</mConfigActivity>
+    <mConfigActivity type="258-10-99-2-99-9-45">com.tencent.KiHan/com.tencent.KiHan.ApolloTest</mConfigActivity>
+    <mConfigActivity type="258-10-99-2-99-9-45">com.tencent.tmgp.NBA/com.tencent.tmgp.NBA.ApolloNBA</mConfigActivity>
+    <mConfigActivity type="258-10-99-2-99-9-45">com.tencent.tmgp.WePop/com.tencent.tmgp.WePop.WePopActivity</mConfigActivity>
+    <mConfigActivity type="258-10-99-2-99-9-45">com.netease.pes.nearme.gamecenter/com.epicgames.ue4.GameActivity</mConfigActivity>
+    <mConfigActivity type="258-10-99-2-99-9-45">com.netease.pes/com.epicgames.ue4.GameActivity</mConfigActivity>
+    <mConfigActivity type="258-10-99-2-99-6-45">com.netease.pm02.nearme.gamecenter/com.netease.ntunisdk.unisdk4UnityPlugin.AndroidPlugin</mConfigActivity>
+    <mConfigActivity type="258-10-99-2-99-6-45">com.netease.pm02/com.netease.ntunisdk.unisdk4UnityPlugin.AndroidPlugin</mConfigActivity>
+    <mConfigActivity type="258-10-99-2-99-6-45">com.netease.pm02.bilibili/com.netease.ntunisdk.unisdk4UnityPlugin.AndroidPlugin</mConfigActivity>
+    <mConfigActivity type="258-10-99-2-99-6-45">com.netease.pm02.mi/com.netease.ntunisdk.unisdk4UnityPlugin.AndroidPlugin</mConfigActivity>
+    <mConfigActivity type="258-10-99-2-99-1-45">com.wmsjjdb.nearme.gamecenter/com.wanmei.pwim.UnityPlayerActivity</mConfigActivity>
+    <mConfigActivity type="258-10-99-2-99-1-45">com.tencent.wmsj/com.tencent.wmsj.UnityPlayerActivity</mConfigActivity>
+    <mConfigActivity type="258-10-99-2-99-7-45">com.zsyj.nearme.gamecenter/com.pwrd.zsyj.support.MainActivity</mConfigActivity>
+    <mConfigActivity type="258-10-99-2-99-7-45">com.pwrd.zsyj.laohu/com.pwrd.zsyj.support.MainActivity</mConfigActivity>
+    <mConfigActivity type="258-10-99-2-99-7-45">com.pwrd.zsyj.bilibili/com.pwrd.zsyj.support.MainActivity</mConfigActivity>
+    <mConfigActivity type="258-10-99-2-99-7-45">com.pwrd.zsyj.mi/com.pwrd.zsyj.support.MainActivity</mConfigActivity>
+    <mConfigActivity type="258-10-99-2-99-9-45">com.tencent.ig/com.epicgames.ue4.GameActivity</mConfigActivity>
+    <mConfigActivity type="258-10-99-2-99-2-45">com.tencent.tmgp.wuxia/com.tencent.tmgp.wuxia.ApolloWuxia</mConfigActivity>
+    <mConfigActivity type="258-10-99-2-99-9-45">com.riotgames.league.wildrift/com.tencent.lolm.lgame</mConfigActivity>
+    <mConfigActivity type="258-10-99-2-99-9-45">com.riotgames.league.wildrifttw/com.tencent.lolm.lgame</mConfigActivity>
+    <mConfigActivity type="258-10-99-2-99-9-45">com.riotgames.league.wildriftvn/com.tencent.lolm.lgame</mConfigActivity>
+    <mConfigActivity type="258-10-99-2-99-9-45">com.netease.mrzh.nearme.gamecenter/com.netease.mrzh.Client</mConfigActivity>
+    <mConfigActivity type="258-10-99-2-99-9-45">com.netease.mrzh/com.netease.mrzh.Client</mConfigActivity>
+    <mConfigActivity type="258-10-99-2-99-9-45">com.netease.mrzh.bilibili/com.netease.mrzh.Client</mConfigActivity>
+    <mConfigActivity type="258-10-99-2-99-9-45">com.netease.mrzh.mi/com.netease.mrzh.Client</mConfigActivity>
+    <mConfigActivity type="258-10-99-2-99-9-45">com.netease.mrzhna/com.netease.mrzh.Client</mConfigActivity>
+    <mConfigActivity type="258-10-99-2-99-9-45">com.pubg.imobile/com.epicgames.ue4.GameActivity</mConfigActivity>
+    <mConfigActivity type="258-10-99-2-99-9-45">com.tencent.tmgp.cf/com.tencent.tmgp.cf.AFMainActivity</mConfigActivity>
+    <mConfigActivity type="258-10-99-2-99-9-45">com.netease.sky.nearme.gamecenter/com.tgc.sky.netease.GameActivity_Netease</mConfigActivity>
+    <mConfigActivity type="258-10-99-2-99-9-45">com.netease.moba.nearme.gamecenter/com.netease.g78.Client</mConfigActivity>
+    <mConfigActivity type="258-10-99-2-99-9-45">com.netease.moba/com.netease.g78.Client</mConfigActivity>
+    <mConfigActivity type="258-10-99-2-99-9-45">com.netease.moba.bili/com.netease.g78.Client</mConfigActivity>
+    <mConfigActivity type="258-10-99-2-99-9-45">com.netease.moba.mi/com.netease.g78.Client</mConfigActivity>
+    <mConfigActivity type="258-10-99-2-99-9-45">com.netease.g78na.gb/com.netease.g78.Client</mConfigActivity>
+    <mConfigActivity type="258-10-99-2-99-9-45">com.netease.onmyoji.nearme.gamecenter/com.netease.onmyoji.Client</mConfigActivity>
+    <mConfigActivity type="258-10-99-2-99-9-45">com.netease.onmyoji/com.netease.onmyoji.Client</mConfigActivity>
+    <mConfigActivity type="258-10-99-2-99-9-45">com.netease.onmyoji.bili/com.netease.onmyoji.Client</mConfigActivity>
+    <mConfigActivity type="258-10-99-2-99-9-45">com.netease.onmyoji.mi/com.netease.onmyoji.Client</mConfigActivity>
+    <mConfigActivity type="258-10-99-2-99-9-45">com.netease.onmyoji.gb/com.netease.onmyoji.Client</mConfigActivity>
+    <mConfigActivity type="258-10-99-2-99-9-45">com.sofunny.Sausage/com.funny.FunActivity</mConfigActivity>
+  </filter-conf>
