@@ -1,0 +1,5 @@
+47001,Grameenphone,Grameenphone
+47002,Robi,Robi
+47003,Banglalink,BL
+47004,Teletalk,Teletalk
+47007,Airtel,Airtel
